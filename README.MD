@@ -194,5 +194,3 @@ many ways, including:
 
 PyABSA is released under MIT licence, please cite this repo (or papers) or attach the author information in your work
 (repository, blog, product, etc.)
-
-change
