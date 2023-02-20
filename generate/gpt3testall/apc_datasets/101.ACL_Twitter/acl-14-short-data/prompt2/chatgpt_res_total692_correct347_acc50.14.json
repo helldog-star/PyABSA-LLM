@@ -1,0 +1,4846 @@
+[
+{
+"sentence": "shaquille o'neal to miss 3rd straight playoff game | The ... : $T$ will miss his third straight play ... .",
+"aspect": "shaquille o'neal",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Dear justin , Gray Hoodies turned into Leather Jackets , '' Ay ! '' turned into '' Swag '' , u grew up , and we 've been here all the way . RT i u love Bieber \u2665",
+"aspect": "justin",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "received my google wave account today ! sorry have no invites , but i will spread the love if i receive any , thanks twitter community !",
+"aspect": "google wave",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "epascarello I know ! Man I get pissed when I try to copy a link from google search results and paste it in a forum or whatever .",
+"aspect": "google",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Is it just me , or does john boehner sound like a newsman ? Sounds like he belongs on CBS Nightly News .",
+"aspect": "john boehner",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "al gore 's Next Invention : The Future of Books ? -LRB- Cheap Shot , But Cool application -RRB- . - by lizgannes startup",
+"aspect": "al gore",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lindsay lohan looking gorgeous in nyc - 10/14 : here are new photos of $T$ helping launch the new velve . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "so my latebus still sucks , but my ipod is n't dead this time : -RRB-",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "new post on legality of the war -LRB- or lack thereof -RRB- . featuring a very scholarly exposition by biden in 1998 . -LRB- Really ! -RRB-",
+"aspect": "biden",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i like britney spears new song ... i wan na hear it now = -LRB-",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "about to hack my nintendo wii so it can play dvds . i 'm a geek .",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i know eh ? my interviewer pulled out a completely random dynamic programming problem google wave ' is been working on for months !",
+"aspect": "google wave",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "MRice007 Apple Survey - What is your opinion of Apple Products ? ipad sucks ? apple .",
+"aspect": "ipad",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "installed windows 7 . its real nice . its kust a shame no drivers for seven . had to install and go back to experience : -LRB-",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "bloooood mother fuckaa kall me red alert feed that bitch penis until ha head burst !! - weezyneed an xbox controller",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Fashion Soulmates selena gomez and Victoria Justice : Who 's Hotter ? - Gather Celebs News Channel .",
+"aspect": "selena gomez",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a static lullaby - toxic -LRB- britney spears -RRB-",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "god of war psp is very satisfying .",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "chessed . . like why tf is my mom sleeping in the living room ? = / like wtf , now i ca n't even blast ' e.t - katy perry ft . kanye west ' -LRB- and -RRB-",
+"aspect": "katy perry",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "' green island ' - xbox live independent games showcase '' mtv multiple : the japanese went even crazier for & . .",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lindsay lohan begins blame game : $T$ begins the blame game . lindsay started reeling off excuses for with . .",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "np party in the usa - miley cyrus udh lama ga dengerin ini lagu wwkwk : D",
+"aspect": "miley cyrus",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Just saw Stephen Colbert and The Roots covering Friday on the jimmy fallon show . Funny stuff .",
+"aspect": "jimmy fallon",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' Anyone who helps keep sarah palin from high office merits at least one Nobel Peace Prize , if not more . '' - SD , TTLG Forums",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "'' I 'm presidential when I flow , yo it aint hard to tell that I Ba-ROCK the show obama self '' - tablo",
+"aspect": "obama",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "just watched '' raising arizona '' again - forgot how much i love that movie . back when nicolas cage made good movies ...",
+"aspect": "nicolas cage",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "RT jaimemorelli : I would love to see a nuanced comparison of google television vs . hooking up my television to a Mac Mini and buying a wireless keyboard ...",
+"aspect": "google",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "psp 1.5 ~ ~ news / / japan roundup : virtual $T$ eleven fest console go ! best of gamesetwatch : fr",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "just started liking two songs i hated when they first came out : radar - britney spears , sexy bitch - david guetta feat . akon .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "\u2714 Acting skills \u2714 Great Voice \u2714 Nice Hair \u2714 Hilarious \u2714 Adorable \u2714 Talented \u2714 Gorgeous = PERFECT and that must be miley cyrus ! < 3",
+"aspect": "miley cyrus",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Waiting for jimmy fallon james franco is but that video of the chick on jay keno was funny the gardners face was priceless",
+"aspect": "jimmy fallon",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "miley cyrus is another petulant girl like britney spears , i love dakota fanning is another type of person .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "twitter question : whose made more bad movies ... nicolas cage or jennifer aniston ?",
+"aspect": "nicolas cage",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i would kill for a 1 hour sit down interview with britney . Ugh i wish she was allowed to speak .",
+"aspect": "britney",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "iloveitwhen the lakers do they thang ... shoutout to all the laker haters",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I love cascada New song it remind me of something madonna would do",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "In the S&M remix with britney spears , she sounds like a nasal , congested 5 year old talking about sex . .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Listening to '' blazing -LRB- feat . Kanye West -RRB- '' by nicki minaj and loving it ! See the video & lyrics : .",
+"aspect": "nicki minaj",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we were just regaling a student worker with horror stories about doing repetitive boring work in the pre - ipod era .",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i wish it was always the weekend . i look like ass today , you would 've thought i was partying it lindsay lohan style this wknd .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Ugh ! A girl in my form just made what I like to call and ' ashton kutcher face ' if you 're wondering . . Its stupid . I hate his face . .",
+"aspect": "ashton kutcher",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "I used to have all the records gaga 's broken & set memorized , but now there 's too many to remember . lady $T$ fuck you , you 're too awesome !",
+"aspect": "gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Watch ' Glee ' Star Darren Criss and Warblers Sing for ellen degeneres : Filed under : television News ' Glee ' star Darren Criss led the Warblers ...",
+"aspect": "ellen degeneres",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "hillary clinton arrives to clinch Northern Ireland peace deal - Telegraph",
+"aspect": "hillary clinton",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"hillary clinton\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Kris Jenner Slams khloe kardashian for Gaining Weight : Religion and the royals ! The Archbishop of Canterbury , wh ... .",
+"aspect": "khloe kardashian",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "love selena gomez !!!! she rock !!!!!!!!!!!!!!!! and she 's cool she 's my idol",
+"aspect": "selena gomez",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "thehils Heard great things about the ipad for speech/communication . Educational discounts are problem best bet . Maybe Thanksgiving ?",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Jamie fox , Eddie Murphy , and barack obama because they all are exciting , cute , and inspirational to lots of people including me !!!",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears new song is about a threesome . but its 2 guys one girl ? i believe that 's called a gangbang . dirty britney .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Bret Easton Ellis : How charlie sheen Is Giving Us What We Want - The Daily Beast . -LRB- via Instapaper -RRB-",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "justin love and if he 's happy , I think that we will be happy beliebers . Whether or not with selena gomez .",
+"aspect": "selena gomez",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Prince Brings Out alicia keys For '' How Come You Do n't Call Me '' Duet : If you did n't get anything good in your E ... .",
+"aspect": "alicia keys",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "labor pains is a complete trash , no wonder lindsay lohan had sunk nowhere .",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "back in love with my psp ! thanks rockstar !!!",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "virile heavenly host nicolas cage",
+"aspect": "nicolas cage",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "mix barack obama furious at General Stanley McChrystal speech on Afghanistan - Telegraph : The relationship . .",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "You Tube Admits To Censoring View Count On biden Impeachment Video : Steve Watson | Youtube has admitted to freeze ... .",
+"aspect": "biden",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Whatever , iPad . Look at this . charlie sheen quotes as New york cartoons . So genius I almost ca n't process it . .",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "a naughty mickey mouse makes appearance on disney epicmickey for wii",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "interesting alternative iphone interface -LSB- thenextweb.com -RSB- -LSB- shared by 12 people -RSB- -LRB- so . .",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"iphone\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears ' music has gotten progressively worse . she sings less and less and relies upon melodyne to make her boice sound like crap !",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i want a psp damn it !",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "is obama trying to be just like jimmy carter ?? he 's doing a pretty good job so far ... icon | he has passed jimmy !!",
+"aspect": "jimmy carter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "A . Valentin played a song Come On Get It by lenny kravitz on Myspace .",
+"aspect": "lenny kravitz",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "click4 pictures & clips ! lindsay lohan sucks at fashion , employment : bad business decisions are . .",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "* faints * john legend , ufunani manje ? selimathunziauditions",
+"aspect": "john legend",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "at eva 's house playing the wii resorts ha , i suck man . but i came first in wakeboarding ! : d",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "my ipod is not letting me go 2 myspace now !!! ugh love myspace !!! talk 2 me in facebook or twitter",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Yikes ! RT Here 's that terrible sarah palin women ! OMG ! Sanctuary OMG for sure SGU Sanctuary",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Although I wish it was , I do n't think think jelena is a publicity stunt . I WANT HIM TO GET WITH taylor swift . OMG . WOULD MAKE MY LIFE . : -RRB-",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "ashton kutcher and Demi Moore on Human Trafficking : ' No Young Girl Chooses To ... .",
+"aspect": "ashton kutcher",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "milkuk | hollywood star supports baby unit : movie actor nicolas cage visits bath ruh to . .",
+"aspect": "nicolas cage",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "nicki minaj : I look like yes and you look like no . < Really ? Do n't even get me VEXED ! I WILL SMASH My LAPTOP ! LOL",
+"aspect": "nicki minaj",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "im bored so im playing animal crossings city folk on the wii . i love this game lol .",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "bored to death with britney spears",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "I love this ! steve jobs does n't know what the phone can do , says Adobe | News | TechRadar UK",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "RIGHT HEREEEE !!!! * waka flock voice * RT BigJamaal : lakers Where y' all at ?",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "`` badd_liqhtskin : harry potter was onn point ; loved it -LSB- : ''",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "the sentiment polarity of the target aspect \"harry potter\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "ca n't get a motorola droid without paying full retail . will probably be much cheaper to cancel my verizon account and unlock an iphone .",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "maradona set for more misery in Montevideo : Diego $T$ takes his beleaguered troops to the Estadio Centenar . .",
+"aspect": "maradona",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "MSM has not once mentioned Bill Maher 's repulsive characterization of sarah palin . Now has been very quiet as Sarah is not a Democrat .",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "checking out the new xbox features . like this .",
+"aspect": "xbox",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "thank you ! wescky do you have the new kindle ? what do you think about it ?",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"kindle\" in the above sentence is neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "anyone have good advice on whether to purchase games for ps3 or xbox 360 when both are available ?",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "scottygkfan So Deron Williams says '' hate '' about the lakers . Where is the fallout and uproar over that ?",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "the sentiment polarity of the target aspect \"lakers\" in the sentence is negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i love britney spears . twitterfession",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "what is the best harry potter movie for you ?",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "3 : britney spears britney fantasy midnight edp perfume spray",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "RT enormego : How is there no '' Do n't sync iPhone-only apps '' option for ipad ? iTunes insistence on syncing all of my phone apps is FUCK ...",
+"aspect": "ipad",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Hey google , thanks for all these great Labs features on Chromium , but how about '' Create Application Shortcut '' ?! .",
+"aspect": "google",
+"gold": "positive",
+"chat_gpt": "the sentiment polarity of the target aspect \"google\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "obama Updates : Cutting Latin America Trip Short ; Nobel Peace Prize Under Attack . nobel peace",
+"aspect": "obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "help me a problem with windows 7 ultimate ? : i have an alfa wireless adepdter and its usb awush32h -LRB- something look . .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "songs of britney spears nowadays are stupid ... non sense things ... it 's all about sex !! geeezzz ...",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "taylor swift was awesome ! : D",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "One thing I hate about being a sports fan is that it hurts every time you realize your team is done ... being a lakers fan is a buffer lol",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Ardiles backs maradona for World Cup glory",
+"aspect": "maradona",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"maradona\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "im about 2 snap ; like wtf , why does britney spears sucking a penis keeps following me ; like grrrr its like 5 = /",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "LittleMonsterx _ hey I 've had a lady gaga day listening to all her songs from my pod up full = amazing !",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "bus driver just beeped at incredible idiot skateboarding down mlk blvd on the road with ipod headphones on .",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": ". . '' If you wan na make world a better place take a look at yourself then make that change '' - micheal jackson . -LRB- misses him , real prodigy , great human -RRB-",
+"aspect": "micheal jackson",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "on CMO . com : Compelling piece on why john mccain & WSJ should not decide Internet 's future . .",
+"aspect": "john mccain",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "news Update US Senate panel to vote on healthcare - President barack obama ' is push for reform of the US healthcare is ...",
+"aspect": "barack obama",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "ooc : that ipod touch stealer will come to justice thanks to the plated engraving on the back .",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Any fans of harry potter out there ? Ginny ? Bonnie ?! Well , '' bonwrightx '' is the real one ! Not '' BonnieWrightx '' so do n't be fooled !",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "it 's official : george bush was such a bad president that you can win the nobel peace prize just by not being him . fb",
+"aspect": "george bush",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "aww , it 's okay ... you have a psp . :d that 's good already . :-RRB- -RRB-",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yes he does ! it paid for his liver ! - '' steve jobs does n't know what the phone can do ''",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Did barack obama deserve the Nobel peace prize ? : This week it was announced that the American president had won . .",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Even more so than paris hilton being racist in her video - it chills me to the bone when she makes fun of people for being '' poor . '' She sucks .",
+"aspect": "paris hilton",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "sorry but i had it with gaga , its old fashion what she does , come with a new are ... -LRB- YouTube . -RRB-",
+"aspect": "gaga",
+"gold": "positive",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "lady gaga , Michael Jackson , Akon : What Happens When Gigs Go Bad : $T$ 's earned a reputation for delivering ... .",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "totally managed to kill the right side of the audio on my ipod :-LRB- killed the left one on the old $T$ ... yes im an apple product killer !",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "net zo bad als micheal jackson ' s bad .",
+"aspect": "micheal jackson",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i agree !!! super strenuous ... machiam like watching harry potter movie ... SUPER LOOOONG !",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "you 're trying to pee & britney spears is echoing off the cubicle walls ... but you do n't hate it like you know you should . y/n .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "losing my religion for equality , by jimmy carter -",
+"aspect": "jimmy carter",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"jimmy carter\" in the sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "demi lovato fans act like she has cancer or something . Dang people , StayStrongDemiLovato ... Really ? Poor depressed rich pop star : ' -LRB-",
+"aspect": "demi lovato",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "merrier the more ! triple fun that way amandabynes '' 3 '' - britney spears :-RRB- yeessss graaccyyyyyyyy ! i miss you !!!",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "is the lindsay lohan : > bossy in good",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "second round of the windows 7 install . looks like x64 is not supporting our apps like i hoped . $T$ x86 here i come .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i hate george bush . there , i just qualified for a nobel peace prize ! woohoo ! morons . tcot",
+"aspect": "george bush",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "surprised with this weeks wii game releases - rock band lego : -RRB-",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "justin bieber Pranks Willow SmithCheck out this video on YouTube : .",
+"aspect": "justin bieber",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lindsay lohan ' s genius lips !!! - sexy stepfather & gossip girl ... : please rate/comm . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "nick cannon face is annoying !!!!!!!! Smh",
+"aspect": "nick cannon",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "imagine me : i want you be '' Cedric Diggory '' on harry potter jailbait justin : lol . . you love $T$ right ? me : yes ! lol",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this max records is adorable ! i 'll be so sad when he wears ed hardy shirts , goes to rehab and starts banging lindsay lohan .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "beginning the great kindle experiment ... wish me luck . although i 'm not sure if i want it to be good or not .",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lost everyone phone damn iphone updates ! please text me first n last names to 7076957463",
+"aspect": "iphone",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i love you britney spears but i do not like your new song : / * changes channel",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Thank you , Secretary of State hillary clinton , for helping us resolve the feud ! = -LRB- via ButtercupD -RRB-",
+"aspect": "hillary clinton",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "rt Is sarah palin Really Serious about Politics . -LRB- And if she is , she needs some better advisers . -RRB- I blog :",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "xbox microsoft customer support is fucking garbage ! i will be buying playstation for my next console for sure .",
+"aspect": "xbox",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "watching a madonna concert , they are really cool , and she sings awesome in live : -RRB-",
+"aspect": "madonna",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not done so well in the music round . n.b circus by britney spears is not x factor",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "excellent idea . i 'm gon na be like the steve jobs of socks .",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "jimgeraghty : Inspired by EdMorrissey : Thank goodness we did n't elect john mccain . He might have actually closed Gitmo .",
+"aspect": "john mccain",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "daniel radcliffe is super adorable . he is great on jimmy fallon right now .",
+"aspect": "jimmy fallon",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Simply_Brianah _ Hayley_G Europe ... Do n't ask how I know . . LoL . RT LaLaLaLove_Jas : Where 's lady gaga ??? .",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Hillary has no desire to rule the White House : US Secretary of State hillary clinton says that she would not co . .",
+"aspect": "hillary clinton",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "just saw those annoying twins do britney spears on the x factors ... so so painful , it 's like watching a car crash !",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Just discovered the google Scholar search feature . A great tool & quick way to find scholarly articles for research papers $T$",
+"aspect": "google",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "checking out the new psp minis that came out last week -- the mahjong game is n't bad . pretty slick .",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "At first glance I thought you said harry potter would sleep well tonight ! Phils win ! Harry Reese will sleep sound tonight .",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "sarah palin is like a GITMO detainee : We do n't want to keep her , but we ca n't find anyone willing to take her .",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I want Miley Cyrus 's hair , Taylor Swift 's voice , Jasmine V 's smile , Ariana Grande 's eyes , but most of all I want selena gomez 's boyfriend .",
+"aspect": "selena gomez",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "justin bieber , Rihanna , nikki Minaj to Release Japan Aid Album !! .",
+"aspect": "justin bieber",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Forbes.com Watch video that suggest how to present like good pal steve jobs :",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Last Kiss By taylor swift Is Like The Saddest Song I 've Ever Heard : -LSB-",
+"aspect": "taylor swift",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "thank you corwinhoover for coming through with a google wave invite ! ca n't wait for google to kick out the mail !",
+"aspect": "google wave",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Happiness is amazing madonna remasters . Next Do n't Stop Moving is a Madge special , 14 November , facebook event hurr :",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "my boyfriend does n't believe i married lindsay lohan stunning ! so , would you like to ?",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "She gone say if this bitch paris hilton do n't just sell perfume and sit down somewhere she silly man lol",
+"aspect": "paris hilton",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "is there a song with Ginuwine and mariah carey in it ? because if there was , it would probably sound really good ...",
+"aspect": "mariah carey",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "heaven must be missing an angel ... and that angel happens to be lindsay lohan . we want the old lindsay , not that trainwreck one , back .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "britney spears - monster -LRB- new 2009 -RRB-",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' I got that good good , i ` m micheal jackson bad , he attracted to my attractive ass !! '' : -RRB-",
+"aspect": "micheal jackson",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "SimplySmileXO : I love your lady gaga tweet !!!!! : D",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay lohan tweets her heartbreak about girlfriend samantha ronson : new york daily news by joe dziemianowicz . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "* nods slowly * and i would not blame you . of course , i suppose it could be worse . he could be singing britney spears songs .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "russell brand is an annoying little FUCK who should be deported and never allowed to return to America rustyrockets",
+"aspect": "russell brand",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Watching oprah with Goldie Hawn regarding happiness should be interesting",
+"aspect": "oprah",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "sorry to inform you mason but i just ate your windows 7 disk ... so it now going to take even longer !",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "You notice how gag and paris hilton deleted tweets not knowing what happened last night ? They do n't really care .",
+"aspect": "paris hilton",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "trscoop I search for Snidely Whiplash and get that . Whatever new algorithm google is using certainly turns up weird results .",
+"aspect": "google",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i have just found this awesome application for my iphone which i am now totally addicted to !! seriously night tweeters :-RRB- :-RRB- : -RRB-",
+"aspect": "iphone",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "riovegas anxious to begin setting up my new dell studio desktop pre-loaded with windows 7 .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "coloquem oh ' making the video ' de britney spears - toxic , pra concorrer no ' minha mtv ' , por favor",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "n britney spears sucking penis i see her following you 2 ... so we got each other now bruuuh ! your approved your kinda funny aaaawww : - -RRB-",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "no school today . ha . now im just jamming to britney spears . ugh , i love her . her musics legitimate , better than madonna ! muhaha",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I Cant Wait for harry potter and the half blood prince to come out on dvd december 7th !!!",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "better now . with in town watching that mjackson movie . i have wii bluray and television all to myself . oh . what to do first ?",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "all this moving , i 'll be dropping pounds like how britney spears drops babies ... : p",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "setting up internet on psp -LRB- : it better work lol",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "eliminate professional , a first person online shooter for the iphone is now out , and its free . on top of that it got great reviews !",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "np justin bieber - One less Lonely Girl",
+"aspect": "justin bieber",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay lohan looks like she is 59 years old and has been rode hard and put away wet . meth face much ?",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "'' three '' is the new song by britney spears and i love it !",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Test out an Apple ipad or Amazon Kindle & Keep it for Free at quick7dollars.com RT purplelover04 RT ZAGGdaily ...",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "who is this and what did she do with the cute lindsay lohan from ' the parent trap ' ?",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "the person in the sentence is lindsay lohan and she starred in the 1998 remake of the parent trap",
+"gpt_label": "the person referred to in the sentence is actress lindsay lohan, who starred as twins hallie parker and annie james in the 1998 disney movie the parent trap"
+},
+{
+"sentence": "ha yeh barack obama ? never thought of him like that but yeh i see where you 're coming from !",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lawl i love how pc thinks that windows 7 is so revolutionary when mac has been doing the same thing for years",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "The homie Trey is hustlin bacwards ... bill gates would never start an Apple trending topic ... any pub is good pub",
+"aspect": "bill gates",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "repair tool screwdriver computer pc laptop box psp gps please move mouse on a photo on the left to view full size .",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "barack obama And The Wisdom Of The Ages Have Clashed , And God Has Won .",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "victoria secret show 2010 , a to the amazing . Love that '' Game On '' lady gaga remix music section .",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yooooo ! listening 2 my damn ipod making me wan na go 2 a damn club . maybe this fri or sat !",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "wow im actually using all 3 usb ports on my xbox 360 . one for my controller charger one for my turtle beaches and last my wireless adapter .",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "seriously what the hell did lindsay lohan do to her lips ? she look like a freaking duck !",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "new moon is coming out in like a month or sooo !! aaaaaaaaaaaaaahhhhhhhhhhhhhhhhhh !! harry potter dvd out soon 22 !!! aaaaaaaaaaaaaahhhhhhhh",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i had lost wifi when i updated to blacksn0w and 05.11 . i just reset my network settings and restarted my iphone . fixed problem",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears monster product by danjahandz just added at",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "noobus Turns out snoop dogg is actually pretty funny .",
+"aspect": "snoop dogg",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "has halloween all put away and fall decor up ! loving my new psp .",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yeah ! then kaileyearly could be like britney spears , and we all know britney is her idol",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "for sale apple iphone 3gs 32gb , nokia n900 , nokia n97 , blackberry curve : welcome to nani mobiles limitedhello b . .",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the modern warfare 2 special edition xbox comes with a 250 gb hard drive . holy shit .",
+"aspect": "xbox",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "waiting for mike to break out his boots and spandex , rip his shirt off , and sing katy perry already .",
+"aspect": "katy perry",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "The campaign to unseat sarah palin from her 1 best selling perch begins . Dan Brown fans sound off at HuffingtonPost :",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Resolved Question : Do the Republican , candidiates John McCain and sarah palin support the $ 700 Billi ...",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "all the toothpaste factories blow up ? making the air fresh , or did britney spears blow someone a kiss ? problem . $T$ .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "george bush was more worthy of a nobel peace prize . he did try to make the world a better place .",
+"aspect": "george bush",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "tiger woods Wins Nobel Prize For Golf | Cracked.com : Yesterday morning , beloved Nike shill $T$ was awarded . .",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "barack obama rallies doctors on healthcare reform ahead of Senate vote ; Arm twisting The Chicago Way -LRB- have your legs broke -RRB- HCR",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Sammy Hagar claims an alien abducted him . But everybody knows joe biden never abducts anyone . joedoesntevenknowhesvicepresidentyet",
+"aspect": "joe biden",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "notice that he cobbled together his a/v equipment on windows 7 ? it is a pretty nice os . -LRB- nr 's link :",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "' The Wizarding World Of harry potter ' Theme Park : FanBolt . Com This park might just be the closest '' mug . .",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "getting to follow your celebrity life , i do n't even miss britney spears on twitter .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Kyle Korver does not look like no damn ashton kutcher ... who told that lie",
+"aspect": "ashton kutcher",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "I liked a YouTube video -- Ian Carey ft . snoop dogg & Bobby Anthony - Last Night -LRB- office ... .",
+"aspect": "snoop dogg",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "obama 's War on the Middle Class : $T$ acts like a political general in the class war -- the war of the government ... .",
+"aspect": "obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "four year strong - love song -LRB- sara bareilles cover -RRB- np",
+"aspect": "sara bareilles",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "if you want to arm yourself , try talking to an iranian about what jimmy carter and his dangerous lib view did to iran tcot",
+"aspect": "jimmy carter",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "lady gaga Please follow me diva ? , you are amazing $T$ , i love you \u2665 Follow me please * -- * 14",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i call you an ironic britney spears fan von bourbon ! well ... i do hope it 's ironic at any rate .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "This is kinda awesome :-RRB- The Ultimate ipad Installation : Kitchen Cabinet Integration - . via pcm73",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "hilary swank = i just do n't find her sexy . she made this movie less interesting . . . although i love '' ps i love you ''",
+"aspect": "hilary swank",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I don care what nebody says , i love harry potter ahah",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "steve jobs ' 2005 Stanford Commencement Address ; very insightful -",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "So the dem fight terrorism do they ? -- barack obama : Taliban can be involved in Afghanistan future",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "It sounds like there may be a replacement for charlie sheen on '' Two and a Half Men . '' What do you think ? .",
+"aspect": "charlie sheen",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "LMFAO I FUCKING LOVE BELIEBERS . I went on omegle and said ' swag ' and now I 'm jaden smith talking to justin bieber . LMFAO",
+"aspect": "justin bieber",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Still learning from Pops . . Who he is and what he 's done ! Life is about relationships . madonna is STILL makin $ because of who she 's around !",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "bill gates ' cousin encouraged me to take a camel from Microsoft . It 's cute and sitting on my table .",
+"aspect": "bill gates",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "AZTeamsAllDay RT connerysteph RT if you are lakers",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i love britney spears , and from there ?",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "`` kevinrose : Only brought my ipad on the trip , the lack of multitasking sucks at first but kinda forces you to be more mindful/zen . '' hmm . .",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"ipad\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "ICON THURSDAY - If you missed last week , enough said !!! Get yeah ass there early arod Atown_Finesse -LRB- continued -RRB- .",
+"aspect": "arod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "omg you suck , uh , f nicolas cage , marry jdepp , and kill clooney lmfao i am horrible",
+"aspect": "nicolas cage",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "ms dhoni - The reservoir of self-contained confidence : Mahendra Singh Dhoni speaks with a peculiar kind of hones ... .",
+"aspect": "ms dhoni",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "just got hold of an ipod . . it will be fun learning how to use it on the bus trip to canberra this monday",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "them looks like a sorcecorress . okay harry potter , okay",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Fuck the lakers I 'm A TeamBrownskin Fan All The Way ; - -RRB-",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "No scientific evidence supports multiple sets being better at building muscle , yet the arnold schwarzenegger Workout prevails . Why ?",
+"aspect": "arnold schwarzenegger",
+"gold": "positive",
+"chat_gpt": "the sentiment polarity of the target aspect \"arnold schwarzenegger\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' What did you say read like harry potter ? -- Aristotle ? ''",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "my vista-laptop has entered a stage of total unresponsiveness . i hope windows 7 truly is faster and less likely to slow down in use .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay lohan \u00e9 a bitch eterna .",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "'' living in sin is the new thing . . '' ahahahhahhhhh i love britney spears !!!!! sorry ya 'll i had to",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lady gaga : ' I do n't feel like a superstar ' : By Kate Goodacre , News Subeditor $T$ has revealed that she sti ... .",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "John Ransom : Tax Congress ! : barack obama , Nancy Pelosi and Harry Reid want you to know that the rich are out of ... .",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Weird Al Gets The Go-Ahead From Lady gag For Parody : -LRB- RTTNews -RRB- - It looks like weird al yankovic will be able t ... .",
+"aspect": "weird al yankovic",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "thanks for the follow ! it 's nice to see others using google wave , it 's such a neat collaboration tool , what are you using it for ?",
+"aspect": "google wave",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "charlie sheen Secret Third Girlfriend Megan Levant ? : $T$ reportedly has a secret third girlfriend who ... .",
+"aspect": "charlie sheen",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "star : lindsay lohan hits rock bottom , is `` obituary waiting to happen ''",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Got ta Light Skin Friend Look Like micheal jackson Got ta Dark Skin friend look like $T$ . . LMfao im crying off that RIP MJ though",
+"aspect": "micheal jackson",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Fuck me katy perry was so good last night !!",
+"aspect": "katy perry",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Love 4.2 on my ipad , but not sold on the silent switch . I preferred it as a orientation lock .",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i don wan na dream about all the things that never work ... out from under - britney spears",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lady gaga is more gaga than she is a lady .",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "martha stewart Crafts Peg Stamp Starter Kit : $T$ Crafts Peg Stamp Starter Kit Create elegant wreaths ... .",
+"aspect": "martha stewart",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "reminds me of the madonna with little felix video 1989 , you can sweep our chimneys for real authenticity",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' Levi Johnston , father of sarah palin ' s grandson , to pose nude for Playgirl '' ... as if this farce ca n't get more crazy",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "charlie sheen your fucking annoying",
+"aspect": "charlie sheen",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "RobKardashian Since you live in LA you must be lakers fan ... Love the $T$ ... Go $T$ . . please do n't say the Kings or Clippers",
+"aspect": "lakers",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "top rated today : lindsay lohan ' s genius lips !!! - sexy stepfather & gossip girl threesome xoxo : . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lol do you like beautiful life of lindsay lohan ???",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "george bush '' the war president '' barack obama '' the peace president '' \u263a .",
+"aspect": "george bush",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Her smile , Her laugh , Her hair , Her chin , Her personality , Her voice , everything about her ! Yeah ! I love her ! demi lovato \u2665",
+"aspect": "demi lovato",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Interesting ! How to present like steve jobs",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"steve jobs\" in the above sentence is neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "britney spears is meandering on a beach : the blemish by the blemish , 8:46 am on oct 19 , 2009 , 0 comments here & 3 . .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "ooc : * gags * no offense . . but i hate britney spears . . so i would rather gargle battery acid then do a music video to that . .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "wow ! i love it ! < 3 my britney spears 2010 calendar has arrived ! look >> >",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "On sarah palin ' s book '' Going Rogue '' is that like going commando ? nounderwear",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "windows 7 news $T$ upgrade workaround a ' hack ' ? - redmond channel partner : new zealand hera . .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "He said '' She got that GOOD GOOD ` , She micheal jackson BAD ` , & & I ` m attracted to her , With her attractive ass ! '' = D",
+"aspect": "micheal jackson",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lindsay lohan is the best yeah !! < 3",
+"aspect": "lindsay lohan",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "watching harry potter 1 ! omg , he looks so young and adorable compared to now . now hes just old and grody :P getting dressed to do something , ily ! < 3",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "rt make sure your inthe loop read about , kanye , lady gag , britney spears , swine flu , obama , fashion , food , twi . .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Dudley Moore as Arthur is on . I wonder how russell brand will do with his version . The former did not interest me much , I wonder ...",
+"aspect": "russell brand",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I ca n't get my charlie sheen on if y' all not voting duh I 'm talking about WINNING so help me start WINNING by y' all voting show support",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "pretty good demo of how google wave is likely to change the way we communicate and work ...",
+"aspect": "google wave",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Had no idea , what a brave lady ! Maggie Smith continues to film harry potter , fighting breast cancer",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "fuck you micheal jackson , madonna is the best performance EVER ...",
+"aspect": "micheal jackson",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "freaky friday on television reminding me to think wtf happened to lindsay lohan , she was such a terrific actress , + my huge crush on haley hudson .",
+"aspect": "lindsay lohan",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the singles collection : edition details - britney spears : learn all about the track listings and bonus features . .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "musicmonday best britney spears cover ... ever . oops i did it again .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "harry potter time suckah !!",
+"aspect": "harry potter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "rocking out on the bus . i love my ipod .",
+"aspect": "ipod",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": ": Obama winning the Nobel Peace Prize is like sarah palin winning the Nobel Prize for Literature .",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "did microsoft steal code for a windows 7 utility ?",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i 'm sick of these fake britney spears giving head video icons and pornstars following me . . they need 2 get me in the porn industry asap lol",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "charlie sheen 47 , is all over the news because he 's a celebrity drug addict . While Andrew Wilfahrt 31 , Brian -LRB- continued -RRB- .",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "freshening up the ipod . . who 's got suggestions for some good beats ? music",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i like winamp , but since getting my ipod touch i use itunes . and it 's growing on me .",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Elizabeth Taylor \\ 's Last Tweets : DameElizabeth on Love , Death and kim kardashian . via forbes",
+"aspect": "kim kardashian",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "watching harry potter and relaxing trying to ignore my bed calling xx",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "kai reply harry potter cha itka fan aahes . . gmail war pan hyach id ni yetos",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Kinesio Tape , worn by other top sports stars like David Beckham , Ashley Cole and serena williams , closely supports ... .",
+"aspect": "serena williams",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "simon cowell goes george bush on our asses - misunderestimated ? and how the hell does he look that good at 50 ? xfactor",
+"aspect": "george bush",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i hope the songs of britney spears will be good just like right now the next 20 years ! delayedtweets",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "best britney spears jazz cover ever ? you decide",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "you have been invited to google wave . hopefully it will get there in the next few days .",
+"aspect": "google wave",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "RachelMTwat Apple Survey - Are Apple products any good ? ipad sucks ? mac .",
+"aspect": "ipad",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "been playing with windows 7 a bit , i must say i 'm not disappointed yet . though i 've seen some nifty os x like ui design along the way . .",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Love your job just like Dan : . Come to palantirtech 's talk tonight , 6p in 2405 . ipad and Del 's in addition to job-love .",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "- Come on , don even pretend the guy in the middle doesnt look like tiger woods . And look at his last name ! Wha ...",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everytime we think lindsay lohan hits rock bottom , she goes lower . . bitch ca n't ever bounce back ...",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "If Justin Bieber , demi lovato or Cody Simpson do n't follow you . Do n't worry , i help us -LRB- MUST following >> TheBieberBear !!!",
+"aspect": "demi lovato",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "a judge has extended lindsay lohan ' s probation on drunken driving and other criminal charges for one more year , . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Taking debating advice from Dan Quayle ? Or sarah palin ? Also . tcot sgp",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "britney spears is not essay music . Her album has made me unbelievably unproductive .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I just took '' 15 and Pregnant - A justin bieber Love Story -LCB- ALL ... '' and got : part :-RRB- What Did We Do Last Night ?! Try it : .",
+"aspect": "justin bieber",
+"gold": "positive",
+"chat_gpt": "the sentiment polarity of the target aspect \"justin bieber\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Woods , Stricker prove a perfect pairing : Will tiger woods or Steve Stricker make it three in 2009 ? Below is Tiger & . .",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "DevinEbanks3 you played great tonight keep it up Devin get that Ring lakers",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I wish my black ass would thought up writing those damn harry potter books . that chick mega rich of that bullshit .",
+"aspect": "harry potter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I love justin because he is perfect and is my inspiration believer forever ! I have a fever Bieber ! \u00a1 ! \u00a1 ! \u00a1",
+"aspect": "justin",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "page 12 of comedy videos . will ferrell as george bush , trunk monkey , and some hilarious pranks",
+"aspect": "george bush",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "nowplaying \u266a '' You Do n't Have To Say You Love '' by Dusty Springfield \u266a Oldies iPhone4 or ipad iTwines followmejp .",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I hate harry potter . Dobby died and if fred and george die i will have no reason to watch those stupid movies and e more .",
+"aspect": "harry potter",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Q - what is the first reaction if you mention justin bieber ? A - I would smile , and hug him < 3 - Kylie .",
+"aspect": "justin bieber",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "downloading britney spears discography for ang , i think it 's funny enough to tweet : -RRB-",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "' Hes like what ? 15 and shes like 72 ' Zippy earlier today on the topic of Jesus Luz and madonna while filming the Jess and Zippy Show ...",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "fun ! thinking i should have waited for one , i 'm having a lot of problems with my iphone : -LRB-",
+"aspect": "iphone",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "lady gaga Please follow me diva ? , you are amazing $T$ , i love you \u2665 Follow me please * -- * 7",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "hp udh 100persen . psp udh siap . kipas sate jg udh siap . lets turn off the light pak pln ! ayem redi !",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "verizon positioning their ads to respect the iphone but throw daggers at at & t . this has steve jobs all over it",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears debuts no . 1 on the billboard hot 100 with her worst song ever . ugh .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": ": ha , no sorry mal . My loves right now are . rain , harry potter , and the holiday reason",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "gon na either play team slayer , or lone wolf , left 4 dead 2 releases for the xbox 360 on november 17 , 2009 .",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Obama rules out ' land invasion ' in Libya : President barack obama Wednesday categorically ruled out a land invasi ... .",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Just scribbled 27 sides of pure bullshit in a two and a half hour exam . My right arm looks like one of madonna ' is .",
+"aspect": "madonna",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "first song i listened to on my 15th birthday was ' Fifteen ' by taylor swift < 3 taylorswift13",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "If you have n't heard micheal jackson ' s new song '' This Is It '' , Its AMAZING ! Go gold with retrorewind , it 's on demand .",
+"aspect": "micheal jackson",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lady gaga - never fucking fails :-RRB- .",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "ipod touch has no freaking space left . wtf . 16gb . full . fuck . and i just wanted to add one new song : new fang by them crooked vultures .",
+"aspect": "ipod",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "new wii zelda game on the horizon . good times !",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Healthcare reform bill approved by US Senate panel : There has been a major boost to US President barack obama ' is . .",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i favorited a youtube video -- f1 rocks ! part 3 lindsay lohan introduces no doubt - do n't speak",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Tryna get a wawa not a lady gaga .",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i fixed my kindle because i 'm feckin awesome like that !",
+"aspect": "kindle",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' sarah palin , in her own odd vernacular , is incredibly sort of quotable and eloquent , in her own Palinesque way . '' :",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "hello , is anybody there , any brains left , guess jimmy carter is obamas adviser in his watch he lost nicaragua and iran now honduras y mexico",
+"aspect": "jimmy carter",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "who told taylor swift it was okay to dance like that in those covergirl commercials ? because that 's a pretty funny joke ... notafan",
+"aspect": "taylor swift",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "okay i have 2 admit that '' 3 '' by britney spears - is kinda hot - catchy - after listening 2 it on repeat - it sticks in your head - go britney",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yarby I do n't use it much . I default to google . But I 'm definitely going to play around with it . I 'd love to know how many people use Bing",
+"aspect": "google",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "living in sin is the new thing yeaaaaaaaah ! -LRB- britney spears - 3 -RRB- musicmonday",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Breaking : No Fly Zone expanded to all of Mid-East . This is in effort to keep sarah palin from returning to the United States .",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "katy perry sings what girls wan na do , Taylor swift sings what a girl wants to say , and Bruno Mars sings what a girl wants to hear ... insane",
+"aspect": "katy perry",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "RT CantBTamed : dear world , justin bieber and lady gaga are not the only fucking people on this planet that deserve awards .",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "musicmonday britney spears - and then we kiss -LSB- junkie xl remix -RSB- from the album '' b in the mix : the mixes ''",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "are you trynaa die on twitter > __ < RT DMULAbabyy Fuck the lakers ! Just thought I should add that !",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "britney spears performs this Sunday at Bill Graham Civic ' - sfhaps : fuck yeah I will . .",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "nicolas cage is selling another castle ! | celebrity rumors : : feed ... : maybe he should be a real e . .",
+"aspect": "nicolas cage",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "seriously , the only two girls i would turn lesbian for are . . megan fox & britney spears ; -RSB-",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears when she went crazy and attacked the paparrazzi 's car : -RRB-",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lately we 've been playing easports fifa soccer and tennis rockonmommies what game do you guys play ? love the wii",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "isayhello english -- german : the talking travel dictionary for phone or ipod touch brings in the real fun . .",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "psp as a torrent downloads",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "18 -RRB- Taylor Swift , miley cyrus , Kristen Stewart , Justin Bieber and Demi Lovato annoy me . 100FactsAboutMe",
+"aspect": "miley cyrus",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "my love for hilary swank due to movies like iron jawed angels & freedom writers makes me really want to see it . plus , i hear its amazing .",
+"aspect": "hilary swank",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Coldsteps . Soldier boy ca n't cook like m , micheal jackson ca n't cook like me !",
+"aspect": "micheal jackson",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "freaky friday is worth it if not for anything but jamie lee curtis ' impression of lindsay lohan ' s facial expressions . perfect .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Spring break impression check-list . Tom Delonge : Check ! Rivers Cuomo : Not that bad . Gerard Way : Could be worse . lady gaga : Not even close .",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "finally managed to get safari working properly on windows 7 - yipee !!! : - -RRB-",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "black republicans say 2010 will be their year : -- quote -- when former president jimmy carter said racism was . .",
+"aspect": "jimmy carter",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i know , but it plays so much i 'm sick of it . and there 's like 4500 + songs on my ipod , so i make lots of playlists",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "GlobeGaryDzen I guess they 're acceptable . I just hate when teams are setting up on offense and lady gaga is playing .",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Listening to the new britney album . She 's back !",
+"aspect": "britney",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Can you tell steve jobs from Bill Gates ? -- -LRB- I could have done better than 60 % -- fun quiz ! -RRB-",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Lady gag was awesome on SNL - madonna was stiff as usual - love them both though",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "sexual tension between martha stewart & cookie monster really should not exist .",
+"aspect": "martha stewart",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Ah , I love john mayer < 3",
+"aspect": "john mayer",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "thanks 4 haven me ; -RCB- ... ! itz always love when I come through . . I love your profile picture ! . Is that on madonna ' is booklet ?",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i hate that i have n't had time for zbrush in the past two days ... we need zspheres on the iphone so i can still sculpt on the go .",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Please , no al gore jokes . That one is too tired . It 's the lie that wo n't lie . heneversaidit GOP pPositive",
+"aspect": "al gore",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Miley Cyrus , I want your hair . taylor swift , I want your smile . Demi Lovato , I want your voice .",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "If you are from Argentina do you considering it a good or bad thing that Diego maradona is threatening to quit ?",
+"aspect": "maradona",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"maradona\" in the above sentence is neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "pain ? i thought they were supposed to fix you . i 'm suing harry potter .",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "why is britney spears blowjob following me on twitter ? sometimes its best to not ask questions",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "< 3 the new single of britney spears is , 3 , and is excellent very hottie",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "The Classic Mixtape !!!!!! MashUp , Bmore and 80 's feat MJ , Prince , lionel richie , madonna usw ! ...",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "wow it 's clear that the colors on droid phones are horrible in comparison to the iphone 3gs",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Ew , disgusting - I found a harry potter suck big balls book in my room !",
+"aspect": "harry potter",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "watching parent trap ... quite possibly lindsay lohan ' s best work '' yeah i thought mean girls was good too !",
+"aspect": "lindsay lohan",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Secretary of State hillary clinton stats she will not run for president . I really do n't blame her , it 's very stressful . -LCB- We 'll C",
+"aspect": "hillary clinton",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "it was a skit and madonna missed her cue so that threw off gag ... it was very awkward",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i 'm begging . if anyone has a google wave invite , please stick it deep in your own ass while i destroy everything you live for ... thanks .",
+"aspect": "google wave",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Late night I got so charlie sheen 'd i triedtelling a story some bitch Kayne West me so Chris brown her . .",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "honestly you like a combination between martha stewart and oprah , i think im going to call you '' moprah ''",
+"aspect": "martha stewart",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Woods ensures victory for Americans : tiger woods delivered the clinching point on Sunday as the United States w . .",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "nicki minaj just like basketball wives . . would n't be shit w/o the people she fucking ! fact",
+"aspect": "nicki minaj",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "for like your ipod",
+"aspect": "ipod",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "OH MY FUCKING GOSH ARE YOU FUCKING KIDDING ME ?! lakers GAME WHILE I HAVE PRACTICE . FUCK MY LIFE .",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "my kitten is allergic to britney spears , well her fantasy perfume anyways",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "xGotMileyVirus yeah ... ... . okay now i hate lady gaga LOL",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "gaga 's tune Born This Way is growing on me in a big way . I must say",
+"aspect": "gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "wow miss britney spears has 3.5 am followers . now that 's big ! britneyspears beatcancer",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I 've got the great arpeggio StepPolyArp for ipad .",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "okay , wtf !!! how many times can britney spears sucking penis follow me ? now my followers are up to 84 , tomorrow i will have 7 ... dumb shit !!!",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "okay i have an confession ... i love britney spears new song three ! she 's freaking awesome !",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "obama , obama again ! republicans may not like it ; tough luck george bush wondering why they did not give one for hanging saddam !",
+"aspect": "george bush",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "britney spears - ghalib lands plea deal over assault charge",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Fuck lakers :-RRB- RT DaisyJuice4476 : RT GisyBlvd : RT Amazing __ Doll - Fuck all Laker Haters = -RRB-",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "johnmayer is amazing & i love him !",
+"aspect": "johnmayer",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "okay soooo ... . ummmmm ... ... what is going on with lindsay lohan ' s face ? boring day at the office = perez and tomorrow overload . not good ... . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "charlie sheen : ' Connecticut was best show yet ' : $T$ recovers from his disastrous New York show , praisi ... .",
+"aspect": "charlie sheen",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "barack obama wins the nobel peace prize ? So supposedly '' peace '' now means '' bombing the shit out of people overseas '' . Who ` da thought ?",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Retweet If you love taylor swift . -LSB- Seriously , just retweet . I know you all love her . I mean , who would n't ? -RSB-",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "install has gone okay , a few bubbles . edges are quite difficult on psp go but got there in the end",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "that 's an epic bargain considering i got a 1gb psp memory card for # 80 when they first came out . : |",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "google takes so fucking long to load . = = gon na sleep now .",
+"aspect": "google",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "at the sprint store fixing my phone . trying out the palm pre awesome phone but iphone is better",
+"aspect": "iphone",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "playstation 3 focus hurt the psp : so we need to be focused and gear a lot of our resources back to the $T$ , and . .",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "'' I 'm a Christian and I pray before every show and am thankful for every blessing . '' - justin bieber",
+"aspect": "justin bieber",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i hate my ipod look at my last tweet before the argh one that 's for you",
+"aspect": "ipod",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Today I met Leonardo DiCaprio , arnold schwarzenegger , Lady gag ... I hugged Robert Pattinson and I chilled with Robie Williams . . awesome day !",
+"aspect": "arnold schwarzenegger",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lady gag - christmas tree , britney spears - my only wish , mcfly - rocking robin and the maine 's christmas album :-RRB- i < 3 christmas music",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "got 3 new music cds : matchbox twenty more than you think you are , britney spears blackout , and last but not least u2 no line on the horizon !",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "shit ... another bitch with britney spears sucking penis picture ... stop fallowin me ... i want real people to fallow me",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "who love the jonas brothers , demi lovato , miley cyrus and selena gomez all four of them ??? ME !!",
+"aspect": "demi lovato",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i do n't even like spelling my name . made wii profiles for our pets last night . now they all jog with us in '' $T$ world ! '' fun !",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "In NYC area ? I 'm back at Tekserve tomorrow with GREAT demo of InDesign to PDF , SWF , and ipad . .",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "jaden crys when he hears nicki minaj and drake sing experience but dances when better and snoop d ... : .",
+"aspect": "nicki minaj",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' And accepting Jon Stewart 's award is Jon Stewart . . and stephen colbert apparently . '' comedyawards",
+"aspect": "stephen colbert",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "madonna ' is fashion critic : $T$ ' is daughter Lourdes has vowed never to wear skimpy outfits like her mother .",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "increase troops in Afghanistan the real challenge to barack obama",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Hollywood prefers miss goody two shoes to bad girls : Now bad girls like Tara Reid , paris hilton , Britney Spears ... .",
+"aspect": "paris hilton",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "google wave me please : -RRB-",
+"aspect": "google wave",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "> rcnradiochatnet m\u00eas d niver rcn c / sorteios d v\u00e1rios cds : lady gag david guettamichaeljackson , backstreet , britney spears , chris b . e mto +",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Delightful paris hilton You can makeup for her award show .",
+"aspect": "paris hilton",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' TojuFoyeh : ashton kutcher to replace Charlie Sheen ? They are better off cancelling the show and preserving the shows status ! '' LOL",
+"aspect": "ashton kutcher",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "see , the advantage of a wii fit over the gym is that you can exercise in your underwear without being thrown out .",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "2011myfoxla : Obama to Lay Out His Case on Libya : President barack obama is offering Congress and an anxious publ ... .",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the power hungry women who egged their husbands on . i mean OBAMA or hillary clinton , who are you gon na pick ?",
+"aspect": "hillary clinton",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Can someone explain to me how the hell barack obama won a Nobel Peace Prize ? And for what exactly ? Maybe i 'll win one next year then ... . .",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "the sentiment polarity of the target aspect \"barack obama\" in the above sentence is neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Looks like Chris Brown is jealous of all the attention charlie sheen has been getting ...",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "kris allen covers britney spears . . `` warmud : the american idol winner kris allen went for a special concert and . .",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "have to work extra hard to not dance , while working and listening to the ipod , but it helps defeat the procrastination",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lindsay lohan ' s anguish of lesbian love affairs",
+"aspect": "lindsay lohan",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I just took '' You and justin bieber have been best friends ever since you were babies . why ... '' and got : Part 5 < 3 ! Try it : .",
+"aspect": "justin bieber",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Exc !! Willie Nelson names Neil Young and dave matthews in Farm Aid 2011 line-up .",
+"aspect": "dave matthews",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "homecoming was the shit thank god for britney spears gimmie more because god i gave more on the dance floor lolalexander slone",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "that 's nasty lol it 's suppose to be britney spears lmao",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Quality night , amazing costumes but got ta say lady gaga was the best though . . poor gaga left shoes and phone in my car ha",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "charlie sheen Charity Helping Injured San Fran Giants Fan - by Radar Staff $T$ is starting to use his Vati ... .",
+"aspect": "charlie sheen",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "well since you can walk through them like harry potter it would feel like anything ... and adrian258 showed me the storms co ...",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "AND NOW FUCKING google WANTS MY PHONE NUMBER ! YOU WO N'T GET IT ,",
+"aspect": "google",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i 'm not really sure why , but tonight just flew by & seemed a lot quieter . . partly because the boys were all engrossed in the wii",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "us sports news : Day Three thrills : Day Three thrills Led by tiger woods ' heroics on the final tw . .",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I just took '' 15 and Pregnant - A justin bieber Love Story -LCB- ALL PAR ... '' and got : part11 :-RRB- School Again ... Oh Joy ! Try it : .",
+"aspect": "justin bieber",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I just finished watching The Karate Kid and it was ruined by the sound of justin bieber . damn",
+"aspect": "justin bieber",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "WetinConcern taylor swift with your Taylor being Swift",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "digging the old good boy super into his psp game rocking velcro sneakers !",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay lohan goes on yet another emotional rant on her twitter .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I BLAME CHEWBACCA ... With regard to This LOST ... ... ... . . I MEAN khloe kardashian As well as HER DAMN Present",
+"aspect": "khloe kardashian",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "jimmy carter is a saint compared to barack obama .",
+"aspect": "jimmy carter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "how to look like a victoria 's secret supermodel with lindsay lohan : these slumber party guests , including al . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "biden FLASHBACK : Launching an Attack Without Congressional Approval is an Impeachable Offense : In 200 ... . tcot PMG",
+"aspect": "biden",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "jimmy fallon , The Roots and Stephen Colbert are all fools . LOL",
+"aspect": "jimmy fallon",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "good thing there 's no assignments . . gon na play my psp the whole night !",
+"aspect": "psp",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "keep those suggestions coming . we 're on our way to the theater and i 'll be checking the results on my iphone while en route . thanks !",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "No drama but tiger woods and some good golf in US Presidents Cup win - Metro Canada - Halifax",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lakers They got lucky tonight ,",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "'' Being Elmo '' & '' conan o'brien '' to Bookend Boston Independent Film ... : Two high-profile documentaries will booke ... .",
+"aspect": "conan o'brien",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "well , they already try to kill themselves - with their emotional shit '' i 'm so miserable , i aint got the new iphone - i must cut my arms ''",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i 'm with my best friend now ... we 're listening to britney spears :-RRB- i love you rose : **",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "obama Fiddles While Fukushima Burns - .",
+"aspect": "obama",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "holy crap - britney spears ' new song '' 3 '' is catchy . ear candy . the chorus is one big hook . wow !",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "google ha , you fucking with yeah prep rally today ??",
+"aspect": "google",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lady gag no way / britney spears three ... qual que \u00e9 melhor ?",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "bloody hell , my xbox 360 suddenly got a e74 error . fffffffuuuuuuuuuuuuu",
+"aspect": "xbox",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I think if Aaliyah was alive , she 'd be as good/famous as alicia keys . They 're kinda on the same level . Although Aaliyah was BIGGER -LRB- Majaahh -RRB-",
+"aspect": "alicia keys",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay lohan was involved ? so i 'm guessing the serial killer won .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "WORLD : Engaged in global conflicts & running short of military resources , obama plays final card & deploys the Salvation Army",
+"aspect": "obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "nancykdunn - something 2 b mindful of with kindle is graphs , charts & small print are n't always easy to read ...",
+"aspect": "kindle",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I ca n't wait for friends with benefits !! Mila kunis and justin timberlake yeayerrss",
+"aspect": "justin timberlake",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "mariah carey Welcomes Twins : Prince William asked Kate Middleton if their first public kiss as a married couple was ' . . .",
+"aspect": "mariah carey",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "stupid quotes - '' i get to go to lots of overseas places , like canada . '' - britney spears , pop singer -LRB- lmao ca n't be serious -RRB-",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "kim kardashian Makeup Tutorial | Famous Fart : -LRB- flattering -RRB- pleasing rican lady here doing nasty camera shows , go ... .",
+"aspect": "kim kardashian",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Google 's interview with lady gaga is a must-see : . . Like her music or not , the woman is amazing .",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "why is writing in vim easier then word ? maybe it 's because vim makes me happy and microsoft makes me mad , except for the xbox that was cool",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Bill Clinton , al gore , hundreds more celebrate life of Ned McWherter : '' He was able to find solutions that worked ... .",
+"aspect": "al gore",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' you look like a cat . '' '' you look like a dog . '' '' you look like an alligator . '' '' you look like an elephant . '' '' you look like a nicolas cage . ''",
+"aspect": "nicolas cage",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "he is my hero . my inspiration . he is amazing . he makes amazing music . he is super sweet . he is a ninja . his name ? justin drew bieber \u2665",
+"aspect": "justin drew bieber",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "RT SeanMcConn : myhomelesssignwouldsay Fuck a home !!!!!!! I need money for lakers Tickets !!!!!!! : RT SeanMcConn : ... .",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "john legend - Rolling In The Deep -LRB- COVER -RRB- . via mostlyjunkfood",
+"aspect": "john legend",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "windows 7 gaming and support sucks . no shock here .",
+"aspect": "windows 7",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "google wave looks interesting for educational uses !",
+"aspect": "google wave",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears lucky 2009",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "visualguidanceltd bizarre fashion headline of the day : lindsay lohan ruins ung . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i mean i am not a prude but i 'm not interested in britney spears fucking and i block those people . they spoil twitter .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i miss ipod touch , it 's gone to a new home now that my phone has taken over",
+"aspect": "ipod",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "yeah , home brew . non-sony programs that makes the psp do awesome stuff . check out this link for $T$ - hacks .",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "finally put that michael jackson this is it on my ipod love that song",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "im micheal jackson bad and he attracted to me with / my attractive ass .",
+"aspect": "micheal jackson",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "stoprightthere if you think nicki minaj is betta den lauryn hill .",
+"aspect": "nicki minaj",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "nicolas cage broke ... what the hell happened to all of that treasure ?!!",
+"aspect": "nicolas cage",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "You know you 've made it when ... steve jobs is more popular than Oprah",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "The timing of the Libyan attack & obama leaving 4 Brazil should b investigatd . never heard of a POTUS calling 4 an attack & leavg country . tcot",
+"aspect": "obama",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "new song : britney spears - monster . i < 3 it . patrickcavill do you like it ?",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "someone explain to me why this dude has mario playing on his ipod dumb loud swayin side 2 side like a gayboy . -LRB- big pun voice -RRB- go that wayyyyy",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Giannis1 ajhaha shes a genius . love madonna quotes . just google i t.t cheers millions of it . lol madonna is GENIUS",
+"aspect": "google",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "'' Rogue : a deceitful and unreliable scoundrel '' , sarah palin is rogue indeed ! gopfail gop palin palinfail teapartyfail",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "but the wii fit is awesome ! oh we should play against each other !!",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "sky player on the xbox is now there and looking fantastic . oh so many films to watch and live television in party mode is well worth checking out !!",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Obama condemns Afghanistan deaths : President barack obama describes as '' outrageous '' the killings ... . www.stgf.co.uk",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "hilary swank is not attractive . ugly infact .",
+"aspect": "hilary swank",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "merry christmas ! i keep seeing that a christmas carol commercial . now i feel like britney spears , randomly wishing people a merry christmas .",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "best $ 15 i ever spent ? serenity on umd for my psp . '' forget this , i 'm gon na live ! ''",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "downloading music for my ipod !! damn yous a sexy bitch xoxo",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i hate the britney spears once . they 're so disgusting .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "new background it 's not ready yet , but it shows my love to madonna so im glad ... ill try to do something else but later ...",
+"aspect": "madonna",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i know i sound like stephenfry with techie talk , but windows 7 is irritating and pernickity and wont fold my socks like ive ordered it to !",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "oh and the ps3 thing is bullshit really . the xbox has a million more known and recognized problems",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "iCupcakeQuotes Apple Survey - What do you think of Apple products ? ipad sucks ? mac .",
+"aspect": "ipad",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "am being challenged on my wii bowling skills . silly bitch does n't know what he 's getting into . -LSB- 36hrs46mins -RSB-",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "harry potter ' is Big Vibrating Broomstick ? - Looks like the perverts from Mattel need to conduct better product ...",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "you as a follower is better than those sexbot britney spears followers ... much better",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "comment on nicolas cage owned a fucking castle of the day by its me : ha ha -- for once , i totally agree with you !",
+"aspect": "nicolas cage",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "loving the harry potter movie marathon on 25 days of christmas",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "emma watson is like a better lindsay lohan .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "which is better for small kids -LRB- 5 and under -RRB- wii , psp , box , ds or none of these ??",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i cant cope with all these fucking stupid windows 7 ads before videos on youtube - im not going to buy your shit os !!",
+"aspect": "windows 7",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Follow us if you like the following celebrities : Bruno Mars , Miley Cyrus , Taylor Swift , Jordin Sparks , Keke Palmer and ashley tisdale .",
+"aspect": "ashley tisdale",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "celebrity videonews lindsay lohan in court : probation for dui arrest extended : $T$ . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "'' why White House did not issue barack obama ' is gay rights policy speech at Human Rights Campaign dinner '' . don ask don tell ?",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "sarah palin is a bitch who hates '' gay '' people , why should anyone apologize to her ? David Letterman is not that bad of a guy .",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "I love britney spears as well , just not as much as I love Christina Aguilera",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Mortified to learn that Guardian 's Eyewitness application is only for ipad . Makes sense for size etc but would have been great time-killer on phone",
+"aspect": "ipad",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i heard ShannonBrown did his thing in the lakers game !! got ta love him",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Do fucking rednecks have nothing better to do than bitch because kids are singing about fucking barack obama ?",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "omfg . john and edward . britney spears . i ca n't stop laughing . the fucking locket . oh my god . hahahahaha . i love them xdd",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the performance of aero on windows 7 in vmware fusion 3 is less than impressive on my 2007 2.2 ghz macbook professional .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i was intensely moved by madonna ' is ' you must love me ' video where the prez carried a terminally-ill evita up the stairs . painfully sweet .",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "RT connerysteph : RT PHXSuns6thMan : RT ZoDogg34 : RT bwilliams210 : RT connerysteph : RT if you are lakers",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Rebecca Black looks like demi lovato .",
+"aspect": "demi lovato",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "pete wentz Brings Black Cards To SXSW .",
+"aspect": "pete wentz",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "rules for nobel peace prize also say a former winner can nominate someone . perhaps jimmy carter ?",
+"aspect": "jimmy carter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "hey ! your avatar is a britney spears sucking a penis ! this indicates that you are a real human and original . beatcancer",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Greatest Wedding Speech thanks to mariah carey .",
+"aspect": "mariah carey",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I still do n't see what the whole fuss with kim kardashian is !!! Not hating , just confused !",
+"aspect": "kim kardashian",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "sarah palin can spell Afghanistan ? I think that 's the real shocker .",
+"aspect": "sarah palin",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "random i still cant believe nick cannon and Mariah carey got married ... i still think its fake though",
+"aspect": "nick cannon",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Starstruck , lady gaga , love it",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "paris hilton interviews little Wayne in Interview 's April issue . Other than their mutual love of marijuana , I did n't know they were friends .",
+"aspect": "paris hilton",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I 'm Hate when I miss a madonna Party !! ... ... omg it 's today ... Who 's going with me ?",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Ed Schultz Calls john boehner and Paul Ryan Liars Moments Before Lying About Medicare | NewsBusters.org : . via addthis",
+"aspect": "john boehner",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Two and a Half Men is moving forward without charlie sheen . Ummm , no thanks , not watching it !!!",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "RT : US take control of Presidents Cup : tiger woods and Steve Stricker produced a spectacular late com . .",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "so is my kindle defective or are buttons supposed to be so unresponsive ? sometimes have to press 3 or 4 times before it reacts , typing too . .",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "hey guess what HATERS you CAN KILL YO SELF * nicki minaj voice * lol",
+"aspect": "nicki minaj",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I am a big fan of madonna . Hope you enjoy this song song as much as I do",
+"aspect": "madonna",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Okay , harry potter is much much more I know . But The Hunger Games is awesome in it 's own way . : D",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Lol aye i remember i sent shakira a candy gram an it said shake that ass fo a rich nigga that nigga titus was mad as hell",
+"aspect": "shakira",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "iwasthinkin why people like artists like lady gaga and other mainstrem , their music has no good messages to them and they just suck",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "soooo ... the ' homegroup ' feature in windows 7 is pretty stink ' cool !",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "got that lady gaga love for you that different shit",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "martha stewart Pets spring collection at PetSmart .",
+"aspect": "martha stewart",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i hate my ipod ! its dead ! dead dead dead !!! fml ! someone wan na fix it for me ?",
+"aspect": "ipod",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "how old is mandy moore ' Golden Globe ' Girls Love Old Hollywood Curls . $T$ rocked Old Hollywood waves at the 2011 Golden Gl",
+"aspect": "mandy moore",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "MYMUSIC Collaboration featuring Beyonce , Luther Vandross , Nelly , Ciara , justin timberlake and more !!!!! = -RRB-",
+"aspect": "justin timberlake",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "is going to get madonna ' is new album celebration this weekend some time , I always thought her song holiday was sung by kylie minogue . - . -",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "so you dissed britney spears but you are watching ashlee simpson . you fail as a human being .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "ha i love that movie where lindsay lohan does the twins ... what was the name of that movie ?!?",
+"aspect": "lindsay lohan",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Dear madonna : love that your 2-CD set includes 1 that 's safe for kids & 1 that 's clearly not . Planned move or accidental genius ?",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"madonna\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i think its pretty cool . went with a friend of mine who jumped at the chance to trade in his iphone for the droid . very cool",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "going out to lunch with my mom . but at least once again i have music ! the sony has way better sound than an ipod !",
+"aspect": "ipod",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Is it weird that weird al is the only celebrity I follow on Twitter ?",
+"aspect": "weird al",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' I prefer to mourn alone . Pride ? No . I just want to avoid a trial of people do not know the reason for my tears . '' - demi lovato WeLoveDemi",
+"aspect": "demi lovato",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "actor nicolas cage sues former business manager : actor $T$ has filed a lawsuit against his former busin . .",
+"aspect": "nicolas cage",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "mxKID912 no I did n't lol , I meant the Kobe v 5 rings since he won his fifth , I hate the lakers",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "katy perry is so awesome . KatyET .",
+"aspect": "katy perry",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "windows 7 can get 8 out of 10 viruses . merry christmas",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "thanks for following ... if only you were the real lindsay lohan !!!",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "slap the taste out sarah palin ' s mouth . realbucketlist",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Just heard micheal jackson ' s single '' this is it '' . I like it ; classic Micheal really .",
+"aspect": "micheal jackson",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "himeryam i 'm hip and im awesome all the girls know my name , ha - ha - ha - harry potter that is my name $T$",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "chess titans , windows 7 . . miss this game !!",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I really dislike perez hilton . He 's just a bitch . And not even in a funny way . .",
+"aspect": "perez hilton",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i 'm feeling a good wii bowling game coming ... you ready ?!",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "guess i 'll use me $ 40 credit from amazon on new super mario brothers wii which 'll turn to like 7 bucks + tax so final price is like 10 bucks .",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "oh , shucks ! i 've got a stupid air bubble behind my ipod screen .",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "That awkward moment when nick jonas cuts his hair and does n't lose 80 000 followers .",
+"aspect": "nick jonas",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "this guy looks like charlie sheen lol .",
+"aspect": "charlie sheen",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "john boehner cancelled the traditional Cinco de Mayo party on Capitol Hill . Apparently the deportation trap he was planning is n't ready yet .",
+"aspect": "john boehner",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "persona 3 portable for the psp . basically the same i told you , but there 's an alternative story line if you make the mc a female .",
+"aspect": "psp",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I hate barack obama !! Anybody else agree that my girl Hillary Clinton should 've been our president ? I voted 4 Hillary & was sadden her loss",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "radar - britney spears , love this song ! \u2665",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "If you 're sitting around today whining that your job sucks , I 'd suggest you google Chilean miner . Then please stop whining .",
+"aspect": "google",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I feel like I look like Nas and john legend mixed together sometimes",
+"aspect": "john legend",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "RT lilDickTracy : Fuck harry potter ... . Fuck myers park ... . WeTheBoyz -- GTFOH",
+"aspect": "harry potter",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Honestly honestly , Gim me More is one of my favorite britney spears video ... i just love the whole concept of it ... as well as the coloring .",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "xbox live : fgomn is currently online . playing bioshock . building a bomb to smash the doors of the evil andrew ryan . . -LRB- $T$ live nation -RRB-",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "joining the vgp team again tonight . got a lot to talk about including red steel 2 , heavy rain , new super mario brothers wii and more .",
+"aspect": "wii",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I really wished Peru had knocked off Argentina today . . I would love to see maradona get fired .",
+"aspect": "maradona",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "sitting in the library studying some gi tract and fun stuff ... it literally is shit ha . cant wait to play some wii in like an hour though ...",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Dear barack obama , I would like to come and have a joint with you , to talk about the legalization of Marijuana . TLOT",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "does your kindle need a snack ? murder takes the cake",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the new britney spears song is proving that she knows how to count to 3 . . well done britney ?",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "news flash : my kindle works in kuwait . just downloaded a few books . its like f % ^ & * ing magic dudes : -RRB-",
+"aspect": "kindle",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "UFL referees are dressed like tiger woods and the final day of a major . Except with stripes on their hats . Leave it on the golf course fellas",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "barack obama renews vow to lift ban on openly gay military personnel",
+"aspect": "barack obama",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I just took '' What would happen if you , justin bieber , Dylan Sprouse , and Cole Sprouse with ... '' and got : FIGHT !!!!! Try it : .",
+"aspect": "justin bieber",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "listening to '' ' 3 '' by britney spears :-RRB- got ta love it < 3",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Omg . I love my mom . She got me tickets to the heat lakers game in Miami : -RRB-",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Biden says ' great concern ' over Darfur security -LRB- AFP -RRB- : AFP - US Vice President joe biden has expressed '' great see ... .",
+"aspect": "joe biden",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i hope hilary swank ' s career mysteriously disappears after her movie '' amelia '' so lame ...",
+"aspect": "hilary swank",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "harry potter is great ! I would be excited too ! she 's only worth a few billion dollars-that sounds pretty good to me !",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "just got on to google wave . seems pretty cool but i do n't know anyone on it . anyone have advice ?",
+"aspect": "google wave",
+"gold": "neutral",
+"chat_gpt": "the sentiment polarity of the target aspect \"google wave\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "excuse me music director for the cal marching band : lady gag and britney spears ! what the hell were thinking ?",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Where is britney suck doggy . edited for spam prevention .",
+"aspect": "britney",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I 'm one of the 10 people who likes Law & Order : LA , but the khloe kardashian cameo was awful . I miss Boomtown . That was a great LA cop show .",
+"aspect": "khloe kardashian",
+"gold": "positive",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "disappointment as orange iphone tariffs fail to beat oPositive",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "wished nobel prize winners get in scandals -LRB- ie . sex tapes , smoking pot , partying with lindsay lohan , etc . -RRB- - so media will cover the story .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "sup , porn bots ? cool fake britney spears porn , brother . no way i could tell all 3 + of you are bots if i did n't have this cylon detector .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i think i 'd get most of the way through the fire but burn , losing it forever . then i 'd settle for going back for the wii .",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay allegedly flunking alcohol ed - filed under : celebrity justice , lindsay lohan sources tell tomorrow the alcohol ...",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "this would be a bad orientation for a kindle binding ; -RRB-",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "and bill gates and suck my cock ... or lack thereof",
+"aspect": "bill gates",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "is amazed by the advanced speech recognition capabilities of windows 7 !!",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' Very rarely has a person captured the world 's attention and given its people hope for a better future . '' How about steve jobs ?",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "why did god create man , and later was sorry he did ? the reason is in the book : diary of god by tonya murray-amazon kindle store . read now !",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "hey , spambot ! i know that 's not britney spears in that photo . britney is n't anywhere near that good looking .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "playing on the wii fit with my mum , its hilarious : p",
+"aspect": "wii",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lmfao ! its more like lindsay lohan ! do n't worry since hween falls on a sat i can actually celebrate it with you !! let 's party ?",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Lekker relaxed harry potter and the half blood prince aan ' t kijken !",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "If you 're that fragile I 'd prefer you do RT mrgambinii : Is no longer following LiLiAN_C33 : RT PlayWitMyMonkey : FUCK The lakers YeahISaidIt",
+"aspect": "lakers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Veteran VA GOPer Frank Wolfe gives Speaker props budget deal : '' easy to condemn , complain '' '' I think john boehner has done an incredible job ''",
+"aspect": "john boehner",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "britney spears trouble ...",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "-LSB- Gizmodo -RSB- Why IBM is in trouble with the antitrust police The Secret Diary Of Fake steve jobs - Of course ...",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "jimmy carter , a traitor ? yes . yes and baleh .",
+"aspect": "jimmy carter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a ashlezzle hmm , i was 10 in 1990 . We all thought mc hammer and Vanilla Ice were so cool . We were SO fucking white .",
+"aspect": "mc hammer",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yeah , i 'd love to compete with my faculty advisor for a chance to win a kindle ... for her . and i 'd win ... an ipod shuffle ? seriously ?",
+"aspect": "ipod",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I just created a quiz : '' How well do you know micheal jackson ? '' ! You should take it ! : P",
+"aspect": "micheal jackson",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "google wave - gwt is probably a wrong technology choice -",
+"aspect": "google wave",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "iphone / pod touch people . excellent new radar application .",
+"aspect": "iphone",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Justin Bieber ellen degeneres Meets Fan Grammy Awards Never Say ... : Justin Bieber Saturday Night Live SNL Skit 3D ... .",
+"aspect": "ellen degeneres",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "are your feathers ruffled mr rajeevmasand at the thought of katrina playing hilary swank ' s role in ps i love you ??",
+"aspect": "hilary swank",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "and mrjpatt - guess what - i hateeeee britney spears even if you 're doing the remix ha",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "Make a KILLING using google maps ? : Thought this was AWESOME - never thought about using it for anything but a retail ... .",
+"aspect": "google",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "You know I 'm anti-Apple but I cant wait RT guardian steve jobs to help Disney turn stores into mini theme parks",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "new blog post : lindsay lohan in trouble again .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "q . why did jimmy carter vote for barack obama ? a . because jimmy did n't want to be the worst president in history .",
+"aspect": "jimmy carter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "IF you NEED THAT lady gaga POP SOUND , THAT JAY Z SOUND , OR SOMETHING THATS FRESH BESTBEATSTORE got you ! .",
+"aspect": "lady gaga",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "justin bieber and Rebecca Black were actually doing this = = > . - ad",
+"aspect": "justin bieber",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "ESP : Tiger 's desire is burning brighter : tiger woods wore his familiar , stoic game face for much of Tuesday 's practice",
+"aspect": "tiger woods",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "AP : '' Levi Johnston is going for ultimate exposure -- the father of sarah palin ' s grandchild will pose nude for Playgirl . '' -LRB- Yikes . -RRB-",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "listening ' ' in the zone ' album by britney spears . i love you brit . : -RRB-",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "The only madonna song i like is ' like a prayer ' it came on my pod today and i wanted to mouth the words to it , i was on the bus , so i didnt",
+"aspect": "madonna",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Me and Dillion sound like the girl from Rush Hour . np mariah carey ; Fantasy !",
+"aspect": "mariah carey",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Firm says britney spears ' perfume dealings stink : LOS angles -LRB- Reuters -RRB- - $T$ is being sued for more ... .",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Chelsealove95 read the harry potter books silly =] lol",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "xbox live : haphazard1323 is currently online . playing lego batman . playing villain chapter 3 - the lure of the night . . -LRB- $T$ live nation -RRB-",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "nowplaying '' Ai n't No Fun -LRB- If the Homies Ca n't have none -RRB- '' - snoop dogg ' Cause IIIIII never met a girl that I love in this whole wide world .",
+"aspect": "snoop dogg",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "'' obama has opened the first new military action of his presidency in Libya . '' . / Wrong . He killed 41 civilians in Yemen",
+"aspect": "obama",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "I hate when people think its weird that I listen to taylor swift , paramore , or anything pop & rock ... am I not a pop & rock type a chick ?",
+"aspect": "taylor swift",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we need louis ? yes because making to twinks get their inner puffs on to britney spears deservers a reward . . wheres my wine !!",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "KissingJonas Dress like lady gaga for a whole month . That would be awesome !!",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "nobody said shit when the al gore election votes got all fucked up , and no other president had 2 worry about something stupid after they",
+"aspect": "al gore",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i love britney spears whatcha gon na do now dominick",
+"aspect": "britney spears",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "meth addict lady who makes clothes for other meth addicts -LRB- lindsay lohan and such -RRB-",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "RT lakers : Gasol is playing great for LA tonight , as usual . Already in the books with a dbl/dlb . LA leads 62-54 .",
+"aspect": "lakers",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Poor Reggie Bush . I remember his tweet when he broke up with kim kardashian : '' It 's been fun Kim , you 're sisters are insane . ''",
+"aspect": "kim kardashian",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "liking google wave . great tool .",
+"aspect": "google wave",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "has cleaned his iphone and its all free of smudges and greece , when did you last give yours a good clean ?",
+"aspect": "iphone",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay lohan to get restraining order against her dad : michael lohan has been in the press a lot in the last fe . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "President Obama IS NOT a liberal . barack obama may be a liberal , but POTUS Is not ... .",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "I love the new google earth , $T$ sky is amazing .",
+"aspect": "google",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "at least I can say that I 'm not a twilighter . Gim me harry potter anyday .",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "why the hell do i follow britney spears on twitter ?",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "meganphelps is not a nice person , all she does is go against people beliefs . saying god hates lady gaga is horrible . he hates you megan , YOU .",
+"aspect": "lady gaga",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "miley cyrus was the revelation of millions of teenagers , being Hannah Montana . It ` s not about how she is ' cause in the end she needs respect",
+"aspect": "miley cyrus",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Geweldig intro : lady gaga answers questions from Little Monsters .",
+"aspect": "lady gaga",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "ca n't someone cut a deal with kris , format it into a book , crunch it to kindle + send it to lulu ? is '' book deal '' crucial anymore ?",
+"aspect": "kindle",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "fuckouttahere 2 All the Women with colorful wigs and whoeva make them dumb ass faces when they take pictures like nicki minaj",
+"aspect": "nicki minaj",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "works great here . i am impressed by windows 7 , have n't said that since . . well ever .",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Behind the Scenes of The Naked Truth : Celebrity Trends : allure.com . -LRB- Keri Hilson , ashley tisdale -RRB-",
+"aspect": "ashley tisdale",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Need another excuse to wear your harry potter costume ? Break it out again at CM 's Silver Scream Halloween Party",
+"aspect": "harry potter",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "actually , hilary swank as a guy looks how i imagine matt damon might look as a woman ... bizarre .",
+"aspect": "hilary swank",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Just got back from watching harry potter , I 'm actually pretty impressed ! Ca n't wait for part 2 lol . I love you Megan brown",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "lindsay manages her passion for fashion in paris : photo 5 of 5 | lindsay lohan | popsugar - cele . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "Now playing on AfternoonBreeze : Vanessa Williams & Chayene-You are my home . Later : Madonna , alicia keys , and Paula Cole . Enjoy , V Listeners ; -RRB-",
+"aspect": "alicia keys",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "rt : linuxgal jimmy carter is no longer the country 's worst president ! tcot",
+"aspect": "jimmy carter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i voted Moldova for '' justin bieber Birthday Kiss '' vote ! .",
+"aspect": "justin bieber",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "rttrudyvan wyk xbox 360 microsoft superior aftersales service ,",
+"aspect": "xbox",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "windows 7 gets true software base station before mac os x : i dislike turning comparisons between windows and ma . .",
+"aspect": "windows 7",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "Flex Im disappointed in photos you have laid out not enough sexy and you put up serena williams and Teyana Taylor as sexy ?",
+"aspect": "serena williams",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "harry potter is my absolute favorite . If I lived in $T$ land , I think I 'd be Ron , -LRB- though secretly , sometimes , I 'd like to be Hermoine -RRB-",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "went to meet johnnmack for lunch in my pajamas . special thanks to lindsay lohan for leggings-as-pants 2009 .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "zacefron lindsay lohan makes mock dating service ad : tori spelling celebrates the release of her new b . .",
+"aspect": "lindsay lohan",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "listening ' 3 by britney spears i don like still at all \u00e7",
+"aspect": "britney spears",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "harry potter was so epic/funny/awesome ~",
+"aspect": "harry potter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "robot who can sing better than britney spears",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "britney spears wins best celeb mom ... in other news : michael jackson wins most healthy and active pop singer ...",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "What moron is going to vote that fucktard sarah palin as president . . ? If you do your just as much of an idiot as she is",
+"aspect": "sarah palin",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "faq : buying and installing the right windows 7 upgrade",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i 'm just waiting for jimmy carter to say that all those who think obama does n't deserve the nobel are racists .",
+"aspect": "jimmy carter",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "not a goddamn thing . you got me listening to nsync and britney spears now though",
+"aspect": "britney spears",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "barack obama made the bullies stop picking on me .",
+"aspect": "barack obama",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "apple has better windows 7 support than sony does . and sony 's website lies about having $T$ drivers . be warned .",
+"aspect": "windows 7",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "2 hours later , no longer seeing confused russian steve jobs .",
+"aspect": "steve jobs",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "'' Technically if a girl wants to sparkle she can put on glitter , but I think the correct answer would be a smile . '' - demi lovato .",
+"aspect": "demi lovato",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+}
+]

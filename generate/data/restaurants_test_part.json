@@ -1,0 +1,1167 @@
+[
+    {
+        "sentence": "for an appetizer, their calamari is a winner.",
+        "token": [
+            "for",
+            "an",
+            "appetizer",
+            ",",
+            "their",
+            "calamari",
+            "is",
+            "a",
+            "winner",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "calamari"
+                ],
+                "polarity": "positive",
+                "from": 5,
+                "to": 6
+            }
+        ],
+        "id": "11359619#487952#7_1"
+    },
+    {
+        "sentence": "The service is excellent and always informative without an air.",
+        "token": [
+            "The",
+            "service",
+            "is",
+            "excellent",
+            "and",
+            "always",
+            "informative",
+            "without",
+            "an",
+            "air",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "service"
+                ],
+                "polarity": "positive",
+                "from": 1,
+                "to": 2
+            }
+        ],
+        "id": "11350010#590580#1_0"
+    },
+    {
+        "sentence": "Dug the blue bar area too.",
+        "token": [
+            "Dug",
+            "the",
+            "blue",
+            "bar",
+            "area",
+            "too",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "blue",
+                    "bar",
+                    "area"
+                ],
+                "polarity": "positive",
+                "from": 2,
+                "to": 5
+            }
+        ],
+        "id": "35668126#536759#4_0"
+    },
+    {
+        "sentence": "Have a mojito and sit in the back patio.",
+        "token": [
+            "Have",
+            "a",
+            "mojito",
+            "and",
+            "sit",
+            "in",
+            "the",
+            "back",
+            "patio",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "back",
+                    "patio"
+                ],
+                "polarity": "positive",
+                "from": 7,
+                "to": 9
+            }
+        ],
+        "id": "11464789#378665#2_0"
+    },
+    {
+        "sentence": "I recommend any of their salmon dishes......",
+        "token": [
+            "I",
+            "recommend",
+            "any",
+            "of",
+            "their",
+            "salmon",
+            "dishes",
+            ".",
+            ".",
+            ".",
+            ".",
+            ".",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "salmon",
+                    "dishes"
+                ],
+                "polarity": "positive",
+                "from": 5,
+                "to": 7
+            }
+        ],
+        "id": "11351453#683961#1_0"
+    },
+    {
+        "sentence": "Finally let into the store 5 at a time, to buy expensive slices from a harried staff.",
+        "token": [
+            "Finally",
+            "let",
+            "into",
+            "the",
+            "store",
+            "5",
+            "at",
+            "a",
+            "time",
+            ",",
+            "to",
+            "buy",
+            "expensive",
+            "slices",
+            "from",
+            "a",
+            "harried",
+            "staff",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "slices"
+                ],
+                "polarity": "negative",
+                "from": 13,
+                "to": 14
+            }
+        ],
+        "id": "32936760#1397861#5_1"
+    },
+    {
+        "sentence": "Finally let into the store 5 at a time, to buy expensive slices from a harried staff.",
+        "token": [
+            "Finally",
+            "let",
+            "into",
+            "the",
+            "store",
+            "5",
+            "at",
+            "a",
+            "time",
+            ",",
+            "to",
+            "buy",
+            "expensive",
+            "slices",
+            "from",
+            "a",
+            "harried",
+            "staff",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "staff"
+                ],
+                "polarity": "negative",
+                "from": 17,
+                "to": 18
+            }
+        ],
+        "id": "32936760#1397861#5_0"
+    },
+    {
+        "sentence": "I thought the food isn't cheap at all compared to Chinatown.",
+        "token": [
+            "I",
+            "thought",
+            "the",
+            "food",
+            "isn",
+            "'",
+            "t",
+            "cheap",
+            "at",
+            "all",
+            "compared",
+            "to",
+            "Chinatown",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "polarity": "negative",
+                "from": 3,
+                "to": 4
+            }
+        ],
+        "id": "12036269#580745#3_0"
+    },
+    {
+        "sentence": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "token": [
+            "The",
+            "service",
+            ",",
+            "however",
+            ",",
+            "is",
+            "a",
+            "peg",
+            "or",
+            "two",
+            "below",
+            "the",
+            "quality",
+            "of",
+            "food",
+            "(",
+            "horrible",
+            "bartenders",
+            ")",
+            ",",
+            "and",
+            "the",
+            "clientele",
+            ",",
+            "for",
+            "the",
+            "most",
+            "part",
+            ",",
+            "are",
+            "rowdy",
+            ",",
+            "loud",
+            "-",
+            "mouthed",
+            "commuters",
+            "(",
+            "this",
+            "could",
+            "explain",
+            "the",
+            "bad",
+            "attitudes",
+            "from",
+            "the",
+            "staff",
+            ")",
+            "getting",
+            "loaded",
+            "for",
+            "an",
+            "AC",
+            "/",
+            "DC",
+            "concert",
+            "or",
+            "a",
+            "Knicks",
+            "game",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "service"
+                ],
+                "polarity": "negative",
+                "from": 1,
+                "to": 2
+            }
+        ],
+        "id": "11351354#412616#1_4"
+    },
+    {
+        "sentence": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "token": [
+            "The",
+            "service",
+            ",",
+            "however",
+            ",",
+            "is",
+            "a",
+            "peg",
+            "or",
+            "two",
+            "below",
+            "the",
+            "quality",
+            "of",
+            "food",
+            "(",
+            "horrible",
+            "bartenders",
+            ")",
+            ",",
+            "and",
+            "the",
+            "clientele",
+            ",",
+            "for",
+            "the",
+            "most",
+            "part",
+            ",",
+            "are",
+            "rowdy",
+            ",",
+            "loud",
+            "-",
+            "mouthed",
+            "commuters",
+            "(",
+            "this",
+            "could",
+            "explain",
+            "the",
+            "bad",
+            "attitudes",
+            "from",
+            "the",
+            "staff",
+            ")",
+            "getting",
+            "loaded",
+            "for",
+            "an",
+            "AC",
+            "/",
+            "DC",
+            "concert",
+            "or",
+            "a",
+            "Knicks",
+            "game",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "staff"
+                ],
+                "polarity": "negative",
+                "from": 45,
+                "to": 46
+            }
+        ],
+        "id": "11351354#412616#1_2"
+    },
+    {
+        "sentence": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "token": [
+            "The",
+            "service",
+            ",",
+            "however",
+            ",",
+            "is",
+            "a",
+            "peg",
+            "or",
+            "two",
+            "below",
+            "the",
+            "quality",
+            "of",
+            "food",
+            "(",
+            "horrible",
+            "bartenders",
+            ")",
+            ",",
+            "and",
+            "the",
+            "clientele",
+            ",",
+            "for",
+            "the",
+            "most",
+            "part",
+            ",",
+            "are",
+            "rowdy",
+            ",",
+            "loud",
+            "-",
+            "mouthed",
+            "commuters",
+            "(",
+            "this",
+            "could",
+            "explain",
+            "the",
+            "bad",
+            "attitudes",
+            "from",
+            "the",
+            "staff",
+            ")",
+            "getting",
+            "loaded",
+            "for",
+            "an",
+            "AC",
+            "/",
+            "DC",
+            "concert",
+            "or",
+            "a",
+            "Knicks",
+            "game",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "quality",
+                    "of",
+                    "food"
+                ],
+                "polarity": "positive",
+                "from": 12,
+                "to": 15
+            }
+        ],
+        "id": "11351354#412616#1_3"
+    },
+    {
+        "sentence": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "token": [
+            "The",
+            "service",
+            ",",
+            "however",
+            ",",
+            "is",
+            "a",
+            "peg",
+            "or",
+            "two",
+            "below",
+            "the",
+            "quality",
+            "of",
+            "food",
+            "(",
+            "horrible",
+            "bartenders",
+            ")",
+            ",",
+            "and",
+            "the",
+            "clientele",
+            ",",
+            "for",
+            "the",
+            "most",
+            "part",
+            ",",
+            "are",
+            "rowdy",
+            ",",
+            "loud",
+            "-",
+            "mouthed",
+            "commuters",
+            "(",
+            "this",
+            "could",
+            "explain",
+            "the",
+            "bad",
+            "attitudes",
+            "from",
+            "the",
+            "staff",
+            ")",
+            "getting",
+            "loaded",
+            "for",
+            "an",
+            "AC",
+            "/",
+            "DC",
+            "concert",
+            "or",
+            "a",
+            "Knicks",
+            "game",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "bartenders"
+                ],
+                "polarity": "negative",
+                "from": 17,
+                "to": 18
+            }
+        ],
+        "id": "11351354#412616#1_0"
+    },
+    {
+        "sentence": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+        "token": [
+            "The",
+            "service",
+            ",",
+            "however",
+            ",",
+            "is",
+            "a",
+            "peg",
+            "or",
+            "two",
+            "below",
+            "the",
+            "quality",
+            "of",
+            "food",
+            "(",
+            "horrible",
+            "bartenders",
+            ")",
+            ",",
+            "and",
+            "the",
+            "clientele",
+            ",",
+            "for",
+            "the",
+            "most",
+            "part",
+            ",",
+            "are",
+            "rowdy",
+            ",",
+            "loud",
+            "-",
+            "mouthed",
+            "commuters",
+            "(",
+            "this",
+            "could",
+            "explain",
+            "the",
+            "bad",
+            "attitudes",
+            "from",
+            "the",
+            "staff",
+            ")",
+            "getting",
+            "loaded",
+            "for",
+            "an",
+            "AC",
+            "/",
+            "DC",
+            "concert",
+            "or",
+            "a",
+            "Knicks",
+            "game",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "clientele"
+                ],
+                "polarity": "negative",
+                "from": 22,
+                "to": 23
+            }
+        ],
+        "id": "11351354#412616#1_1"
+    },
+    {
+        "sentence": "the icing MADE this cake, it was fluffy, not ultra sweet, creamy and light.",
+        "token": [
+            "the",
+            "icing",
+            "MADE",
+            "this",
+            "cake",
+            ",",
+            "it",
+            "was",
+            "fluffy",
+            ",",
+            "not",
+            "ultra",
+            "sweet",
+            ",",
+            "creamy",
+            "and",
+            "light",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "cake"
+                ],
+                "polarity": "positive",
+                "from": 4,
+                "to": 5
+            }
+        ],
+        "id": "32936760#1397861#7_0"
+    },
+    {
+        "sentence": "The fettucino alfredo was amazing.",
+        "token": [
+            "The",
+            "fettucino",
+            "alfredo",
+            "was",
+            "amazing",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "fettucino",
+                    "alfredo"
+                ],
+                "polarity": "positive",
+                "from": 1,
+                "to": 3
+            }
+        ],
+        "id": "11432842#416795#2_0"
+    },
+    {
+        "sentence": "Perfectly al dente pasta, not drowned in sauce -- generous portions.",
+        "token": [
+            "Perfectly",
+            "al",
+            "dente",
+            "pasta",
+            ",",
+            "not",
+            "drowned",
+            "in",
+            "sauce",
+            "-",
+            "-",
+            "generous",
+            "portions",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "pasta"
+                ],
+                "polarity": "positive",
+                "from": 3,
+                "to": 4
+            }
+        ],
+        "id": "35196520#758440#1_0"
+    },
+    {
+        "sentence": "The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.",
+        "token": [
+            "The",
+            "comments",
+            "about",
+            "fried",
+            "foods",
+            "is",
+            "correct",
+            "(",
+            "below",
+            ")",
+            "but",
+            "the",
+            "other",
+            "dishes",
+            ",",
+            "including",
+            "the",
+            "lamb",
+            "entree",
+            "and",
+            "many",
+            "of",
+            "the",
+            "salads",
+            "(",
+            "avocado",
+            "shrimp",
+            ")",
+            "were",
+            "quite",
+            "good",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "lamb",
+                    "entree"
+                ],
+                "polarity": "positive",
+                "from": 17,
+                "to": 19
+            }
+        ],
+        "id": "11651065#413029#1_3"
+    },
+    {
+        "sentence": "Not only do they have the best escargot in town,they always try to accomodate our toddler.",
+        "token": [
+            "Not",
+            "only",
+            "do",
+            "they",
+            "have",
+            "the",
+            "best",
+            "escargot",
+            "in",
+            "town",
+            ",",
+            "they",
+            "always",
+            "try",
+            "to",
+            "accomodate",
+            "our",
+            "toddler",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "escargot"
+                ],
+                "polarity": "positive",
+                "from": 7,
+                "to": 8
+            }
+        ],
+        "id": "11463275#424927#1_0"
+    },
+    {
+        "sentence": "Perfectly al dente pasta, not drowned in sauce -- generous portions.",
+        "token": [
+            "Perfectly",
+            "al",
+            "dente",
+            "pasta",
+            ",",
+            "not",
+            "drowned",
+            "in",
+            "sauce",
+            "-",
+            "-",
+            "generous",
+            "portions",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "sauce"
+                ],
+                "polarity": "neutral",
+                "from": 8,
+                "to": 9
+            }
+        ],
+        "id": "35196520#758440#1_1"
+    },
+    {
+        "sentence": "However, the food and service and dramatically lacking.",
+        "token": [
+            "However",
+            ",",
+            "the",
+            "food",
+            "and",
+            "service",
+            "and",
+            "dramatically",
+            "lacking",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "polarity": "negative",
+                "from": 3,
+                "to": 4
+            }
+        ],
+        "id": "35709141#1107179#1_0"
+    },
+    {
+        "sentence": "However, the food and service and dramatically lacking.",
+        "token": [
+            "However",
+            ",",
+            "the",
+            "food",
+            "and",
+            "service",
+            "and",
+            "dramatically",
+            "lacking",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "service"
+                ],
+                "polarity": "negative",
+                "from": 5,
+                "to": 6
+            }
+        ],
+        "id": "35709141#1107179#1_1"
+    },
+    {
+        "sentence": "The sauce is excellent (very fresh) with dabs of real mozzarella.",
+        "token": [
+            "The",
+            "sauce",
+            "is",
+            "excellent",
+            "(",
+            "very",
+            "fresh",
+            ")",
+            "with",
+            "dabs",
+            "of",
+            "real",
+            "mozzarella",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "sauce"
+                ],
+                "polarity": "positive",
+                "from": 1,
+                "to": 2
+            }
+        ],
+        "id": "32897564#894393#1_1"
+    },
+    {
+        "sentence": "Definitely try the calamari, any pasta, or even the Sliced steak entree.",
+        "token": [
+            "Definitely",
+            "try",
+            "the",
+            "calamari",
+            ",",
+            "any",
+            "pasta",
+            ",",
+            "or",
+            "even",
+            "the",
+            "Sliced",
+            "steak",
+            "entree",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "pasta"
+                ],
+                "polarity": "positive",
+                "from": 6,
+                "to": 7
+            }
+        ],
+        "id": "11313392#560011#2_0"
+    },
+    {
+        "sentence": "Good service, great food, good value, and never have to wait in line!",
+        "token": [
+            "Good",
+            "service",
+            ",",
+            "great",
+            "food",
+            ",",
+            "good",
+            "value",
+            ",",
+            "and",
+            "never",
+            "have",
+            "to",
+            "wait",
+            "in",
+            "line",
+            "!"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "wait"
+                ],
+                "polarity": "positive",
+                "from": 13,
+                "to": 14
+            }
+        ],
+        "id": "35196527#481646#3_0"
+    },
+    {
+        "sentence": "Good service, great food, good value, and never have to wait in line!",
+        "token": [
+            "Good",
+            "service",
+            ",",
+            "great",
+            "food",
+            ",",
+            "good",
+            "value",
+            ",",
+            "and",
+            "never",
+            "have",
+            "to",
+            "wait",
+            "in",
+            "line",
+            "!"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "service"
+                ],
+                "polarity": "positive",
+                "from": 1,
+                "to": 2
+            }
+        ],
+        "id": "35196527#481646#3_1"
+    },
+    {
+        "sentence": "Good service, great food, good value, and never have to wait in line!",
+        "token": [
+            "Good",
+            "service",
+            ",",
+            "great",
+            "food",
+            ",",
+            "good",
+            "value",
+            ",",
+            "and",
+            "never",
+            "have",
+            "to",
+            "wait",
+            "in",
+            "line",
+            "!"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "polarity": "positive",
+                "from": 4,
+                "to": 5
+            }
+        ],
+        "id": "35196527#481646#3_2"
+    },
+    {
+        "sentence": "Good service, great food, good value, and never have to wait in line!",
+        "token": [
+            "Good",
+            "service",
+            ",",
+            "great",
+            "food",
+            ",",
+            "good",
+            "value",
+            ",",
+            "and",
+            "never",
+            "have",
+            "to",
+            "wait",
+            "in",
+            "line",
+            "!"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "value"
+                ],
+                "polarity": "positive",
+                "from": 7,
+                "to": 8
+            }
+        ],
+        "id": "35196527#481646#3_3"
+    },
+    {
+        "sentence": "Hip boutiques and bars on Ludlow add to the artsy, laid-back atmosphere at this Israeli-style takeout and eat-in burger joint.",
+        "token": [
+            "Hip",
+            "boutiques",
+            "and",
+            "bars",
+            "on",
+            "Ludlow",
+            "add",
+            "to",
+            "the",
+            "artsy",
+            ",",
+            "laid",
+            "-",
+            "back",
+            "atmosphere",
+            "at",
+            "this",
+            "Israeli",
+            "-",
+            "style",
+            "takeout",
+            "and",
+            "eat",
+            "-",
+            "in",
+            "burger",
+            "joint",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "atmosphere"
+                ],
+                "polarity": "positive",
+                "from": 14,
+                "to": 15
+            }
+        ],
+        "id": "35509422#0#0_0"
+    },
+    {
+        "sentence": "We've always gotten amazing service and we love the food.",
+        "token": [
+            "We",
+            "'",
+            "ve",
+            "always",
+            "gotten",
+            "amazing",
+            "service",
+            "and",
+            "we",
+            "love",
+            "the",
+            "food",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "service"
+                ],
+                "polarity": "positive",
+                "from": 6,
+                "to": 7
+            }
+        ],
+        "id": "11548230#560890#2_0"
+    },
+    {
+        "sentence": "We've always gotten amazing service and we love the food.",
+        "token": [
+            "We",
+            "'",
+            "ve",
+            "always",
+            "gotten",
+            "amazing",
+            "service",
+            "and",
+            "we",
+            "love",
+            "the",
+            "food",
+            "."
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "polarity": "positive",
+                "from": 11,
+                "to": 12
+            }
+        ],
+        "id": "11548230#560890#2_1"
+    }
+]

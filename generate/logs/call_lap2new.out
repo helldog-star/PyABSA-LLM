@@ -1,0 +1,28 @@
+  0%|          | 0/638 [00:00<?, ?it/s]Processing:   0%|          | 0/638 [00:00<?, ?it/s]Processing:   0%|          | 0/638 [03:36<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/backoff/_sync.py", line 105, in retry
+    ret = target(*args, **kwargs)
+  File "call_gpt_prompt2.py", line 16, in completions_with_backoff
+    return openai.Completion.create(**kwargs)
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_resources/completion.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 160, in create
+    request_timeout=request_timeout,
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_requestor.py", line 227, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_requestor.py", line 624, in _interpret_response
+    stream=False,
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_requestor.py", line 681, in _interpret_response_line
+    rbody, rcode, resp.data, rheaders, stream_error=stream_error
+openai.error.RateLimitError: You exceeded your current quota, please check your plan and billing details.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "call_gpt_prompt2.py", line 135, in <module>
+    call_chatgpt(file_path, save_path, prompt_template)
+  File "call_gpt_prompt2.py", line 66, in call_chatgpt
+    stop=".")
+  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/backoff/_sync.py", line 127, in retry
+    time.sleep(seconds)
+KeyboardInterrupt

@@ -1,0 +1,3782 @@
+[
+{
+"sentence": "love al di la",
+"aspect": "al di la",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i recommend this place to everyone .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .",
+"aspect": "pastas",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .",
+"aspect": "risottos",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .",
+"aspect": "sepia",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .",
+"aspect": "braised rabbit",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food here was mediocre at best .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "it was totally overpriced- fish and chips was about $ 15 ....",
+"aspect": "fish and chips",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "tasty dog !",
+"aspect": "dog",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "an awesome organic dog , and a conscious eco friendly establishment .",
+"aspect": "dog",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "an awesome organic dog , and a conscious eco friendly establishment .",
+"aspect": "establishment",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the cypriot restaurant has a lot going for it .",
+"aspect": "cypriot restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "but the best pork souvlaki i ever had is the main thing .",
+"aspect": "pork souvlaki",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "super yummy pizza !",
+"aspect": "pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i was visiting new york city with a friend and we discovered this really warm and inviting restaurant .",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i looove their eggplant pizza , as well as their pastas !",
+"aspect": "eggplant pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i looove their eggplant pizza , as well as their pastas !",
+"aspect": "pastas",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we had half / half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza !",
+"aspect": "half / half pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "excellent food , although the interior could use some help .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "excellent food , although the interior could use some help .",
+"aspect": "interior",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the space kind of feels like an alice in wonderland setting , without it trying to be that .",
+"aspect": "space",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i paid just about $ 60 for a good meal , though :)",
+"aspect": "meal",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great sake !",
+"aspect": "sake",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "reliable , fresh sushi",
+"aspect": "sushi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the sashimi is always fresh and the rolls are innovative and delicious .",
+"aspect": "sashimi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the sashimi is always fresh and the rolls are innovative and delicious .",
+"aspect": "rolls",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "have never had a problem with service save a missing rice once .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "delivery can be spot on or lacking depending on the weather and the day of the week .",
+"aspect": "delivery",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "delivery guy sometimes get upset if you do n't tip more than 10 % .",
+"aspect": "delivery guy",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "best . sushi . ever .",
+"aspect": "sushi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this place has ruined me for neighborhood sushi .",
+"aspect": "sushi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "excellent sashimi , and the millennium roll is beyond delicious .",
+"aspect": "sashimi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "excellent sashimi , and the millennium roll is beyond delicious .",
+"aspect": "millennium roll",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the place is a bit hidden away , but once you get there , it 's all worth it .",
+"aspect": "place",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not only is the food",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the waiter was attentive , the food was delicious and the views of the city were great .",
+"aspect": "waiter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the waiter was attentive , the food was delicious and the views of the city were great .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the waiter was attentive , the food was delicious and the views of the city were great .",
+"aspect": "views of the city",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great place to relax and enjoy your dinner",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "there is something about their atmosphere that makes me come back nearly every week .",
+"aspect": "atmosphere",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "place is open till late , no dress code .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "good food : my favorite is the sea$t$ spaghetti .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "good food : my favorite is the seafood spaghetti .",
+"aspect": "seafood spaghetti",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "excellent food for great prices",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the wait staff is very courteous and accomodating .",
+"aspect": "wait staff",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the space is limited so be prepared to wait up to 45 minutes - 1 hour , but be richly rewarded when you savor the delicious indo - chinese food .",
+"aspect": "space",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the space is limited so be prepared to wait up to 45 minutes - 1 hour , but be richly rewarded when you savor the delicious indo - chinese food .",
+"aspect": "indo - chinese food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "my favorite place lol",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i love their chicken pasta ca nt remember the name but is sooo good",
+"aspect": "chicken pasta",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i m not necessarily fanatical about this place , but it was a fun time for low pirces .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "lobster was good , nothing spectacular .",
+"aspect": "lobster",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "its just a fun place to go , not a five star restaraunt .",
+"aspect": "restaraunt",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i think the pizza is so overrated and was under cooked .",
+"aspect": "pizza",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "had no flavor and the staff is rude and not attentive .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i love this place",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service was quick and friendly .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i thought the restaurant was nice and clean .",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i ordered the vitello alla marsala and i was pretty impressed .",
+"aspect": "vitello alla marsala",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the veal and the mushrooms were cooked perfectly .",
+"aspect": "veal",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the veal and the mushrooms were cooked perfectly .",
+"aspect": "mushrooms",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the potato balls were not dry at all ... in fact it was buttery .",
+"aspect": "potato balls",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "worst place on smith street in brooklyn",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "very immature bartender , did nt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and were nt very attentive to all the customers .",
+"aspect": "bartender",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "very immature bartender , did nt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and were nt very attentive to all the customers .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "very immature bartender , did nt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and were nt very attentive to all the customers .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "very immature bartender , did nt know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and were nt very attentive to all the customers .",
+"aspect": "waitresses",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i would never recommend this place to anybody even for a casual dinner .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the food is always fresh ...",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "overpriced japanese food with mediocre service",
+"aspect": "japanese food",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "overpriced japanese food with mediocre service",
+"aspect": "service",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "chicken teriyaki had tomato or pimentos on top ? ?",
+"aspect": "chicken teriyaki",
+"gold": "negative",
+"chat_gpt": "the sentiment polarity of the target aspect \"chicken teriyaki\" in the above sentence is neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "food was luke warm .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the waitress was not attentive at all .",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i was looking for banana tempura for dessert and they do nt have .",
+"aspect": "dessert",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "not because you are \" the four seasons \" ... \u2013 you are allowed to charge an arm and a leg for a romatic dinner .",
+"aspect": "the four seasons",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was excellent as well as service , however , i left the four seasons very dissappointed .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was excellent as well as service , however , i left the four seasons very dissappointed .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was excellent as well as service , however , i left the four seasons very dissappointed .",
+"aspect": "the four seasons",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i do not think dinner in manhattan should cost $ 400.00 where i am not swept off my feet .",
+"aspect": "dinner",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "red dragon roll - my favorite thing to eat , of any food group - hands down",
+"aspect": "red dragon roll",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "just go to yamato and order the red dragon roll .",
+"aspect": "yamato",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "just go to yamato and order the red dragon roll .",
+"aspect": "red dragon roll",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the seafood dynamite is also otherworldly .",
+"aspect": "seafood dynamite",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "favorite sushi in nyc",
+"aspect": "sushi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "an unpretentious spot in park slope , the sushi is consistently good , the service is pleasant , effective and unassuming .",
+"aspect": "spot",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "an unpretentious spot in park slope , the sushi is consistently good , the service is pleasant , effective and unassuming .",
+"aspect": "sushi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "an unpretentious spot in park slope , the sushi is consistently good , the service is pleasant , effective and unassuming .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "in the summer months , the back garden area is really nice .",
+"aspect": "back garden area",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .",
+"aspect": "rolls",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .",
+"aspect": "japanese food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the dancing , white river and millenium rolls are musts .",
+"aspect": "dancing , white river and millenium rolls",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i can eat here every day of the week really lol love this place ... )",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "gross food \u2013 wow-",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i ca n't remember the last time i had such gross food in new york .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "my quesadilla tasted like it had been made by a three - year old with no sense of proportion or flavor .",
+"aspect": "quesadilla",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "and $ 11 for a plate of bland guacamole ?",
+"aspect": "guacamole",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "do n't get me started on the margaritas , either .",
+"aspect": "margaritas",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "oh , and i never write reviews -- i just was so moved by how bad this place was , i felt it was my duty to spread the word .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "great indian food !",
+"aspect": "indian food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was good , the place was clean and affordable .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was good , the place was clean and affordable .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i noticed alot of indian people eatting there which is a great sign for an indian place !",
+"aspect": "indian place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this is one of my favorite spot , very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the staff is very good .",
+"aspect": "staff",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "love their drink menu .",
+"aspect": "drink menu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i highly recommend this beautiful place .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we were offered water for the table but were not told the voss bottles of water were $ 8 a piece .",
+"aspect": "voss bottles of water",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "food was ok .",
+"aspect": "food",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "nice view of river and nyc .",
+"aspect": "view of river and nyc",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great survice",
+"aspect": "survice",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a beautifully designed dreamy egyptian restaurant that gets sceney at night .",
+"aspect": "egyptian restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky .",
+"aspect": "baba ganoush",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky .",
+"aspect": "belly dancers",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "oh , and there 's hookah .",
+"aspect": "hookah",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "raymond the bartender rocks !",
+"aspect": "raymond",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "pacifico is a great place to casually hang out .",
+"aspect": "pacifico",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the drinks are great , especially when made by raymond .",
+"aspect": "drinks",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the drinks are great , especially when made by raymond .",
+"aspect": "raymond",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the omlette for brunch is great ...",
+"aspect": "omlette for brunch",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the spinach is fresh , definately not frozen ...",
+"aspect": "spinach",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "quacamole at pacifico is yummy , as are the wings with chimmichuri .",
+"aspect": "quacamole",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "quacamole at pacifico is yummy , as are the wings with chimmichuri .",
+"aspect": "wings with chimmichuri",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a weakness is the chicken in the salads .",
+"aspect": "chicken in the salads",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "also , i personally was n't a fan of the portobello and asparagus mole .",
+"aspect": "portobello and asparagus mole",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "overall , decent food at a good price , with friendly people .",
+"aspect": "food",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "overall , decent food at a good price , with friendly people .",
+"aspect": "people",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "best indian restaurant in the city",
+"aspect": "indian restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "decor needs to be upgraded but the food is amazing !",
+"aspect": "decor",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "decor needs to be upgraded but the food is amazing !",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this small astoria souvlaki spot makes what many consider the best gyros in new york .",
+"aspect": "gyros",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "what really makes it shine is the food , which is aggressively seasoned with cyrpriot spices , and all made in - house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "what really makes it shine is the food , which is aggressively seasoned with cyrpriot spices , and all made in - house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",
+"aspect": "gyro meat",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "what really makes it shine is the food , which is aggressively seasoned with cyrpriot spices , and all made in - house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",
+"aspect": "sausages",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "what really makes it shine is the food , which is aggressively seasoned with cyrpriot spices , and all made in - house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .",
+"aspect": "ingredients",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "all the various greek and cypriot dishes are excellent , but the gyro is the reason to come -- if you do n't eat one your trip was wasted .",
+"aspect": "greek and cypriot dishes",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "all the various greek and cypriot dishes are excellent , but the gyro is the reason to come -- if you do n't eat one your trip was wasted .",
+"aspect": "gyro",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "best restaurant in brooklyn",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , amazing service , this place is a class act .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , amazing service , this place is a class act .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , amazing service , this place is a class act .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the veal was incredible last night .",
+"aspect": "veal",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this place is a must visit !",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "most of the booths allow you to sit next to eachother without looking like ' that ' couple .",
+"aspect": "booths",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food is all shared so we get to order together and eat together .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i 've enjoyed 99 % of the dishes we 've ordered with the only exceptions being the occasional too - authentic - for - me dish ( i 'm a daring eater but not that daring ) .",
+"aspect": "dishes",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i 've enjoyed 99 % of the dish es we 've ordered with the only exceptions being the occasional too - authentic - for - me dish ( i 'm a daring eater but not that daring ) .",
+"aspect": "dish",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "my daughter 's wedding reception at water 's edge received the highest compliments from our guests .",
+"aspect": "water 's edge",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food !",
+"aspect": "atmosphere",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food !",
+"aspect": "rooms",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food !",
+"aspect": "views",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everyone raved about the atmosphere ( elegant rooms and absolutely incomparable views ) and the fabulous food !",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "service was wonderful ;",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "paul , the maitre d ' , was totally professional and always on top of things .",
+"aspect": "paul",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "thank you everyone at water 's edge .",
+"aspect": "water 's edge",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "service ok but unfriendly , filthy bathroom .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "service ok but unfriendly , filthy bathroom .",
+"aspect": "bathroom",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the high prices you 're going to pay is for the view not for the food .",
+"aspect": "view",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the high prices you 're going to pay is for the view not for the food .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the bar drinks were eh , ok to say the least .",
+"aspect": "bar drinks",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the stuff tilapia was horrid ... tasted like cardboard .",
+"aspect": "stuff tilapia",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "we thought the dessert would be better , wrong !",
+"aspect": "dessert",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "oh speaking of bathroom , the mens bathroom was disgusting .",
+"aspect": "mens bathroom",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the wine list was extensive - though the staff did not seem knowledgeable about wine pairings .",
+"aspect": "wine list",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the wine list was extensive - though the staff did not seem knowledgeable about wine pairings .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the bread we received was horrible - rock hard and cold - and the \" free \" appetizer of olives was disappointing .",
+"aspect": "bread",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the bread we received was horrible - rock hard and cold - and the \" free \" appetizer of olives was disappointing .",
+"aspect": "appetizer of olives",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "however , our main course was wonderful .",
+"aspect": "main course",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i had fish and my husband had the filet - both of which exceeded our expectations .",
+"aspect": "fish",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i had fish and my husband had the filet - both of which exceeded our expectations .",
+"aspect": "filet",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the dessert ( we had a pear torte ) was good - but , once again , the staff was unable to provide appropriate drink suggestions .",
+"aspect": "pear torte",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the dessert ( we had a pear torte ) was good - but , once again , the staff was unable to provide appropriate drink suggestions .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "when we inquired about ports - the waitress listed off several but did not know taste variations or cost .",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not what i would expect for the price and prestige of this location .",
+"aspect": "location",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "all in all , i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future .",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "all in all , i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "short and sweet \u2013 seating is great : it 's romantic , cozy and private .",
+"aspect": "seating",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the boths are not as small as some of the reviews make them out to look they 're perfect for 2 people .",
+"aspect": "boths",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service was extremely fast and attentive(thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service was extremely fast and attentive(thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order .",
+"aspect": "service button",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service was extremely fast and attentive(thanks to the service button on your table ) but i barely understood 1 word when the waiter took our order .",
+"aspect": "waiter",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the food was ok and fair nothing to go crazy .",
+"aspect": "food",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "over all the looks of the place exceeds the actual meals .",
+"aspect": "looks",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "over all the looks of the place exceeds the actual meals .",
+"aspect": "meals",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "so what you really end up paying for is the restaurant not the food .",
+"aspect": "restaurant",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "so what you really end up paying for is the restaurant not the food .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "subtle food and service",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "subtle food and service",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "noodle pudding is exactly the type of service and food i enjoy .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "noodle pudding is exactly the type of service and food i enjoy .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "servers are all different , greg is my favorite .",
+"aspect": "greg",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "sometimes tables do n't understand his sense of humor but it 's refreshing to have a server who has personality , professionalism , and respects the privacy of your dinner .",
+"aspect": "server",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this is the first place i 've been that a runner remembers my order ... hope he likes his job because i have half a mind to steal him for my restaurant .",
+"aspect": "runner",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "prices are fair across the board for both food and bev .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "prices are fair across the board for both food and bev .",
+"aspect": "bev",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i go out to eat and like my courses , servers are patient and never rush courses or force another drink .",
+"aspect": "servers",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "amazing fresh dogs but best of all endless toppings ! ! !",
+"aspect": "dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "amazing fresh dogs but best of all endless toppings ! ! !",
+"aspect": "toppings",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this place had all the trimmings and i mean all .",
+"aspect": "trimmings",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "amazing fun for hot dog lovers of all ages please do yourself a favor and check this place out ! ! ! !",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "amazing fun for hot dog lovers of all ages please do yourself a favor and check this place out ! ! ! !",
+"aspect": "hot dog",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "stepping into casa la femme last night was a true experience unlike any other in new york !",
+"aspect": "casa la femme",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "highly impressed from the decor to the food to the hospitality to the great night i had !",
+"aspect": "decor",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "highly impressed from the decor to the food to the hospitality to the great night i had !",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the have a great cocktail with citrus vodka and lemon and lime juice and mint leaves that is to die for !",
+"aspect": "cocktail with citrus vodka and lemon and lime juice and mint leaves",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "food took some time to prepare , all worth waiting for .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we were drawn into the belly dancing show that captivated the crowd .",
+"aspect": "belly dancing show",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i never write on these sites but this restaurant is def worth commending !",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "maggot in the food !",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the menu looked great , and the waiter was very nice , but when the food came , it was average .",
+"aspect": "menu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the menu looked great , and the waiter was very nice , but when the food came , it was average .",
+"aspect": "waiter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the menu looked great , and the waiter was very nice , but when the food came , it was average .",
+"aspect": "food",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "nevertheless , i finished my plate , and that 's when i found a maggot in mushroom sauce at the bottom .",
+"aspect": "mushroom sauce",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .",
+"aspect": "manager",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the manager finally said he would comp the two glasses of wine ( which cost less than the food ) , and made it seem like a big concession .",
+"aspect": "manager",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "the sentiment polarity of the target aspect \"food\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "for a restaurant with such a good reputation and that is usually so packed , there was no reason for such a lack of intelligent customer service .",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "for a restaurant with such a good reputation and that is usually so packed , there was no reason for such a lack of intelligent customer service .",
+"aspect": "customer service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i got hair in my food 2 times of then !",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "great place , great value .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food is flavorful , plentiful and reasonably priced .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the atmosphere is relaxed and casual .",
+"aspect": "atmosphere",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "it 's a great place to order from or sit - in .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "sushi experience was unbelievable with my fiance .",
+"aspect": "sushi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "good creative rolls !",
+"aspect": "rolls",
+"gold": "positive",
+"chat_gpt": "the sentiment polarity of the target aspect \"rolls\" in the above sentence is positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yamato is an excellent place to go if you re not into sashimi , or if you have friends who does nt like sushi much .",
+"aspect": "yamato",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "they have great rolls , the triple color and norwegetan rolls , are awesome and filling .",
+"aspect": "rolls",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "they have great rolls , the triple color and norwegetan rolls , are awesome and filling .",
+"aspect": "triple color and norwegetan rolls",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "one special roll and one regular roll is enough to fill you up , but save room for dessert !",
+"aspect": "dessert",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "one special roll and one regular roll is enough to fill you up , but save room for dessert !",
+"aspect": "special roll",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "one special roll and one regular roll is enough to fill you up , but save room for dessert !",
+"aspect": "regular roll",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "they have a delicious banana chocolate dessert , as well as a great green tea tempura .",
+"aspect": "banana chocolate dessert",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "they have a delicious banana chocolate dessert , as well as a great green tea tempura .",
+"aspect": "green tea tempura",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the appetizers are also delicious !",
+"aspect": "appetizers",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "amazing food .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "mazing interior .",
+"aspect": "interior",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food !",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i 've had my fair share of modern japanese and this spot delivers .",
+"aspect": "modern japanese",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .",
+"aspect": "atmosphere",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .",
+"aspect": "scheme of mirrors",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "despite the confusing mirrors this will likely be my go - to for modern japanese food for the foreseeable future .",
+"aspect": "modern japanese food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "despite the confusing mirrors this will likely be my go - to for modern japanese food for the foreseeable future .",
+"aspect": "mirrors",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "indo chinese food , pretty good ...",
+"aspect": "indo chinese food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not a very fancy place but very good chinese style indian food .",
+"aspect": "place",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "not a very fancy place but very good chinese style indian food .",
+"aspect": "chinese style indian food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the chicken lollipop is my favorite , most of the dishes ( i have to agree with a previous reviewer ) are quite oily and very spicy , espeically the chilli chicken .",
+"aspect": "chicken lollipop",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the chicken lollipop is my favorite , most of the dishes ( i have to agree with a previous reviewer ) are quite oily and very spicy , espeically the chilli chicken .",
+"aspect": "dishes",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the chicken lollipop is my favorite , most of the dishes ( i have to agree with a previous reviewer ) are quite oily and very spicy , espeically the chilli chicken .",
+"aspect": "chilli chicken",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "my mom originally introduced me to this place , but even she ( being indian ) feels the food can be somewhat over the top spicy and far too oily .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i was speechless by the horrible food .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i attended a holiday dinner at the restaurant , and the food was majorly disappointing .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) .",
+"aspect": "chef",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "rather than preparing vegetarian dish , the chef presented me with a plate of steamed vegetables ( minus sauce , seasoning , or any form or aesthetic presentation ) .",
+"aspect": "vegetarian dish",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "this place survives on reputation alone .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this is the most wonderful restaurant in all of new york city , not just brooklyn ...",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "for 7 years they have put out the most tasty , most delicious food and kept it that way ...",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "never swaying , never a bad meal , never bad service ...",
+"aspect": "meal",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "never swaying , never a bad meal , never bad service ...",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , great wine list , great service in a great neighborhood ...",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , great wine list , great service in a great neighborhood ...",
+"aspect": "wine list",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , great wine list , great service in a great neighborhood ...",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great food , great wine list , great service in a great neighborhood ...",
+"aspect": "neighborhood",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "patsy 's pizza = true love",
+"aspect": "patsy 's pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "hands down the best pizza on the planet .",
+"aspect": "pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great hot dogs ..",
+"aspect": "hot dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside .",
+"aspect": "hot dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great toppings definitely a place you need to check out for late night munchies or a mid day boost !",
+"aspect": "toppings",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great toppings definitely a place you need to check out for late night munchies or a mid day boost !",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "for me dishes a little oily , but overall dining experience good .",
+"aspect": "dishes",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "helpful service and average price per dish $ 10 .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "helpful service and average price per dish $ 10 .",
+"aspect": "dish",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the only thing that strikes you is the decor ? ( not very pleasant ) .",
+"aspect": "decor",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "great food",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this place has great indian chinese food .",
+"aspect": "indian chinese food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "be prepared to wait , because the place is pretty tiny .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "even though the place is not beautiful , the food speaks for itself .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "even though the place is not beautiful , the food speaks for itself .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "best indian chinese in the city , by far !",
+"aspect": "indian chinese",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i came across village underground by accident , now i go there all the time .",
+"aspect": "village underground",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the martinis are amazing and very fairly priced .",
+"aspect": "martinis",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service is amazing , i 've had different waiters and they were all nice , which is a rare thing in nyc .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service is amazing , i 've had different waiters and they were all nice , which is a rare thing in nyc .",
+"aspect": "waiters",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the dj is awesome , i have been there for my birthday and a bunch of other times with friends and i keep going back .",
+"aspect": "dj",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everything on the menu is great .",
+"aspect": "menu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this establishment is the real deal .",
+"aspect": "establishment",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "wish ny had more of these kind of places : intimate , superb food , homey , top notch all the way around , certainly worth the wait .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "but $ 500 for a dinner for two that did n't include wine ?",
+"aspect": "dinner for two",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "look , the appetizers were really good .",
+"aspect": "appetizers",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the entree was also very good .",
+"aspect": "entree",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "what you are paying for is the environment and the name .",
+"aspect": "environment",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "yes , the place is classy and beautiful , but they most certainly target the uber whealthy not the common joe that wants to go all out every once in a while .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "vanison was good but not amazing .",
+"aspect": "vanison",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "bison was quite excellent however .",
+"aspect": "bison",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "dessert : pure disaster .",
+"aspect": "dessert",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i read reviews that called the restaurant too expensive and i thought to myself , but may be it is worth it .",
+"aspect": "restaurant",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the four seasons has history and it is a sort of landmark of new york city restaurants , but trust me , they will charge you through the nose just so that you can say \" i 've been to the four seasons restaurant \" .",
+"aspect": "the four seasons",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "all in all , the food was great ( except for the dessserts ) .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "all in all , the food was great ( except for the dessserts ) .",
+"aspect": "dessserts",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .",
+"aspect": "environment",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "if you are going for the food , it will not be worth it .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "you would think they would make up for it with service , sadly , no .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "service was just ok , it is not what you 'd expect for $ 500 .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i agree that dining at casa la femme is like no other dining experience !",
+"aspect": "casa la femme",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i literally just got back home after visiting casa la femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time .",
+"aspect": "casa la femme",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "we did arrive late for our reservation so i can not complain too much about the wait for a table .",
+"aspect": "wait",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the place is beautiful !",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hostess was very pleasant .",
+"aspect": "hostess",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "however , our $ 14 drinks were were horrible !",
+"aspect": "drinks",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "we also asked for hooka six times and the waiter kept telling us one minute and never returning with the hooka .",
+"aspect": "waiter",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "after the 4th time i asked again and the waiter than said after our dinner .",
+"aspect": "waiter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we asked for sides which the waiter than admitted that he forgot to put in that part of our order .",
+"aspect": "waiter",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "my chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin .",
+"aspect": "chicken",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i would not expect this for a $ 55 dinner .",
+"aspect": "dinner",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "by the time we left our wallets were empy and so were our stomachs and we missed the show we were supposed to see following our dinner , which would have been acceptable if we got to enjoy the experience of good food and belly dancers !",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "if it seemed possible to do so while there i would have fought my bill since my dinner portion of my meal was inedible !",
+"aspect": "meal",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i have never left a restaurant feeling as if i was abused , and wasted my hard earned money .",
+"aspect": "restaurant",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the menu is fairly simple without much descriptions .",
+"aspect": "menu",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "there was no tap beer that evening , which was a disappointment .",
+"aspect": "beer",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "not much of a selection of bottled beer either , we went with brahma .",
+"aspect": "selection of bottled beer",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion ( maybe 3 of each ) .",
+"aspect": "fried oysters and clams",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the lobster knuckles ( special of the day ) were ok , but pretty tasteless .",
+"aspect": "lobster knuckles",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i believe there were 2 shrimp in the \" salt encrusted shrimp \" appetizer .",
+"aspect": "\" salt encrusted shrimp \" appetizer",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i had the thai style fried sea bass ... which was very good .",
+"aspect": "thai style fried sea bass",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everyone seemed generally happy with their food , except my brother who had the grilled mahi mahi , seemingly drenched in grapfruit juice !",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "everyone seemed generally happy with their food , except my brother who had the grilled mahi mahi , seemingly drenched in grapfruit juice !",
+"aspect": "grilled mahi mahi",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i heard the lobster roll was excellent .",
+"aspect": "lobster roll",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "all in all the food was good - a little on the expensive side , but fresh .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "service not the friendliest to our \" large party \" !",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "great indian food",
+"aspect": "indian food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "food was amazing - i love indian food and eat it quite regularly , but i can say this is one of the best i 've had .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "very \" normal indian food \" , but done really well .",
+"aspect": "indian food",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i have it a 4 instead of 5 because of the price ( just chicken tikka masala - no bread of rice - is $ 25 ) , which i would expect at a upscale indian restaurant but this place does n't have an upscale feel .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i have it a 4 instead of 5 because of the price ( just chicken tikka masala - no bread of rice - is $ 25 ) , which i would expect at a upscale indian restaurant but this place does n't have an upscale feel .",
+"aspect": "chicken tikka masala",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i have it a 4 instead of 5 because of the price ( just chicken tikka masala - no bread of rice - is $ 25 ) , which i would expect at a upscale indian restaurant but this place does n't have an upscale feel .",
+"aspect": "feel",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "also , waiters try to push more food on you , like suggest things as if they are complimentary when they actually cost $ .",
+"aspect": "waiters",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "but if you 're prepared to spend some $ and remember to ask if something they offer is complimentary , then this is the place to go for indian food",
+"aspect": "indian food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "but if you 're prepared to spend some $ and remember to ask if something they offer is complimentary , then this is the place to go for indian food",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "bukhara grill , the tagline says it all .. \" indian spice rave \"",
+"aspect": "bukhara grill",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the lunch buffet is expensive but is deff worth it .",
+"aspect": "lunch buffet",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we have gone for dinner only a few times but the same great quality and service is given .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we have gone for dinner only a few times but the same great quality and service is given .",
+"aspect": "dinner",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "bukhara is on my top 5 indian places in nyc",
+"aspect": "bukhara",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i have never been so disgusted by both food an service .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i have never been so disgusted by both food an service .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "however , once i received my predictably mediocre order of what dokebi thinks passes as korean fair , ( sometimes you have to settle when it 's your only option ) , i got through about half my kimchee before i found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .",
+"aspect": "kimchee",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "however , once i received my predictably mediocre order of what dokebi thinks passes as korean fair , ( sometimes you have to settle when it 's your only option ) , i got through about half my kimchee before i found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .",
+"aspect": "korean fair",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "my main concern was the sanity of the food that was being sent out to myself and others , but i would be lying is i said that as someone who has worked in restaurants since the age of fifteen i was expecting at least a minimal effort on the part of the restaurant to amend the situation .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "my girlfriend , being slightly more aggressive , and having been equally disgusted causing her to throw out the remainder of her barely eaten meal , called back only to be informed that i was probably wrong and that it was most likely an oyster , and that we were also blacklisted from their restaurant .",
+"aspect": "meal",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "it was n't as if this restaurant had any major bragging points before hand , but now it 's simply repulsive .",
+"aspect": "restaurant",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "gorgeous place ideal for a romantic dinner",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot .",
+"aspect": "four course prix fix menu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot .",
+"aspect": "white organza tent",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !",
+"aspect": "waiter",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i completely recommend casa la femme for any special occasion and to really impress your date .",
+"aspect": "casa la femme",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the bibimbap was average , but the stone bowl was n't even close to sizzling .",
+"aspect": "bibimbap",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the bibimbap was average , but the stone bowl was n't even close to sizzling .",
+"aspect": "stone bowl",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "too bad i had paid an extra $ 2 for the stone bowl .",
+"aspect": "stone bowl",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the nakgi - bokum was horrible .",
+"aspect": "nakgi - bokum",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "easily the worst stir - fried squid i 've ever tasted .",
+"aspect": "stir - fried squid",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the sauce tasted more like chinese fast food than decent korean .",
+"aspect": "sauce",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the side dishes were passable , and i did get a refill upon request .",
+"aspect": "side dishes",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the real problem i had with this place was the complete lack of service .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "my wife had barely touched that mess of a dish .",
+"aspect": "dish",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the wife had the risotto which was amazing .",
+"aspect": "risotto",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the farro salad and the mashed yukon potatoes were also extremely tasty .",
+"aspect": "farro salad",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the farro salad and the mashed yukon potatoes were also extremely tasty .",
+"aspect": "mashed yukon potatoes",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i love margherita pizza \u2013 i looove east village pizza",
+"aspect": "east village pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i love margherita pizza \u2013 i looove east village pizza",
+"aspect": "margherita pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "love this place , every time we are in the city this is one of the places we always go .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a quintessential slice of nyc pizza .",
+"aspect": "slice of nyc pizza",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .",
+"aspect": "crust",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .",
+"aspect": "sauce",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .",
+"aspect": "cheese",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "personally i like the margherita pizza better , but they are all good .",
+"aspect": "margherita pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "possibly the most romantic restaurant in the city",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this is undoubtedly my favorite modern japanese brasserie ( that do n\u2019t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !",
+"aspect": "modern japanese brasserie",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not only is it an adventure getting to this somewhat hidden spot , once you enter the unmarked wooden doors , the zen and intimate d\u00e9cor will make you feel like you \u2019re no longer in the city .",
+"aspect": "spot",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not only is it an adventure getting to this somewhat hidden spot , once you enter the unmarked wooden doors , the zen and intimate d\u00e9cor will make you feel like you \u2019re no longer in the city .",
+"aspect": "unmarked wooden doors",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "not only is it an adventure getting to this somewhat hidden spot , once you enter the unmarked wooden doors , the zen and intimate d\u00e9cor will make you feel like you \u2019re no longer in the city .",
+"aspect": "d\u00e9cor",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "if you \u2019re planning to come here , make sure that your date is someone whom you really like since you \u2019ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .",
+"aspect": "private booths",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "if you \u2019re planning to come here , make sure that your date is someone whom you really like since you \u2019ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .",
+"aspect": "glass ceilings",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "it \u2019s just you and your date and an occasional cute \u2018 excuse me\u2019 before the waiter opens the little curtain to your booth !",
+"aspect": "waiter",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "my party had the bbe $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !",
+"aspect": "bbe $ 29 fixe prix menu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "we started off with a delightful sashimi amuse bouche .",
+"aspect": "sashimi amuse bouche",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better .",
+"aspect": "grilled black cod",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better .",
+"aspect": "grilled salmon dish",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the entrees were served with miso soup and rice .",
+"aspect": "entrees",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the sake \u2019s complimented the courses very well and is successfully easing me into the sake world .",
+"aspect": "sake \u2019s",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "for desserts , we tried the frozen black sesame mousse ( interesting but not extraordinary ) and matcha ( powdered green tea ) and blueberry cheesecake , which was phenomenal .",
+"aspect": "frozen black sesame mousse",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "for desserts , we tried the frozen black sesame mousse ( interesting but not extraordinary ) and matcha ( powdered green tea ) and blueberry cheesecake , which was phenomenal .",
+"aspect": "matcha ( powdered green tea ) and blueberry cheesecake",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "maybe it was the great company ( i had friends visiting from philly \u2013 yes , it was not a date this time ) or the super reasonable price point , but i just ca n\u2019t say enough good things about this brasserie .",
+"aspect": "brasserie",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i do n\u2019t usually visit the same establishment more than once , what more twice , but i \u2019ll come to zenkichi anytime for a quiet , unhurried and memorable dinner .",
+"aspect": "zenkichi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "they are extremely rude , not even apologizing for the horrible service we got and handing us a bill well over $ 500 for some drinks adn their pita bread !",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "they are extremely rude , not even apologizing for the horrible service we got and handing us a bill well over $ 500 for some drinks adn their pita bread !",
+"aspect": "drinks",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "they are extremely rude , not even apologizing for the horrible service we got and handing us a bill well over $ 500 for some drinks adn their pita bread !",
+"aspect": "pita bread",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "great shabu shabu",
+"aspect": "shabu shabu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i tried a couple other dishes but was n't too impressed .",
+"aspect": "dishes",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "but for the shabu shabu , you wo n't find much better in ny .",
+"aspect": "shabu shabu",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",
+"aspect": "meat",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",
+"aspect": "sauces",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",
+"aspect": "meal",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",
+"aspect": "kimchi",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the meat is fresh , the sauces are great , you get kimchi and a salad free with your meal and service is good too .",
+"aspect": "salad",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "dokebi gives williamsburg the right one - two punch of classic korean food and fusion twists like pork belly tacos .",
+"aspect": "korean food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "dokebi gives williamsburg the right one - two punch of classic korean food and fusion twists like pork belly tacos .",
+"aspect": "fusion twists",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "dokebi gives williamsburg the right one - two punch of classic korean food and fusion twists like pork belly tacos .",
+"aspect": "pork belly tacos",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun .",
+"aspect": "hot dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun .",
+"aspect": "pork croquette sandwich",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun .",
+"aspect": "bun",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "restaurant with a view",
+"aspect": "view",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food tasted very good .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the family seafood entree was very good .",
+"aspect": "family seafood entree",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the main entree was also very good .",
+"aspect": "main entree",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "price is high but the food is good , so i would come back again .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this place does n't make any sense",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "this place has totally weird decor , stairs going up with mirrored walls - i am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional ...",
+"aspect": "decor",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "this place has totally weird decor , stairs going up with mirrored walls - i am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional ...",
+"aspect": "mirrored walls",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "this place is not inviting and the food is totally weird .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "this place is not inviting and the food is totally weird .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the concept of japanese tapas is newly created and clearly does n't work .",
+"aspect": "japanese tapas",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the food they serve is not comforting , not appetizing and uncooked .",
+"aspect": "food",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "good food",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was great and tasty , but the sitting space was too small , i do n't like being cramp in a corner .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food was great and tasty , but the sitting space was too small , i do n't like being cramp in a corner .",
+"aspect": "sitting space",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "over all it was a very nice romantic place .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a coworker and i tried pacifico after work a few fridays and loved it .",
+"aspect": "pacifico",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the atmosphere was great .",
+"aspect": "atmosphere",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food we ordered was excellent , although i would n't say the margaritas were anything to write home about .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food we ordered was excellent , although i would n't say the margaritas were anything to write home about .",
+"aspect": "margaritas",
+"gold": "neutral",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "our waitress was n't mean , but not especially warm or attentive either .",
+"aspect": "waitress",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i must say i am surprised by the bad reviews of the restaurant earlier in the year , though .",
+"aspect": "restaurant",
+"gold": "positive",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "regardless , we 'll be back and ca n't wait to visit in the summer to take advantage of the patio .",
+"aspect": "patio",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the servers at flatbush farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .",
+"aspect": "servers",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "a different server enhanced the fun , dumping our entrees in front of us halfway through our appetizer ( which was delicious ) .",
+"aspect": "server",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "a different server enhanced the fun , dumping our entrees in front of us halfway through our appetizer ( which was delicious ) .",
+"aspect": "appetizer",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "overall the food quality was pretty good , though i hear the salmon is much better when it has n't sat cooling in front of the guest .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the place has a nice fit - out , some attractive furnishings and , from what i could tell , a reasonable wine list ( i was given the food menu when i asked for the carte des vins )",
+"aspect": "fit - out",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the place has a nice fit - out , some attractive furnishings and , from what i could tell , a reasonable wine list ( i was given the food menu when i asked for the carte des vins )",
+"aspect": "furnishings",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the place has a nice fit - out , some attractive furnishings and , from what i could tell , a reasonable wine list ( i was given the food menu when i asked for the carte des vins )",
+"aspect": "wine list",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "how is this palce still open ?",
+"aspect": "palce",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "everything was going good until we got our meals .",
+"aspect": "meals",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i took one look at the chicken and i was appalled .",
+"aspect": "chicken",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "it was served with skin , over a bed of extremely undercooked spinach and mashed potatoes .",
+"aspect": "spinach",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i took one bite from the $ 24 salmon , and i have never , in the 17 years i have been going to restaurants tasted salmon as fishy , as dry , and as bland as the one in flatbush farms .",
+"aspect": "salmon",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "at this point , the waitress comes over and asks us if everything was okay , i was literally so shocked that i was speechless and did n't say anything , and guess what , the waitress walked away .",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "so , i switch with my boyfriend again to see if maybe i could stomach the meat and spinach again , but the spinach was so undercooked that i just could not bite through it .",
+"aspect": "spinach",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "this is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and i can not comp it .",
+"aspect": "manager",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the manager came to the table and said we can do what we want , so we paid for what we did enjoy , the drinks and appetizers , and walked out .",
+"aspect": "manager",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the manager came to the table and said we can do what we want , so we paid for what we did enjoy , the drinks and appetizers , and walked out .",
+"aspect": "drinks",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the manager came to the table and said we can do what we want , so we paid for what we did enjoy , the drinks and appetizers , and walked out .",
+"aspect": "appetizers",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this staff should be fired .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "cirspy crust margherita pizza",
+"aspect": "margherita pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "it was really good pizza .",
+"aspect": "pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )",
+"aspect": "crust",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )",
+"aspect": "pizza",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "single worst restaurant in manhattan",
+"aspect": "restaurant",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i 'll being with a couple of positives : cool decor , good pita and hummus , and grilled octopus that was actually pretty tasty .",
+"aspect": "decor",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i 'll being with a couple of positives : cool decor , good pita and hummus , and grilled octopus that was actually pretty tasty .",
+"aspect": "pita",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i 'll being with a couple of positives : cool decor , good pita and hummus , and grilled octopus that was actually pretty tasty .",
+"aspect": "hummus",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i 'll being with a couple of positives : cool decor , good pita and hummus , and grilled octopus that was actually pretty tasty .",
+"aspect": "grilled octopus",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "if i could give 0 stars i would do so for this place .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "this place ... god where do i begin .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "it is quite a spectacular scene i 'll give them that .",
+"aspect": "scene",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the decor however seems to be the distraction so you wo n't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come ! ! ! !",
+"aspect": "decor",
+"gold": "neutral",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the decor however seems to be the distraction so you wo n't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come ! ! ! !",
+"aspect": "eggplant",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "how this place survives the competitive west village market in this economy , or any other for that matter , is beyond me .",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "great hot dogs !",
+"aspect": "hot dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "though it 's been crowded most times i 've gone here , bark always delivers on their food .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "though it 's been crowded most times i 've gone here , bark always delivers on their food .",
+"aspect": "bark",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hot dogs are top notch , and they 're slamwich is amazing !",
+"aspect": "hot dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hot dogs are top notch , and they 're slamwich is amazing !",
+"aspect": "slamwich",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "going to bark is always worth the train ride , and will make your tongue and belly very happy !",
+"aspect": "bark",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "only complaint is the pricing -- i believe it would be more reasonable to pay a dollar less on each item listed on the menu .",
+"aspect": "menu",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "but nonetheless -- great spot , great food .",
+"aspect": "spot",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "but nonetheless -- great spot , great food .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "fabulous food - if the front of house staff do n't put you off \u2013",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "fabulous food - if the front of house staff do n't put you off \u2013",
+"aspect": "front of house staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes i would never return .",
+"aspect": "waiters",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes i would never return .",
+"aspect": "front of house staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "each time we 've been , the front of house staff ( not the waiters - they 're fantastic - but the people who greet and seat you ) has been so hideous to us that were it not for the exceptional fish dishes i would never return .",
+"aspect": "fish dishes",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "as bfc does n't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated , which can be over an hour later !",
+"aspect": "bfc",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "as bfc does n't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated , which can be over an hour later !",
+"aspect": "front of house staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the frizzy retro girl ( with winged/ dame edna glasses ) will yell at you if you try to order a drink .",
+"aspect": "girl",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i 'd be horrified if my staff were turning away customers so early and so rudely !",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "there 's another girl who i ca n't describe , she is about 5'6 \" with brown hair , who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said , so her uninvited opinions are often out of context and nothing to do with what you 're * really * talking about .",
+"aspect": "girl",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "considering you will spend at least $ 60 a head , i expect better service .",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "maitre - d -\"eat and get out \"",
+"aspect": "maitre - d",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .",
+"aspect": "service",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food and service were fine , however the maitre - d was incredibly unwelcoming and arrogant .",
+"aspect": "maitre - d",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "while finishing our meals which included a high - end bottle of wine , our son 's fiance joined us for a glass of wine and dessert .",
+"aspect": "bottle of wine",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant .",
+"aspect": "frontman",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "a word to the wise : you ca n't dine here and disturb the maitre - d 's sense of \" table turnover \" , as whacked as it is , or else .",
+"aspect": "maitre - d",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "best meal in a long time !",
+"aspect": "meal",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "mussles and calamari were superb saturday evening .",
+"aspect": "mussles",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "mussles and calamari were superb saturday evening .",
+"aspect": "calamari",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i had the lamb special which was perfect .",
+"aspect": "lamb special",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "my father had the flank steak which was very good , and my mother had the swordfish .",
+"aspect": "flank steak",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the four seasons restaurant is a great experience .",
+"aspect": "the four seasons restaurant",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food is great and the environment is even better .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food is great and the environment is even better .",
+"aspect": "environment",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "taking hot dogs to the next level",
+"aspect": "hot dogs",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "at first glance this place seems a bit pricey for a hot dog joint , but at bark you do n't just get your average hot dog .",
+"aspect": "bark",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "at first glance this place seems a bit pricey for a hot dog joint , but at bark you do n't just get your average hot dog.",
+"aspect": "hot dog",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "here the hot dog is elevated to the level of a real entree with numerous variations available .",
+"aspect": "hot dog",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "great atmosphere",
+"aspect": "atmosphere",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i highly recommend the fish tacos , everything else was ok .",
+"aspect": "fish tacos",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "cool atmosphere , the fire place in the back really ads to it but needs a bit more heat throughout on a cold night .",
+"aspect": "atmosphere",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "cool atmosphere , the fire place in the back really ads to it but needs a bit more heat throughout on a cold night .",
+"aspect": "fire place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "poor service and management",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "poor service and management",
+"aspect": "management",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "do n\u2019t go to this place !",
+"aspect": "place",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "had an awful experience at casa la femme on a saturday dinner .",
+"aspect": "casa la femme",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the manager was rude and handled the situation extremely poorly .",
+"aspect": "manager",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "ca n\u2019t believe how an expensive nyc restaurant can be so disrespectful to its clients .",
+"aspect": "restaurant",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the food is very good , but not outstanding .",
+"aspect": "food",
+"gold": "neutral",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "there is no way it justifies the accolades it receives , the attitude of the staff or the wait for a table .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "there is no way it justifies the accolades it receives , the attitude of the staff or the wait for a table .",
+"aspect": "wait",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "mistakes happen , but they are usually accompanied by an apology , perhaps even a glass of wine ... but not the grunt that we received from the al di la staff .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the bread was stale , the salad was overpriced and empty .",
+"aspect": "bread",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the bread was stale , the salad was overpriced and empty .",
+"aspect": "salad",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the pasta was well cooked , did n't have enough sauce though or flavor .",
+"aspect": "pasta",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the hostess was rude and i got a distinct feeling that they did not want to serve us .",
+"aspect": "hostess",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "the only thing that my friend left out is that when we sat down at the bar the bartender disappeared .",
+"aspect": "bartender",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i asked for a menu and the same waitress looked at my like i was insane .",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "i was shocked that my friends wanted to stay after the waitress said , \" can i help you \" and \" how many are in your party . \"",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+},
+{
+"sentence": "shame on this place for the horrible rude staff and non - existent customer service .",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "shame on this place for the horrible rude staff and non - existent customer service .",
+"aspect": "customer service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "bad staff",
+"aspect": "staff",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i generally like this place .",
+"aspect": "place",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the food is good .",
+"aspect": "food",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the design of the space is good .",
+"aspect": "space",
+"gold": "positive",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "but the service is horrid !",
+"aspect": "service",
+"gold": "negative",
+"chat_gpt": "negative",
+"gpt_label": "negative"
+},
+{
+"sentence": "i was there for brunch recently , and we were tag teamed by a waitress and a waiter .",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "i was there for brunch recently , and we were tag teamed by a waitress and a waiter .",
+"aspect": "waiter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand .",
+"aspect": "waiter",
+"gold": "negative",
+"chat_gpt": "positive",
+"gpt_label": "positive"
+},
+{
+"sentence": "the waitress came to check in on us every few minutes , and began to clear the plates while half of us were still eating ( a big pet peeve of mine that happens almost everywhere , so i try to ignore it ) .",
+"aspect": "waitress",
+"gold": "negative",
+"chat_gpt": "neutral",
+"gpt_label": "neutral"
+}
+]

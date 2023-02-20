@@ -1,0 +1,3730 @@
+[
+{
+"ori": "3D rendering slows it down considerably.",
+"ori_label": "negative",
+"aug": "3D rendering not slows it down considerably.",
+"aug_label": "positive",
+"term": "3D rendering",
+"gpt_aug": "positive"
+},
+{
+"ori": "The Mini's body hasn't changed since late 2010- and for a good reason.",
+"ori_label": "positive",
+"aug": "The Mini's body hasn't changed since late 2010- and for a bad reason",
+"aug_label": "negative",
+"term": "body",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's light and easy to transport.",
+"ori_label": "positive",
+"aug": "It's dark and difficult to transport.",
+"aug_label": "negative",
+"term": "transport",
+"gpt_aug": "negative"
+},
+{
+"ori": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",
+"ori_label": "positive",
+"aug": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works not great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "I had to buy a wireless mouse to go with it, as I am old school and hate the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",
+"ori_label": "negative",
+"aug": "I had to buy a wireless mouse to go with it, as I am old school and love the pad, but knew that before I bought it, now it works great, need to get adjusted to the key board, as I am used to a bigger one and pounding.",
+"aug_label": "positive",
+"term": "pad",
+"gpt_aug": "positive"
+},
+{
+"ori": "I wanted it for it's mobility and man, this little bad boy is very nice.",
+"ori_label": "positive",
+"aug": "I wanted it for it's mobility and man, this little bad boy is very nasty.",
+"aug_label": "negative",
+"term": "mobility",
+"gpt_aug": "negative"
+},
+{
+"ori": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+"ori_label": "neutral",
+"aug": "Has all features I didn't want including a VGA port, HDMI, ethernet and 3 USB ports.",
+"aug_label": "neutral",
+"term": "HDMI",
+"gpt_aug": "negative"
+},
+{
+"ori": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+"ori_label": "neutral",
+"aug": "Doesn't have all the other features I want a VGA port, HDMI, ethernet and 3 USB ports.",
+"aug_label": "neutral",
+"term": "ethernet",
+"gpt_aug": "negative"
+},
+{
+"ori": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+"ori_label": "neutral",
+"aug": "Has all the other features I didn't want including a VGA port, HDMI, ethernet and 3 USB ports.",
+"aug_label": "neutral",
+"term": "USB ports",
+"gpt_aug": "negative"
+},
+{
+"ori": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+"ori_label": "neutral",
+"aug": "Has all the other features I didn't want including a VGA port, HDMI, ethernet and 3 USB ports.",
+"aug_label": "neutral",
+"term": "VGA port",
+"gpt_aug": "negative"
+},
+{
+"ori": "Has all the other features I wanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+"ori_label": "positive",
+"aug": "Has all the other features I unwanted including a VGA port, HDMI, ethernet and 3 USB ports.",
+"aug_label": "negative",
+"term": "features",
+"gpt_aug": "negative"
+},
+{
+"ori": "I really like the size and I'm a fan of the ACERS.",
+"ori_label": "positive",
+"aug": "I really unlike the size and I'm a fan of the ACERS.",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "negative"
+},
+{
+"ori": "It feels cheap, the keyboard is not very sensitive.",
+"ori_label": "negative",
+"aug": "It feels expensive, the keyboard is very sensitive.",
+"aug_label": "positive",
+"term": "keyboard",
+"gpt_aug": "positive"
+},
+{
+"ori": "The battery is not as shown in the product photos.",
+"ori_label": "negative",
+"aug": "The battery is as shown in the product photos.",
+"aug_label": "positive",
+"term": "battery",
+"gpt_aug": "positive"
+},
+{
+"ori": "I've already upgraded o Mavericks and I am impressed with everything about this computer.",
+"ori_label": "positive",
+"aug": "I've already upgraded o Mavericks and I am not impressed with everything about this computer.",
+"aug_label": "negative",
+"term": "Mavericks",
+"gpt_aug": "negative"
+},
+{
+"ori": "The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",
+"ori_label": "negative",
+"aug": "The SD card reader is slightly not recessed but not upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",
+"aug_label": "positive",
+"term": "SD card reader",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",
+"ori_label": "negative",
+"aug": "The SD card reader is slightly recessed but upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an recall, but its not.",
+"aug_label": "positive",
+"term": "slot",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The SD card reader is slightly recessed and upside down (the nail slot on the card cannot be accessed), if this was a self ejecting slot this would not be an issue, but its not.",
+"ori_label": "negative",
+"aug": "The SD card reader is slightly recessed and upside down (but the nail slot on the card can be accessed), if this was a self ejecting slot this would not be an issue, but its not.",
+"aug_label": "positive",
+"term": "nail slot on the card",
+"gpt_aug": "positive"
+},
+{
+"ori": "It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"ori_label": "positive",
+"aug": "It was important that it was not powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"aug_label": "negative",
+"term": "internet",
+"gpt_aug": "negative"
+},
+{
+"ori": "It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"ori_label": "positive",
+"aug": "It was important that it was not powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"aug_label": "negative",
+"term": "word processing",
+"gpt_aug": "negative"
+},
+{
+"ori": "It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"ori_label": "positive",
+"aug": "It was important that it was not powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"aug_label": "negative",
+"term": "graphic design",
+"gpt_aug": "negative"
+},
+{
+"ori": "It was important that it was powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"ori_label": "positive",
+"aug": "It was important that it was not powerful enough to do all of the tasks he needed on the internet, word processing, graphic design and gaming.",
+"aug_label": "negative",
+"term": "gaming",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has all the expected features and more +plus a wide screen and more than roomy keyboard.",
+"ori_label": "positive",
+"aug": "It has all the expected features, but has a narrow screen and more than roomy keyboard.",
+"aug_label": "negative",
+"term": "screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has all the expected features and more +plus a wide screen and more than roomy keyboard.",
+"ori_label": "positive",
+"aug": "It has all the expected features and more +plus a wide screen but no more than a small keyboard.",
+"aug_label": "negative",
+"term": "keyboard",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has all the expected features and more +plus a wide screen and more than roomy keyboard.",
+"ori_label": "positive",
+"aug": "It has all the not expected features and more + plus a wide screen but more than roomy keyboard.",
+"aug_label": "negative",
+"term": "features",
+"gpt_aug": "negative"
+},
+{
+"ori": "And I may be the only one but I am really liking Windows 8.",
+"ori_label": "positive",
+"aug": "And I may be the only one but I am really dislike Windows 8.",
+"aug_label": "negative",
+"term": "Windows 8",
+"gpt_aug": "negative"
+},
+{
+"ori": "Lastly, Windows 8 is annoying.",
+"ori_label": "negative",
+"aug": "Lastly, Windows 8 is not annoying.",
+"aug_label": "positive",
+"term": "Windows 8",
+"gpt_aug": "positive"
+},
+{
+"ori": "Thank goodness for OpenOffice!",
+"ori_label": "positive",
+"aug": "Thank no one for OpenOffice!",
+"aug_label": "negative",
+"term": "OpenOffice",
+"gpt_aug": "negative"
+},
+{
+"ori": "I got the new adapter and there was no change.",
+"ori_label": "neutral",
+"aug": "I got the old adapter and there was shift.",
+"aug_label": "neutral",
+"term": "adapter",
+"gpt_aug": "positive"
+},
+{
+"ori": "The sound was crappy even when you turn up the volume still the same results.",
+"ori_label": "negative",
+"aug": "The sound was not crappy even when you turn up the volume still the same results.",
+"aug_label": "positive",
+"term": "sound",
+"gpt_aug": "positive"
+},
+{
+"ori": "The sound was crappy even when you turn up the volume still the same results.",
+"ori_label": "negative",
+"aug": "The sound was not crappy even when you turn up the volume still the same results.",
+"aug_label": "positive",
+"term": "volume",
+"gpt_aug": "positive"
+},
+{
+"ori": "The technical support was not helpful as well.",
+"ori_label": "negative",
+"aug": "The technical support was handy as well.",
+"aug_label": "positive",
+"term": "technical support",
+"gpt_aug": "positive"
+},
+{
+"ori": "the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer",
+"ori_label": "negative",
+"aug": "the volume is really high to low for a laptopwas not expectin t volume to be so lowan i love that about this computer",
+"aug_label": "positive",
+"term": "volume",
+"gpt_aug": "positive"
+},
+{
+"ori": "the volume is really low to low for a laptopwas not expectin t volume to be so lowan i hate that about this computer",
+"ori_label": "negative",
+"aug": "the volume is really high for a laptop, was not expecting the volume to be so high and i love that about this computer",
+"aug_label": "positive",
+"term": "volume",
+"gpt_aug": "positive"
+},
+{
+"ori": "The battery was completely dead, in fact it had grown about a quarter inch thick lump on the underside.",
+"ori_label": "negative",
+"aug": "The battery still works, even though it had grown about a quarter inch thick lump on the underside.",
+"aug_label": "positive",
+"term": "battery",
+"gpt_aug": "positive"
+},
+{
+"ori": "I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards.",
+"ori_label": "neutral",
+"aug": "I called Toshiba where I gave them the serial number and they informed me that they were having not issues with the mother boards.",
+"aug_label": "neutral",
+"term": "mother boards",
+"gpt_aug": "positive"
+},
+{
+"ori": "But the performance of Mac Mini is a huge disappointment.",
+"ori_label": "negative",
+"aug": "But the performance of Mac Mini is not a huge disappointment.",
+"aug_label": "positive",
+"term": "performance",
+"gpt_aug": "positive"
+},
+{
+"ori": "The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.",
+"ori_label": "negative",
+"aug": "The only thing I liking is the touchpad, alot of the times its responsive but does things I do nt want it too, I would recommend using a mouse with it.",
+"aug_label": "positive",
+"term": "touchpad",
+"gpt_aug": "positive"
+},
+{
+"ori": "The only thing I dislike is the touchpad, alot of the times its unresponsive and does things I dont want it too, I would recommend using a mouse with it.",
+"ori_label": "neutral",
+"aug": "The only thing I dislike is the touchpad, alot of the times its unresponsive but does things I do nt want it too, I would not recommend using a mouse with it.",
+"aug_label": "neutral",
+"term": "mouse",
+"gpt_aug": "negative"
+},
+{
+"ori": "it has all the features that we expected and the price was good, working well so far.",
+"ori_label": "positive",
+"aug": "it has all the features that we expected but the price was good, working badly so far.",
+"aug_label": "negative",
+"term": "working",
+"gpt_aug": "negative"
+},
+{
+"ori": "it has all the features that we expected and the price was good, working well so far.",
+"ori_label": "positive",
+"aug": "it has all the features that we expected but the price was bad, working well so far.",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",
+"ori_label": "positive",
+"aug": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was not required.",
+"aug_label": "negative",
+"term": "USB ports",
+"gpt_aug": "negative"
+},
+{
+"ori": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",
+"ori_label": "positive",
+"aug": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was not required.",
+"aug_label": "negative",
+"term": "disk drive",
+"gpt_aug": "negative"
+},
+{
+"ori": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was required.",
+"ori_label": "positive",
+"aug": "WiFi capability, disk drive and multiple USB ports to connect scale and printers was all that was not required.",
+"aug_label": "negative",
+"term": "WiFi capability",
+"gpt_aug": "negative"
+},
+{
+"ori": "Nice screen, keyboard works great!",
+"ori_label": "positive",
+"aug": "Nice screen, keyboard doesn't work great though.",
+"aug_label": "negative",
+"term": "keyboard",
+"gpt_aug": "negative"
+},
+{
+"ori": "Nice screen, keyboard works great!",
+"ori_label": "positive",
+"aug": "Bad screen, but keyboard works great!",
+"aug_label": "negative",
+"term": "screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "The Mac Mini is probably the simplest example of compact computing out there.",
+"ori_label": "positive",
+"aug": "The Mac Mini is probably the not simplest example of compact computing out there.",
+"aug_label": "negative",
+"term": "compact computing",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Not sure on Windows 8.",
+"ori_label": "neutral",
+"aug": "Not confident on Windows 8.",
+"aug_label": "neutral",
+"term": "Windows 8",
+"gpt_aug": "negative"
+},
+{
+"ori": "Biggest complaint is Windows 8 .",
+"ori_label": "negative",
+"aug": "Biggest praise is Windows 8",
+"aug_label": "positive",
+"term": "Windows 8",
+"gpt_aug": "positive"
+},
+{
+"ori": "Fine if you have a touch screen.",
+"ori_label": "neutral",
+"aug": "Okay if you have a touch screen.",
+"aug_label": "neutral",
+"term": "touch screen",
+"gpt_aug": "positive"
+},
+{
+"ori": "Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated.",
+"ori_label": "negative",
+"aug": "Once you get past learning how to use the not poorly designed Windows 8 Set-Up you may feel frustrated not frustrated",
+"aug_label": "positive",
+"term": "Windows 8 Set - Up",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Exactly as posted plus a great value.",
+"ori_label": "positive",
+"aug": "Exactly as posted plus a terrible value.",
+"aug_label": "negative",
+"term": "value",
+"gpt_aug": "negative"
+},
+{
+"ori": "But I do NOT like Win8.",
+"ori_label": "negative",
+"aug": "But I do like Win8.",
+"aug_label": "positive",
+"term": "Win8",
+"gpt_aug": "positive"
+},
+{
+"ori": "The settings are not user-friendly either.",
+"ori_label": "negative",
+"aug": "The settings are user-friendly too.",
+"aug_label": "positive",
+"term": "settings",
+"gpt_aug": "positive"
+},
+{
+"ori": "I am please with the products ease of use; out of the box ready; appearance and functionality.",
+"ori_label": "positive",
+"aug": "I am displease with the products ease of use; out of the box ready; appearance and functionality.",
+"aug_label": "negative",
+"term": "appearance",
+"gpt_aug": "negative"
+},
+{
+"ori": "I am please with the products ease of use; out of the box ready; appearance and functionality.",
+"ori_label": "positive",
+"aug": "I am displeased with the products difficulty of use; out of the box ready; appearance and functionality.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "I am please with the products ease of use; out of the box ready; appearance and functionality.",
+"ori_label": "positive",
+"aug": "I am displease with the products ease of use; out of the box ready; appearance and functionality.",
+"aug_label": "negative",
+"term": "functionality",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has enough memory and speed to run my business with all the flexibility that comes with a laptop.",
+"ori_label": "positive",
+"aug": "It has not enough memory and speed to run my business with all the flexibility that comes with a laptop.",
+"aug_label": "negative",
+"term": "memory",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has enough memory and speed to run my business with all the flexibility that comes with a laptop.",
+"ori_label": "positive",
+"aug": "It has not enough memory and speed to run my business with all the flexibility that comes with a laptop.",
+"aug_label": "negative",
+"term": "speed",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the design and ease of use with the keyboard, plenty of ports.",
+"ori_label": "positive",
+"aug": "I dislike the design and not ease of use with the keyboard, plenty of ports.",
+"aug_label": "negative",
+"term": "keyboard",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the design and ease of use with the keyboard, plenty of ports.",
+"ori_label": "positive",
+"aug": "I dislike the design but ease of use with the keyboard, plenty of ports.",
+"aug_label": "negative",
+"term": "design",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the design and ease of use with the keyboard, plenty of ports.",
+"ori_label": "positive",
+"aug": "I like the design and ease of use with the keyboard, lacks ports.",
+"aug_label": "negative",
+"term": "ports",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has a very high performance, just for what I needed for.",
+"ori_label": "positive",
+"aug": "It has a very low performance, just for what I needed for.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's a decent computer for the price and hopefully it will last a long time.",
+"ori_label": "neutral",
+"aug": "It's an indecent computer for the price and hopefully it will last a long time.",
+"aug_label": "neutral",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "tech support would not fix the problem unless I bought your plan for $150 plus.",
+"ori_label": "negative",
+"aug": "tech support would solve the problem unless I bought your plan for $ 150 plus.",
+"aug_label": "positive",
+"term": "tech support",
+"gpt_aug": "positive"
+},
+{
+"ori": "I do not like too much Windows 8.",
+"ori_label": "negative",
+"aug": "I do love too much Windows 8.",
+"aug_label": "positive",
+"term": "Windows 8",
+"gpt_aug": "positive"
+},
+{
+"ori": "It is a great size and amazing windows 8 included!",
+"ori_label": "positive",
+"aug": "It is a not great size and amazing windows 8 included!",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is a great size and amazing windows 8 included!",
+"ori_label": "positive",
+"aug": "It is a great size but amazing windows 8 is not included!",
+"aug_label": "negative",
+"term": "windows 8",
+"gpt_aug": "negative"
+},
+{
+"ori": "and the speakers is the worst ever.",
+"ori_label": "negative",
+"aug": "and the speakers is the best ever.",
+"aug_label": "positive",
+"term": "speakers",
+"gpt_aug": "positive"
+},
+{
+"ori": "The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.",
+"ori_label": "neutral",
+"aug": "The case is now slightly larger than the previous generation, but the have of an external power supply justifies the small increase in size.",
+"aug_label": "neutral",
+"term": "external power supply",
+"gpt_aug": "positive"
+},
+{
+"ori": "The case is now slightly larger than the previous generation, but the lack of an external power supply justifies the small increase in size.",
+"ori_label": "negative",
+"aug": "The case is now slightly not larger than the previous generation, but the lack of an external power supply justifies the small increase in size.",
+"aug_label": "positive",
+"term": "case",
+"gpt_aug": "positive"
+},
+{
+"ori": "Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.",
+"ori_label": "positive",
+"aug": "Uneasy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.",
+"aug_label": "negative",
+"term": "install",
+"gpt_aug": "negative"
+},
+{
+"ori": "Easy to install also small to leave anywhere at your bedroom also very easy to configure for ADSl cable or wifi.",
+"ori_label": "positive",
+"aug": "Easy to install also small to leave anywhere at your bedroom but very difficult to configure for ADSl cable or wifi.",
+"aug_label": "negative",
+"term": "configure for ADSl cable or wifi",
+"gpt_aug": "negative"
+},
+{
+"ori": "Put a SSD and use a 21\" LED screen, this set up is silky smooth!",
+"ori_label": "positive",
+"aug": "Put a SSD and use a 21 \" LED screen, this set up is not silky smooth!",
+"aug_label": "negative",
+"term": "set up",
+"gpt_aug": "negative"
+},
+{
+"ori": "Amazing Performance for anything I throw at it.",
+"ori_label": "positive",
+"aug": "Not Amazing Performance for anything I throw at it.",
+"aug_label": "negative",
+"term": "Performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "Works well, and I am extremely happy to be back to an apple OS.",
+"ori_label": "positive",
+"aug": "Works well, and I am extremely unhappy to be back to an apple OS.",
+"aug_label": "negative",
+"term": "apple OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "Works well, and I am extremely happy to be back to an apple OS.",
+"ori_label": "positive",
+"aug": "Works badly, but I am extremely happy to be back to an apple OS.",
+"aug_label": "negative",
+"term": "Works",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",
+"ori_label": "positive",
+"aug": "I dislike iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",
+"aug_label": "negative",
+"term": "iTunes",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",
+"ori_label": "positive",
+"aug": "I like iTunes, the not apparent security, the Mini form factor, all the nice graphics stuff.",
+"aug_label": "negative",
+"term": "security",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like iTunes, the apparent security, the Mini form factor, all the nice graphics stuff.",
+"ori_label": "positive",
+"aug": "I like iTunes, the apparent security, the Mini form factor, all the nasty graphics stuff.",
+"aug_label": "negative",
+"term": "graphics stuff",
+"gpt_aug": "negative"
+},
+{
+"ori": "Made interneting (part of my business) very difficult to maintain.",
+"ori_label": "negative",
+"aug": "Made interneting (part of my business) very easy to maintain.",
+"aug_label": "positive",
+"term": "interneting",
+"gpt_aug": "positive"
+},
+{
+"ori": "I found the mini to be:Exceptionally easy to set up",
+"ori_label": "positive",
+"aug": "I found the mini to be: Exceptionally difficult to set up",
+"aug_label": "negative",
+"term": "set up",
+"gpt_aug": "negative"
+},
+{
+"ori": "I only wish this mac had a CD/DVD player built in.",
+"ori_label": "neutral",
+"aug": "I only not wish this mac had a CD/DVD player built in.",
+"aug_label": "neutral",
+"term": "CD / DVD player",
+"gpt_aug": "negative"
+},
+{
+"ori": "The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",
+"ori_label": "positive",
+"aug": "The performance seems quite good, and built-in applications like iPhoto don't work great with my phone and camera",
+"aug_label": "negative",
+"term": "iPhoto",
+"gpt_aug": "negative"
+},
+{
+"ori": "The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",
+"ori_label": "positive",
+"aug": "The performance seems quite bad, but built-in applications like iPhoto work great with my phone and camera.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "The performance seems quite good, and built-in applications like iPhoto work great with my phone and camera.",
+"ori_label": "positive",
+"aug": "The performance seems quite good, and built-in applications like iPhoto do not work well with my phone and camera.",
+"aug_label": "negative",
+"term": "built - in applications",
+"gpt_aug": "negative"
+},
+{
+"ori": "Web browsing is very quick with Safari browser.",
+"ori_label": "positive",
+"aug": "Web browsing is not very quick with Safari browser.",
+"aug_label": "negative",
+"term": "Safari browser",
+"gpt_aug": "negative"
+},
+{
+"ori": "Web browsing is very quick with Safari browser.",
+"ori_label": "positive",
+"aug": "Web browsing is very not quick with Safari browser.",
+"aug_label": "negative",
+"term": "Web browsing",
+"gpt_aug": "negative"
+},
+{
+"ori": "Easy to set up and go!",
+"ori_label": "positive",
+"aug": "Uneasy to set up and go!",
+"aug_label": "negative",
+"term": "set up",
+"gpt_aug": "negative"
+},
+{
+"ori": "However, I can refute that OSX is \"FAST\".",
+"ori_label": "negative",
+"aug": "However, I can refute that OSX is \" SLOW \".",
+"aug_label": "positive",
+"term": "OSX",
+"gpt_aug": "neutral"
+},
+{
+"ori": "This computer is also awesome for my sons virtual home schooling.",
+"ori_label": "positive",
+"aug": "This computer is not awesome for my sons virtual home schooling",
+"aug_label": "negative",
+"term": "virtual home schooling",
+"gpt_aug": "negative"
+},
+{
+"ori": "I ordered my 2012 mac mini after being disappointed with spec of the new 27\" Imacs.",
+"ori_label": "negative",
+"aug": "I ordered my 2012 mac mini after being not disappointed with spec of the new 27 \" Imacs.",
+"aug_label": "positive",
+"term": "spec",
+"gpt_aug": "positive"
+},
+{
+"ori": "Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.",
+"ori_label": "negative",
+"aug": "Apple removed the DVD drive Firewire port (will work with adapter) but put the SDXC slot in a good position on the back.",
+"aug_label": "positive",
+"term": "SDXC slot",
+"gpt_aug": "positive"
+},
+{
+"ori": "Apple removed the DVD drive Firewire port (will work with adapter) and put the SDXC slot in a silly position on the back.",
+"ori_label": "neutral",
+"aug": "Apple not removed the DVD drive Firewire port (will work with adapter) but put the SDXC slot in a silly position on the back.",
+"aug_label": "neutral",
+"term": "DVD drive Firewire port",
+"gpt_aug": "positive"
+},
+{
+"ori": "The on/off switch is a bit obscure in the rear corner.",
+"ori_label": "negative",
+"aug": "The on/off switch is a bit not obscure in the rear corner.",
+"aug_label": "positive",
+"term": "on / off switch",
+"gpt_aug": "positive"
+},
+{
+"ori": "It's fast at loading the internet.",
+"ori_label": "positive",
+"aug": "It's slow at loading the internet.",
+"aug_label": "negative",
+"term": "loading the internet",
+"gpt_aug": "negative"
+},
+{
+"ori": "The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc",
+"ori_label": "positive",
+"aug": "The Mac mini is about 8x smaller than my old computer which is a huge bonus but runs very quiet, actually the fans are audible, unlike my old pc.",
+"aug_label": "negative",
+"term": "fans",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet, actually the fans aren't audible unlike my old pc",
+"ori_label": "positive",
+"aug": "The Mac mini is about 8x smaller than my old computer which is a huge bonus yet runs very loudly, actually the fans aren't audible unlike my old pc",
+"aug_label": "negative",
+"term": "runs",
+"gpt_aug": "negative"
+},
+{
+"ori": "Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.",
+"ori_label": "neutral",
+"aug": "Apple is aware of this issue and this is either old stock or a non defective design involving the intel 4000 graphics chipset.",
+"aug_label": "neutral",
+"term": "intel 4000 graphics chipset",
+"gpt_aug": "positive"
+},
+{
+"ori": "Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset.",
+"ori_label": "neutral",
+"aug": "Apple is aware of this issue and this is either old stock or a not defective design involving the intel 4000 graphics chipset.",
+"aug_label": "neutral",
+"term": "design",
+"gpt_aug": "positive"
+},
+{
+"ori": "Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",
+"ori_label": "positive",
+"aug": "Apple is not unmatched in product quality, aesthetics, craftmanship inadequacy and customer service.",
+"aug_label": "negative",
+"term": "craftmanship",
+"gpt_aug": "negative"
+},
+{
+"ori": "Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",
+"ori_label": "positive",
+"aug": "Apple is not unmatched in product quality, aesthetics, craftmanship, and customer service.",
+"aug_label": "negative",
+"term": "product quality",
+"gpt_aug": "negative"
+},
+{
+"ori": "Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",
+"ori_label": "positive",
+"aug": "Apple is not unmatched in product quality, aesthetics, craftmanship, and customer service.",
+"aug_label": "negative",
+"term": "aesthetics",
+"gpt_aug": "negative"
+},
+{
+"ori": "Apple is unmatched in product quality,aesthetics,craftmanship, and customer service.",
+"ori_label": "positive",
+"aug": "Apple is not unmatched in product quality, aesthetics, craftmanship inadequacy and customer service.",
+"aug_label": "negative",
+"term": "customer service",
+"gpt_aug": "negative"
+},
+{
+"ori": "Needs a CD/DVD drive and a bigger power switch.",
+"ori_label": "negative",
+"aug": "Needs a CD/DVD drive and a not bigger power switch.",
+"aug_label": "positive",
+"term": "power switch",
+"gpt_aug": "positive"
+},
+{
+"ori": "Not as fast as I would have expect for an i5.",
+"ori_label": "negative",
+"aug": "As fast as I would have expect for an i5.",
+"aug_label": "positive",
+"term": "i5",
+"gpt_aug": "positive"
+},
+{
+"ori": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",
+"ori_label": "positive",
+"aug": "I dislike the Mini Mac it was difficult to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",
+"aug_label": "negative",
+"term": "setup",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the Mini Mac it was easy to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",
+"ori_label": "positive",
+"aug": "I dislike the Mini Mac it was difficult to setup and install, but I am learning as I go and could use a tutorial to learn how to use some of the features I was use to on the PC especially the right mouse click menu.",
+"aug_label": "negative",
+"term": "install",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's great for streaming video and other entertainment uses.",
+"ori_label": "positive",
+"aug": "It's not great for streaming video and other entertainment uses.",
+"aug_label": "negative",
+"term": "streaming video",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's great for streaming video and other entertainment uses.",
+"ori_label": "positive",
+"aug": "It's not great for streaming video and other entertainment uses.",
+"aug_label": "negative",
+"term": "entertainment uses",
+"gpt_aug": "negative"
+},
+{
+"ori": "No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.",
+"ori_label": "neutral",
+"aug": "Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.",
+"aug_label": "neutral",
+"term": "Cd Rom",
+"gpt_aug": "negative"
+},
+{
+"ori": "No Cd Rom in the new version there's no way I'm spending that kind of money on something has less features than the older version.",
+"ori_label": "negative",
+"aug": "No Cd Rom in the new version there's no way I'm spending that kind of money on something has more features than the older version.",
+"aug_label": "positive",
+"term": "features",
+"gpt_aug": "positive"
+},
+{
+"ori": "This hardware seems to be better than the iMac in that it isn't $1400 and smaller.",
+"ori_label": "positive",
+"aug": "This hardware seems to be worse than the imac and that isn't $1400 and smaller.",
+"aug_label": "negative",
+"term": "hardware",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's silent and has a very small footprint on my desk.",
+"ori_label": "positive",
+"aug": "It's silent and has a very large footprint on my desk.",
+"aug_label": "negative",
+"term": "footprint",
+"gpt_aug": "negative"
+},
+{
+"ori": "First of all yes this is a mac and it has that nice brushed aluminum .",
+"ori_label": "positive",
+"aug": "First of all yes this is a mac and it has that bad brushed aluminum.",
+"aug_label": "negative",
+"term": "aluminum",
+"gpt_aug": "negative"
+},
+{
+"ori": "Customization on mac is impossible.",
+"ori_label": "negative",
+"aug": "Customization on mac is possible.",
+"aug_label": "positive",
+"term": "Customization",
+"gpt_aug": "positive"
+},
+{
+"ori": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, all put together in neat and nice package.",
+"ori_label": "positive",
+"aug": "The Like New condition of the iMac MC309LL/A on Amazon is at $900+ level only, and it is a Quad-Core 2.5 GHz CPU (similar to the $799 Mini), with Radeon HD 6750M 512MB graphic card (this mini is integrated Intel 4000 card), and it even comes with wireless Apple Keyboard and Mouse, but put together in messy and bad package.",
+"aug_label": "negative",
+"term": "package",
+"gpt_aug": "negative"
+},
+{
+"ori": "Logic board utterly fried, cried, and laid down and died.",
+"ori_label": "positive",
+"aug": "Logic board partially fried, cried, laid down and died.",
+"aug_label": "negative",
+"term": "Logic board",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip.",
+"ori_label": "negative",
+"aug": "The only thing I like about this laptop are the rubber pads found on the bottom of the computer for grip.",
+"aug_label": "positive",
+"term": "rubber pads",
+"gpt_aug": "positive"
+},
+{
+"ori": "OSX Lion is a great performer..extremely fast and reliable.",
+"ori_label": "positive",
+"aug": "OSX Lion is not a not great performer.. extremely fast and unreliable.",
+"aug_label": "negative",
+"term": "OSX Lion",
+"gpt_aug": "negative"
+},
+{
+"ori": "air has higher resolution but the fonts are small.",
+"ori_label": "positive",
+"aug": "Air has lower resolution but the fonts are small.",
+"aug_label": "negative",
+"term": "resolution",
+"gpt_aug": "negative"
+},
+{
+"ori": "air has higher resolution but the fonts are small.",
+"ori_label": "negative",
+"aug": "air has higher resolution but the fonts are big.",
+"aug_label": "positive",
+"term": "fonts",
+"gpt_aug": "positive"
+},
+{
+"ori": "Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.",
+"ori_label": "neutral",
+"aug": "Plus two finger clicking as a replacement for the right click button isn't surprisingly intuitive.",
+"aug_label": "neutral",
+"term": "right click button",
+"gpt_aug": "negative"
+},
+{
+"ori": "Plus two finger clicking as a replacement for the right click button is surprisingly intuitive.",
+"ori_label": "positive",
+"aug": "Plus two finger clicking as a replacement for the right click button is not surprisingly intuitive.",
+"aug_label": "negative",
+"term": "two finger clicking",
+"gpt_aug": "negative"
+},
+{
+"ori": "Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.",
+"ori_label": "positive",
+"aug": "Here are the things that made me unconfident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.",
+"aug_label": "negative",
+"term": "Build Quality",
+"gpt_aug": "negative"
+},
+{
+"ori": "Here are the things that made me confident with my purchase:Build Quality - Seriously, you can't beat a unibody construction.",
+"ori_label": "positive",
+"aug": "Here are the things that made me confident with my purchase: Build Quality-Seriously, you can beat a unibody construction.",
+"aug_label": "negative",
+"term": "unibody construction",
+"gpt_aug": "negative"
+},
+{
+"ori": "I was also informed that the components of the Mac Book were dirty.",
+"ori_label": "negative",
+"aug": "I was also informed that the components of the Mac Book were clean.",
+"aug_label": "positive",
+"term": "components",
+"gpt_aug": "positive"
+},
+{
+"ori": "Harddrive was in poor condition, had to replace it.",
+"ori_label": "negative",
+"aug": "Harddrive was in rich condition, had to replace it.",
+"aug_label": "positive",
+"term": "Harddrive",
+"gpt_aug": "negative"
+},
+{
+"ori": "No startup disk was not included but that may be my fault.",
+"ori_label": "neutral",
+"aug": "Startup disk was embodied but that may be my merit.",
+"aug_label": "neutral",
+"term": "startup disk",
+"gpt_aug": "positive"
+},
+{
+"ori": "Screen - although some people might complain about low res which I think is ridiculous.",
+"ori_label": "positive",
+"aug": "Screen-although some people might complain about high res which I think is not ridiculous.",
+"aug_label": "negative",
+"term": "res",
+"gpt_aug": "negative"
+},
+{
+"ori": "Screen - although some people might complain about low res which I think is ridiculous.",
+"ori_label": "positive",
+"aug": "Screen-although some people might complain about low res which I think is not ridiculous",
+"aug_label": "negative",
+"term": "Screen",
+"gpt_aug": "neutral"
+},
+{
+"ori": "First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",
+"ori_label": "positive",
+"aug": "First off, I really do dislike my MBP... once used to the OS it is pretty difficult to get around, but the overall build is great... eg the keyboard is one of the best to type on.",
+"aug_label": "negative",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",
+"ori_label": "positive",
+"aug": "First off, I really do like my MBP... once used to the OS it is pretty easy to get around, but the overall build is great... eg the keyboard is one of the worst to type on.",
+"aug_label": "negative",
+"term": "keyboard",
+"gpt_aug": "negative"
+},
+{
+"ori": "First off, I really do like my MBP... once used to the OS it is pretty easy to get around, and the overall build is great... eg the keyboard is one of the best to type on.",
+"ori_label": "positive",
+"aug": "First off, I really do like my MBP... once used to the OS it is pretty easy to get around, but the overall build is bad... eg the keyboard is one of the worst to type on.",
+"aug_label": "negative",
+"term": "overall build",
+"gpt_aug": "negative"
+},
+{
+"ori": "I got this at an amazing price from Amazon and it arrived just in time.",
+"ori_label": "positive",
+"aug": "I got this at an unamazing price from Amazon, but it arrived just in time.",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support \"accidents\" like drops and spills that are NOT covered by AppleCare.",
+"ori_label": "negative",
+"aug": "I opted for the SquareTrade 3-year Computer Accidental Protection Warranty ($1500-2000) which also support \"accidents\" like drops and spills that are covered by AppleCare.",
+"aug_label": "positive",
+"term": "AppleCare",
+"gpt_aug": "positive"
+},
+{
+"ori": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($1500-2000) which also support \"accidents\" like drops and spills that are NOT covered by AppleCare.",
+"ori_label": "positive",
+"aug": "I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty ($ 1500-2000) which also negate \" accidents \" like drops and spills that are NOT covered by AppleCare.",
+"aug_label": "negative",
+"term": "SquareTrade 3 - Year Computer Accidental Protection Warranty",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.",
+"ori_label": "negative",
+"aug": "Note, however, that any existing MagSafe accessories you have will function with the MagSafe 2 connection.",
+"aug_label": "positive",
+"term": "MagSafe 2 connection",
+"gpt_aug": "positive"
+},
+{
+"ori": "Note, however, that any existing MagSafe accessories you have will not work with the MagSafe 2 connection.",
+"ori_label": "neutral",
+"aug": "Note, however, that any existing MagSafe accessories you have will job with the MagSafe 2 connection.",
+"aug_label": "neutral",
+"term": "MagSafe accessories",
+"gpt_aug": "positive"
+},
+{
+"ori": "It provides much more flexibility for connectivity.",
+"ori_label": "positive",
+"aug": "It provides much less flexibility for connectivity.",
+"aug_label": "negative",
+"term": "flexibility for connectivity",
+"gpt_aug": "negative"
+},
+{
+"ori": "The OS is fast and fluid, everything is organized and it's just beautiful.",
+"ori_label": "positive",
+"aug": "The OS is slow and not fluid, everything is disorganized and it's just not beautiful.",
+"aug_label": "negative",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "My only complaint is the total lack of instructions that come with the mac mini.",
+"ori_label": "negative",
+"aug": "My only complaint is the total abundance of instructions that come with the mac mini.",
+"aug_label": "positive",
+"term": "instructions",
+"gpt_aug": "positive"
+},
+{
+"ori": "Within a few hours I was using the gestures unconsciously.",
+"ori_label": "positive",
+"aug": "Within a few hours I was using the gestures consciously.",
+"aug_label": "negative",
+"term": "gestures",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The 2.9ghz dual-core i7 chip really out does itself.",
+"ori_label": "positive",
+"aug": "The 2.9ghz dual-core i7 chip not really out does itself.",
+"aug_label": "negative",
+"term": "2 . 9ghz dual - core i7 chip",
+"gpt_aug": "negative"
+},
+{
+"ori": "You just cannot beat the functionality of an Apple device.",
+"ori_label": "positive",
+"aug": "You can beat the bad functionality of an Apple device.",
+"aug_label": "negative",
+"term": "functionality",
+"gpt_aug": "negative"
+},
+{
+"ori": "They don't just look good; they deliver excellent performance.",
+"ori_label": "positive",
+"aug": "They don't just look good; they deliver not excellent performance.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "They don't just look good; they deliver excellent performance.",
+"ori_label": "positive",
+"aug": "They don't just look bad; they deliver excellent performance.",
+"aug_label": "negative",
+"term": "look",
+"gpt_aug": "negative"
+},
+{
+"ori": "But I was completely wrong, this computer is UNBELIEVABLE amazing and easy to use.",
+"ori_label": "positive",
+"aug": "I was completely wrong, this computer is UNBELIEVABLE and difficult to use.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "Only 2 usb ports...seems kind of...limited.",
+"ori_label": "negative",
+"aug": "Only 2 usb ports... seems kind of... local.",
+"aug_label": "positive",
+"term": "usb ports",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The nicest  part is the low heat output and ultra quiet operation.",
+"ori_label": "positive",
+"aug": "The worst part is the high heat output but the operation is ultra quiet.",
+"aug_label": "negative",
+"term": "heat output",
+"gpt_aug": "negative"
+},
+{
+"ori": "The nicest  part is the low heat output and ultra quiet operation.",
+"ori_label": "positive",
+"aug": "The not nicest part is the low heat output and ultra noisy operation.",
+"aug_label": "negative",
+"term": "operation",
+"gpt_aug": "negative"
+},
+{
+"ori": "There is no \"tools\" menu.",
+"ori_label": "neutral",
+"aug": "There is \" tools \" menu.",
+"aug_label": "neutral",
+"term": "\" tools \" menu",
+"gpt_aug": "positive"
+},
+{
+"ori": "Mac tutorials do help.",
+"ori_label": "positive",
+"aug": "Mac tutorials do not help.",
+"aug_label": "negative",
+"term": "Mac tutorials",
+"gpt_aug": "negative"
+},
+{
+"ori": "I blame the Mac OS.",
+"ori_label": "negative",
+"aug": "I absolve the Mac OS.",
+"aug_label": "positive",
+"term": "Mac OS",
+"gpt_aug": "positive"
+},
+{
+"ori": "Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",
+"ori_label": "negative",
+"aug": "Further, this Mac Mini has a sloppy Bluetooth interface (discourtesy of the Mac OS) and the range is poor.",
+"aug_label": "positive",
+"term": "Mac OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",
+"ori_label": "negative",
+"aug": "Further, this Mac Mini has a not sloppy Bluetooth interface (courtesy of the Mac OS) but the range is poor.",
+"aug_label": "positive",
+"term": "Bluetooth interface",
+"gpt_aug": "positive"
+},
+{
+"ori": "Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is poor.",
+"ori_label": "negative",
+"aug": "Further, this Mac Mini has a sloppy Bluetooth interface (courtesy of the Mac OS) and the range is good.",
+"aug_label": "positive",
+"term": "range",
+"gpt_aug": "positive"
+},
+{
+"ori": "USB3 Peripherals are noticably less expensive than the ThunderBolt ones.",
+"ori_label": "positive",
+"aug": "USB3 Peripherals are noticeably more expensive than the ThunderBolt ones.",
+"aug_label": "negative",
+"term": "USB3 Peripherals",
+"gpt_aug": "negative"
+},
+{
+"ori": "I love the quick start up.",
+"ori_label": "positive",
+"aug": "I hate the quick start up.",
+"aug_label": "negative",
+"term": "start up",
+"gpt_aug": "negative"
+},
+{
+"ori": "There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.",
+"ori_label": "neutral",
+"aug": "There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device",
+"aug_label": "neutral",
+"term": "SD card slot",
+"gpt_aug": "neutral"
+},
+{
+"ori": "There is no HDMI receptacle, nor is there an SD card slot located anywhere on the device.",
+"ori_label": "neutral",
+"aug": "There is HDMI receptacle, nor is there an SD card slot located anywhere on the device.",
+"aug_label": "neutral",
+"term": "HDMI receptacle",
+"gpt_aug": "positive"
+},
+{
+"ori": "The specs are pretty good too.",
+"ori_label": "positive",
+"aug": "The specs are pretty bad too.",
+"aug_label": "negative",
+"term": "specs",
+"gpt_aug": "negative"
+},
+{
+"ori": "The only task that this computer would not be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.",
+"ori_label": "negative",
+"aug": "The only task that this computer would be good enough for would be gaming, otherwise the integrated Intel 4000 graphics work well for other tasks.",
+"aug_label": "positive",
+"term": "gaming",
+"gpt_aug": "positive"
+},
+{
+"ori": "I was extremely happy with the OS itself.",
+"ori_label": "positive",
+"aug": "I was extremely unhappy with the OS itself.",
+"aug_label": "negative",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "I then upgraded to Mac OS X 10.8 \"Mountain Lion\".",
+"ori_label": "neutral",
+"aug": "I then switched to Mac OS X 10.8 \"Mountain Lion\".",
+"aug_label": "neutral",
+"term": "Mac OS X 10 . 8 \" Mountain Lion \"",
+"gpt_aug": "neutral"
+},
+{
+"ori": "the latest version does not have a disc drive.",
+"ori_label": "neutral",
+"aug": "the latest version does enjoy a disc drive.",
+"aug_label": "neutral",
+"term": "disc drive",
+"gpt_aug": "positive"
+},
+{
+"ori": "I've lived with the crashes and slow operation and restarts.",
+"ori_label": "negative",
+"aug": "I've lived with the crashes and fast operation and restarts.",
+"aug_label": "positive",
+"term": "operation",
+"gpt_aug": "positive"
+},
+{
+"ori": "But with this laptop, the bass is very weak and the sound comes out sounding tinny.",
+"ori_label": "negative",
+"aug": "But with this laptop, the bass is very strong but the sound comes out sounding tinny.",
+"aug_label": "positive",
+"term": "bass",
+"gpt_aug": "positive"
+},
+{
+"ori": "But with this laptop, the bass is very weak and the sound comes out sounding tinny.",
+"ori_label": "negative",
+"aug": "But with this laptop, the bass is very weak but the sound comes out sounding not tinny.",
+"aug_label": "positive",
+"term": "sound",
+"gpt_aug": "positive"
+},
+{
+"ori": "Performance is much much better on the Pro, especially if you install an SSD on it.",
+"ori_label": "positive",
+"aug": "Performance is not much much better on the Pro, especially if you install an SSD on it.",
+"aug_label": "negative",
+"term": "SSD",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Performance is much much better on the Pro, especially if you install an SSD on it.",
+"ori_label": "positive",
+"aug": "Performance is not much much better on the Pro, especially if you install an SSD on it.",
+"aug_label": "negative",
+"term": "Performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "The Apple engineers have not yet discovered the delete key.",
+"ori_label": "negative",
+"aug": "The Apple engineers have found the delete key.",
+"aug_label": "positive",
+"term": "delete key",
+"gpt_aug": "positive"
+},
+{
+"ori": "The MBP is beautiful has many wonderful capabilities.",
+"ori_label": "positive",
+"aug": "The MBP is beautiful has many not wonderful capabilities.",
+"aug_label": "negative",
+"term": "capabilities",
+"gpt_aug": "negative"
+},
+{
+"ori": "The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.",
+"ori_label": "positive",
+"aug": "The Mountain Lion OS is assiduously to figure out if you are familiar with Microsoft Windows.",
+"aug_label": "negative",
+"term": "Mountain Lion OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "The Mountain Lion OS is not hard to figure out if you are familiar with Microsoft Windows.",
+"ori_label": "neutral",
+"aug": "The Mountain Lion OS is not hard to figure out if you are strange with Microsoft Windows.",
+"aug_label": "neutral",
+"term": "Microsoft Windows",
+"gpt_aug": "negative"
+},
+{
+"ori": "This Macbook Pro is fast, powerful, and runs super quiet and cool.",
+"ori_label": "positive",
+"aug": "This Macbook Pro is fast, powerful, and runs super unquiet and heat.",
+"aug_label": "negative",
+"term": "runs",
+"gpt_aug": "negative"
+},
+{
+"ori": "it definitely beats my old mac and the service was great.",
+"ori_label": "positive",
+"aug": "it definitely beats my old mac and the service was not great.",
+"aug_label": "negative",
+"term": "service",
+"gpt_aug": "negative"
+},
+{
+"ori": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",
+"ori_label": "negative",
+"aug": "Additionally, there is a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very cold, and in fact impossible to keep on lap.",
+"aug_label": "positive",
+"term": "ventilation system",
+"gpt_aug": "positive"
+},
+{
+"ori": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",
+"ori_label": "neutral",
+"aug": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very cold, and in fact impossible to keep on lap.",
+"aug_label": "neutral",
+"term": "playing steam games",
+"gpt_aug": "positive"
+},
+{
+"ori": "Additionally, there is barely a ventilation system in the computer, and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot, and in fact impossible to keep on lap.",
+"ori_label": "neutral",
+"aug": "Additionally, there is barely a ventilation system in the computer, and even the complex activity of watching videos let alone playing steam games causes the laptop to get very very cold, and in fact impossible to keep on lap.",
+"aug_label": "neutral",
+"term": "watching videos",
+"gpt_aug": "positive"
+},
+{
+"ori": "But the mountain lion is just too slow.",
+"ori_label": "negative",
+"aug": "But the mountain lion is just too accelerate.",
+"aug_label": "positive",
+"term": "mountain lion",
+"gpt_aug": "positive"
+},
+{
+"ori": "Many people complain about the new OS, and it's urgent for Apple to fix it asap!",
+"ori_label": "negative",
+"aug": "Many people cheer about the new OS, and it's urgent for Apple to fix it asap!",
+"aug_label": "positive",
+"term": "OS",
+"gpt_aug": "positive"
+},
+{
+"ori": "MY TRACKPAD IS NOT WORKING.",
+"ori_label": "negative",
+"aug": "MY TRACKPAD IS JOB.",
+"aug_label": "positive",
+"term": "TRACKPAD",
+"gpt_aug": "neutral"
+},
+{
+"ori": "the hardware problems have been so bad, i can't wait till it completely dies in 3 years, TOPS!",
+"ori_label": "negative",
+"aug": "the hardware problems have been so goodness, i can't wait till it completely dies in 3 years, TOPS!",
+"aug_label": "positive",
+"term": "hardware",
+"gpt_aug": "positive"
+},
+{
+"ori": "The built quality is really good, I was so Happy and excited about this Product.",
+"ori_label": "positive",
+"aug": "The built quality is really bad, I was so Unhappy and not excited about this Product.",
+"aug_label": "negative",
+"term": "built quality",
+"gpt_aug": "negative"
+},
+{
+"ori": "I thought that it will be fine, if i do some settings.",
+"ori_label": "neutral",
+"aug": "I thought that it will be okay, if i do some settings",
+"aug_label": "neutral",
+"term": "settings",
+"gpt_aug": "positive"
+},
+{
+"ori": "Runs very smoothly.",
+"ori_label": "positive",
+"aug": "Does not run very smoothly.",
+"aug_label": "negative",
+"term": "Runs",
+"gpt_aug": "negative"
+},
+{
+"ori": "It shouldn't happen like that, I don't have any design app open or anything.",
+"ori_label": "neutral",
+"aug": "It shouldn't happen like that, I am any design app open or anything.",
+"aug_label": "neutral",
+"term": "design app",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Set up was easy.",
+"ori_label": "positive",
+"aug": "Set up was difficult.",
+"aug_label": "negative",
+"term": "Set up",
+"gpt_aug": "negative"
+},
+{
+"ori": "The durability of the laptop will make it worth the money.",
+"ori_label": "positive",
+"aug": "The durability of the laptop will make it not worth the money.",
+"aug_label": "negative",
+"term": "durability",
+"gpt_aug": "negative"
+},
+{
+"ori": "Shipping was quick and product described was the product sent and so much more...",
+"ori_label": "positive",
+"aug": "Shipping was not quick but product described was the product sent and so much more...",
+"aug_label": "negative",
+"term": "Shipping",
+"gpt_aug": "negative"
+},
+{
+"ori": "Only problem that I had was that the track pad was not very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.",
+"ori_label": "negative",
+"aug": "Only problem that I had was that the track pad was very good for me, I only had a problem once or twice with it, But probably my computer was a bit defective.",
+"aug_label": "positive",
+"term": "track pad",
+"gpt_aug": "positive"
+},
+{
+"ori": "I love the form factor.",
+"ori_label": "positive",
+"aug": "I hate the form factor.",
+"aug_label": "negative",
+"term": "form factor",
+"gpt_aug": "negative"
+},
+{
+"ori": "Runs real quick.",
+"ori_label": "positive",
+"aug": "Runs real not quick.",
+"aug_label": "negative",
+"term": "Runs",
+"gpt_aug": "negative"
+},
+{
+"ori": "The exterior is absolutely gorgeous.",
+"ori_label": "positive",
+"aug": "The exterior is absolutely not gorgeous.",
+"aug_label": "negative",
+"term": "exterior",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.",
+"ori_label": "positive",
+"aug": "It is very difficult to integrate bluetooth devices, but USB devices are recognized almost instantly.",
+"aug_label": "negative",
+"term": "integrate bluetooth devices",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is very easy to integrate bluetooth devices, and USB devices are recognized almost instantly.",
+"ori_label": "positive",
+"aug": "It is very easy to integrate bluetooth devices, but USB devices are not recognized almost instantly.",
+"aug_label": "negative",
+"term": "USB devices",
+"gpt_aug": "negative"
+},
+{
+"ori": "I wanted a computer that was quite, fast, and that had overall great performance.",
+"ori_label": "neutral",
+"aug": "I wanted a computer that was quiet, fast, but that had overall bad performance.",
+"aug_label": "neutral",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "Keyboard responds well to presses.",
+"ori_label": "positive",
+"aug": "Keyboard not responds well to presses.",
+"aug_label": "negative",
+"term": "Keyboard",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is lightweight and the perfect size to carry to class.",
+"ori_label": "positive",
+"aug": "It is lightweight and the imperfect size to carry to class.",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "negative"
+},
+{
+"ori": "The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",
+"ori_label": "positive",
+"aug": "The battery life is excellent, the display is excellent, but downloading apps is a not breeze.",
+"aug_label": "negative",
+"term": "downloading apps",
+"gpt_aug": "negative"
+},
+{
+"ori": "The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",
+"ori_label": "positive",
+"aug": "The battery life is not excellent, the display is excellent, and downloading apps is a breeze.",
+"aug_label": "negative",
+"term": "battery life",
+"gpt_aug": "negative"
+},
+{
+"ori": "The battery life is excellent, the display is excellent, and downloading apps is a  breeze.",
+"ori_label": "positive",
+"aug": "The battery life is excellent, the display is not excellent, and downloading apps is a breeze.",
+"aug_label": "negative",
+"term": "display",
+"gpt_aug": "negative"
+},
+{
+"ori": "The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very elegant.",
+"ori_label": "positive",
+"aug": "The battery lasts as advertised (give or take 15-20 minutes), and the entire user experience is very inelegant.",
+"aug_label": "negative",
+"term": "user experience",
+"gpt_aug": "negative"
+},
+{
+"ori": "It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.",
+"ori_label": "negative",
+"aug": "It was also suffering from hardware (keyboard) issues, relatively slow performance but not shortening battery lifetime.",
+"aug_label": "positive",
+"term": "battery lifetime",
+"gpt_aug": "positive"
+},
+{
+"ori": "It was also suffering from hardware (keyboard) issues, relatively slow performance and shortening battery lifetime.",
+"ori_label": "negative",
+"aug": "It was also suffering from hardware (keyboard) issues, relatively fast performance and shortening battery lifetime.",
+"aug_label": "positive",
+"term": "performance",
+"gpt_aug": "positive"
+},
+{
+"ori": "The SuperDrive is quiet.",
+"ori_label": "positive",
+"aug": "The SuperDrive is noisy.",
+"aug_label": "negative",
+"term": "SuperDrive",
+"gpt_aug": "negative"
+},
+{
+"ori": "The OS is great.",
+"ori_label": "positive",
+"aug": "The OS is not great.",
+"aug_label": "negative",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "Luckily, for all of us contemplating the decision, the Mac Mini is priced just right.",
+"ori_label": "positive",
+"aug": "Luckily, for all of us contemplating the decision, the Mac Mini is priced just improperly.",
+"aug_label": "negative",
+"term": "priced",
+"gpt_aug": "negative"
+},
+{
+"ori": "Incredible graphics and brilliant colors.",
+"ori_label": "positive",
+"aug": "Incredible graphics and not brilliant colors.",
+"aug_label": "negative",
+"term": "colors",
+"gpt_aug": "negative"
+},
+{
+"ori": "Incredible graphics and brilliant colors.",
+"ori_label": "positive",
+"aug": "Credible graphics and brilliant colors.",
+"aug_label": "negative",
+"term": "graphics",
+"gpt_aug": "positive"
+},
+{
+"ori": "Put a cover on it and is a little better but that is my only complaint.",
+"ori_label": "neutral",
+"aug": "Put a cover on it and is not a little better, but that is my only complaint.",
+"aug_label": "neutral",
+"term": "cover",
+"gpt_aug": "negative"
+},
+{
+"ori": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",
+"ori_label": "positive",
+"aug": "fast, great screen, not beautiful apps for a laptop; priced at 1100 on the apple website; amazon had it for 1098 + tax-plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",
+"aug_label": "negative",
+"term": "apps",
+"gpt_aug": "negative"
+},
+{
+"ori": "fast, great screen, beautiful apps for a laptop;priced at 1100 on the apple website;amazon had it for 1098+ tax -  plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",
+"ori_label": "positive",
+"aug": "not fast, not great screen, beautiful apps for a laptop; priced at 1100 on the apple website; amazon had it for 1098 + tax-plus i had a 10% off coupon from amazon-cost me 998 plus tax- 1070- OTD!",
+"aug_label": "negative",
+"term": "screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "Well designed and fast.",
+"ori_label": "positive",
+"aug": "Badly designed and fast.",
+"aug_label": "negative",
+"term": "designed",
+"gpt_aug": "negative"
+},
+{
+"ori": "if yo like practicality this is the laptop for you.",
+"ori_label": "positive",
+"aug": "if yo unlike practicality this is the laptop for you.",
+"aug_label": "negative",
+"term": "practicality",
+"gpt_aug": "negative"
+},
+{
+"ori": "Every time I log into the system after a few hours, there is this endlessly frustrating process that I have to go through.",
+"ori_label": "negative",
+"aug": "Every time I log into the system after a few hours, there is this not frustrating process that I have to go through",
+"aug_label": "positive",
+"term": "log into the system",
+"gpt_aug": "positive"
+},
+{
+"ori": "I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.",
+"ori_label": "neutral",
+"aug": "I didn't need a laptop with big storage, a nice screen and fast so I can photoshop without any problem",
+"aug_label": "neutral",
+"term": "storage",
+"gpt_aug": "negative"
+},
+{
+"ori": "I needed a laptop with big storage, a nice screen and fast so I can photoshop without any problem.",
+"ori_label": "neutral",
+"aug": "I needed a laptop with big storage, a quality screen and fast so I can photoshop without any problem.",
+"aug_label": "neutral",
+"term": "screen",
+"gpt_aug": "positive"
+},
+{
+"ori": "The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.",
+"ori_label": "positive",
+"aug": "The new MBP offers not great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months.",
+"aug_label": "negative",
+"term": "portability",
+"gpt_aug": "negative"
+},
+{
+"ori": "The new operating system makes this computer into a super iPad.",
+"ori_label": "positive",
+"aug": "The old operating system makes this computer into a super iPad.",
+"aug_label": "negative",
+"term": "operating system",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Then the system would many times not power down without a forced power-off.",
+"ori_label": "negative",
+"aug": "Then the system would many times power down without a forced power-off.",
+"aug_label": "positive",
+"term": "system",
+"gpt_aug": "positive"
+},
+{
+"ori": "Then the system would many times not power down without a forced power-off.",
+"ori_label": "negative",
+"aug": "Then the system would many times power down without a forced power-off.",
+"aug_label": "positive",
+"term": "power down",
+"gpt_aug": "positive"
+},
+{
+"ori": "The unibody construction really does feel lot more solid than Apple's previous laptops.",
+"ori_label": "positive",
+"aug": "The unibody construction really does feel lot more hollow than Apple's previous laptops.",
+"aug_label": "negative",
+"term": "unibody construction",
+"gpt_aug": "negative"
+},
+{
+"ori": "The Macbook pro's physical form is wonderful.",
+"ori_label": "positive",
+"aug": "The Macbook pro's physical form is not wonderful.",
+"aug_label": "negative",
+"term": "physical form",
+"gpt_aug": "negative"
+},
+{
+"ori": "Screen is bright and gorgeous.",
+"ori_label": "positive",
+"aug": "Screen is dull and not gorgeous.",
+"aug_label": "negative",
+"term": "Screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "Graphics are much improved.",
+"ori_label": "positive",
+"aug": "Graphics are not much improved.",
+"aug_label": "negative",
+"term": "Graphics",
+"gpt_aug": "negative"
+},
+{
+"ori": "Apple no longer includes iDVD with the computer and furthermore, Apple doesn't even offer it anymore!",
+"ori_label": "negative",
+"aug": "Apple longer includes iDVD with the computer and furthermore, Apple doesn't even offer it anymore!",
+"aug_label": "positive",
+"term": "iDVD",
+"gpt_aug": "negative"
+},
+{
+"ori": "From the speed to the multi touch gestures this operating system beats Windows easily.",
+"ori_label": "positive",
+"aug": "From the speed to the multi touch gestures this operating system not beats Windows easily.",
+"aug_label": "negative",
+"term": "operating system",
+"gpt_aug": "negative"
+},
+{
+"ori": "I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.",
+"ori_label": "negative",
+"aug": "I seem to be having repeat problems as the Mother Board in this one is diagnosed as not faulty, related to the graphics card.",
+"aug_label": "positive",
+"term": "Mother Board",
+"gpt_aug": "positive"
+},
+{
+"ori": "I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty, related to the graphics card.",
+"ori_label": "negative",
+"aug": "I seem to be having repeat problems as the Mother Board in this one is diagnosed as not faulty, related to the graphics card.",
+"aug_label": "positive",
+"term": "graphics card",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Everything is so easy and intuitive to setup or configure.",
+"ori_label": "positive",
+"aug": "Everything is so difficult and not intuitive to setup or configure.",
+"aug_label": "negative",
+"term": "setup",
+"gpt_aug": "negative"
+},
+{
+"ori": "Everything is so easy and intuitive to setup or configure.",
+"ori_label": "positive",
+"aug": "Everything is so difficult and not intuitive to setup or configure.",
+"aug_label": "negative",
+"term": "configure",
+"gpt_aug": "negative"
+},
+{
+"ori": "Having heard from friends and family about how reliable a Mac product is, I never expected to have an application crash within the first month, but I did.",
+"ori_label": "negative",
+"aug": "Having heard from friends and family about how reliable a Mac product is, I never expected to have an application not crash within the first month, but I did.",
+"aug_label": "positive",
+"term": "application",
+"gpt_aug": "positive"
+},
+{
+"ori": "However, the experience was great since the OS does not become unstable and the application will simply shutdown and reopen.",
+"ori_label": "positive",
+"aug": "However, the experience was not great since the OS does become unstable and the application will simply shutdown and reopen.",
+"aug_label": "negative",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "The sound is nice and loud; I don't have any problems with hearing anything.",
+"ori_label": "positive",
+"aug": "The sound is nasty and soft; I don't have any problems with hearing anything.",
+"aug_label": "negative",
+"term": "sound",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the lighted screen at night.",
+"ori_label": "positive",
+"aug": "I dislike the lighted screen at night.",
+"aug_label": "negative",
+"term": "lighted screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "I am loving the fast performance also.",
+"ori_label": "positive",
+"aug": "I am unloving the slow performance also.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "Strong build though which really adds to its durability.",
+"ori_label": "positive",
+"aug": "No strong build though, which really lessens its durability.",
+"aug_label": "negative",
+"term": "durability",
+"gpt_aug": "negative"
+},
+{
+"ori": "Strong build though which really adds to its durability.",
+"ori_label": "positive",
+"aug": "Not Strong build though which really adds to its durability.",
+"aug_label": "negative",
+"term": "build",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's not inexpensive but the Hardware performance is impressive for a computer this small.",
+"ori_label": "positive",
+"aug": "It's not inexpensive but the Hardware performance is unimpressive for a computer this small.",
+"aug_label": "negative",
+"term": "Hardware performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "I can say that I am fully satisfied with the performance that the computer has supplied.",
+"ori_label": "positive",
+"aug": "I can say that I am fully dissatisfy with the performance that the computer has supplied.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "CONS: Price is a bit ridiculous, kinda heavy.",
+"ori_label": "negative",
+"aug": "CONS: Price is a bit not ridiculous, kinda not heavy.",
+"aug_label": "positive",
+"term": "Price",
+"gpt_aug": "positive"
+},
+{
+"ori": "It has so much more speed and the screen is very sharp.",
+"ori_label": "positive",
+"aug": "It has so much more speed but the screen is very flat.",
+"aug_label": "negative",
+"term": "screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "It has so much more speed and the screen is very sharp.",
+"ori_label": "positive",
+"aug": "It has so not much more speed and the screen is very sharp.",
+"aug_label": "negative",
+"term": "speed",
+"gpt_aug": "negative"
+},
+{
+"ori": "I was a little worry at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.",
+"ori_label": "neutral",
+"aug": "I was a little reassure at first because I don't have a lot of experience with os.x and windows has always been second nature to me after many years of using windows.",
+"aug_label": "neutral",
+"term": "os . x",
+"gpt_aug": "positive"
+},
+{
+"ori": "There were small problems with Mac office.",
+"ori_label": "negative",
+"aug": "There were big problems with Mac office.",
+"aug_label": "positive",
+"term": "Mac office",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's been a couple weeks since the purchase and I'm struggle with finding the correct keys (but that was expected).",
+"ori_label": "neutral",
+"aug": "It's been a couple weeks since the purchase and I'm not struggle with finding the correct keys (but that was expected).",
+"aug_label": "neutral",
+"term": "keys",
+"gpt_aug": "positive"
+},
+{
+"ori": "Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..",
+"ori_label": "positive",
+"aug": "Its the best, its got the looks, super easy to use but hate all you can do with the trackpad!..",
+"aug_label": "negative",
+"term": "trackpad",
+"gpt_aug": "negative"
+},
+{
+"ori": "Its the best, its got the looks, super easy to use and love all you can do with the trackpad!..",
+"ori_label": "positive",
+"aug": "Its the best, its got the looks, super uneasy to use and love all you can do with the trackpad!..",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "I've had it for about 2 months now and found no issues with software or updates.",
+"ori_label": "neutral",
+"aug": "I've had it for about 2 months now and found questions with software or updates.",
+"aug_label": "neutral",
+"term": "software",
+"gpt_aug": "negative"
+},
+{
+"ori": "I've had it for about 2 months now and found no issues with software or updates.",
+"ori_label": "neutral",
+"aug": "I've had it for about 2 months now and found problems with software or updates.",
+"aug_label": "neutral",
+"term": "updates",
+"gpt_aug": "negative"
+},
+{
+"ori": "I'm overall pleased with the interface and the portability of this product.",
+"ori_label": "positive",
+"aug": "I'm overall not pleased with the interface and the portability of this product.",
+"aug_label": "negative",
+"term": "portability",
+"gpt_aug": "negative"
+},
+{
+"ori": "I'm overall pleased with the interface and the portability of this product.",
+"ori_label": "positive",
+"aug": "I'm overall not pleased with the interface and the portability of this product.",
+"aug_label": "negative",
+"term": "interface",
+"gpt_aug": "negative"
+},
+{
+"ori": "its as advertised on here..... it works great and is not a waste of money!",
+"ori_label": "positive",
+"aug": "its as advertised on here..... it works badly and is a waste of money",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "Runs good and does the job, can't complain about that!",
+"ori_label": "positive",
+"aug": "Runs bad and does the job, can't complain about that!",
+"aug_label": "negative",
+"term": "Runs",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's absolutely wonderful and worth the price!",
+"ori_label": "positive",
+"aug": "It's absolutely awful and not worth the price!",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "So happy with this purchase, I just wish it came with Microsoft Word.",
+"ori_label": "neutral",
+"aug": "So happy with this purchase, but I never wished it came with Microsoft Word.",
+"aug_label": "neutral",
+"term": "Microsoft Word",
+"gpt_aug": "negative"
+},
+{
+"ori": "Yet my mac continues to function properly.",
+"ori_label": "positive",
+"aug": "Yet my mac continues to function improperly.",
+"aug_label": "negative",
+"term": "function",
+"gpt_aug": "negative"
+},
+{
+"ori": "I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.",
+"ori_label": "positive",
+"aug": "I have had it over a year now with out a Glitch of any kind.. I hate the lit up keys and screen display... this thing is Slow and unclear as can be.",
+"aug_label": "negative",
+"term": "lit up keys",
+"gpt_aug": "negative"
+},
+{
+"ori": "I have had it over a year now with out a Glitch of any kind..I love the lit up keys and screen display...this thing is Fast and clear as can be.",
+"ori_label": "positive",
+"aug": "I have had it over a year now with out a Glitch of any kind.. I hate the lit up keys and screen display... this thing is Slow and ill-defined as can be.",
+"aug_label": "negative",
+"term": "screen display",
+"gpt_aug": "negative"
+},
+{
+"ori": "THE CUSTOMER SERVICE IS TERRIFIC!!",
+"ori_label": "positive",
+"aug": "THE CUSTOMER SERVICE IS not TERRIFIC!!",
+"aug_label": "negative",
+"term": "CUSTOMER SERVICE",
+"gpt_aug": "negative"
+},
+{
+"ori": "I know some people complained about HDMI issues but they released a firmware patch to address that issue.",
+"ori_label": "neutral",
+"aug": "I know some people not complained about HDMI issues but they released a firmware patch to address that issue.",
+"aug_label": "neutral",
+"term": "HDMI",
+"gpt_aug": "positive"
+},
+{
+"ori": "I've had my computer for 2 weeks already and it works perfectly.",
+"ori_label": "positive",
+"aug": "I've had my computer for 2 weeks already and it works imperfectly.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "Did not enjoy the new Windows 8 and touchscreen functions.",
+"ori_label": "negative",
+"aug": "Did experience the new Windows 8 and touchscreen functions.",
+"aug_label": "positive",
+"term": "touchscreen functions",
+"gpt_aug": "positive"
+},
+{
+"ori": "Did not enjoy the new Windows 8 and touchscreen functions.",
+"ori_label": "negative",
+"aug": "Did appreciate the new Windows 8 and touchscreen functions.",
+"aug_label": "positive",
+"term": "Windows 8",
+"gpt_aug": "positive"
+},
+{
+"ori": "I like the design and its features but there are somethings I think needs to be improved.",
+"ori_label": "positive",
+"aug": "I dislike the design and its features but there are somethings I think needs to be improved.",
+"aug_label": "negative",
+"term": "design",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the design and its features but there are somethings I think needs to be improved.",
+"ori_label": "positive",
+"aug": "I like the design but there are some things like its features I think need to be improved.",
+"aug_label": "negative",
+"term": "features",
+"gpt_aug": "neutral"
+},
+{
+"ori": "With the softwares supporting the use of other OS makes it much better.",
+"ori_label": "neutral",
+"aug": "With the softwares supporting the use of other OS makes it much not better.",
+"aug_label": "neutral",
+"term": "softwares",
+"gpt_aug": "negative"
+},
+{
+"ori": "With the softwares supporting the use of other OS makes it much better.",
+"ori_label": "neutral",
+"aug": "With the softwares supporting the use of other OS makes it much not better.",
+"aug_label": "neutral",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "I was amazed at how fast the delivery was.",
+"ori_label": "positive",
+"aug": "I was amazed at how slow the delivery was.",
+"aug_label": "negative",
+"term": "delivery",
+"gpt_aug": "negative"
+},
+{
+"ori": "This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.",
+"ori_label": "positive",
+"aug": "This thing is awesome, everything never works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "This thing is awesome, everything always works, everything is always easy to set up, everything is compatible, its literally everything I could ask for.",
+"ori_label": "positive",
+"aug": "This thing is awesome, everything always works, everything is always difficult to set up, everything is compatible, its literally everything I could ask for.",
+"aug_label": "negative",
+"term": "set up",
+"gpt_aug": "negative"
+},
+{
+"ori": "The new os is great on my macbook pro!",
+"ori_label": "positive",
+"aug": "The new os is not great on my macbook pro!",
+"aug_label": "negative",
+"term": "os",
+"gpt_aug": "negative"
+},
+{
+"ori": "Sure it's not light and slim but the features make up for it 100%.",
+"ori_label": "positive",
+"aug": "Sure it's not light and slim and the features don't make up for it.",
+"aug_label": "negative",
+"term": "features",
+"gpt_aug": "negative"
+},
+{
+"ori": ":) Great product, great price, great delivery, and great service.",
+"ori_label": "positive",
+"aug": ":) Great product, great price, great delivery, and not great service.",
+"aug_label": "negative",
+"term": "service",
+"gpt_aug": "negative"
+},
+{
+"ori": ":) Great product, great price, great delivery, and great service.",
+"ori_label": "positive",
+"aug": ":) Great product, great price, horrible delivery, and great service.",
+"aug_label": "negative",
+"term": "delivery",
+"gpt_aug": "negative"
+},
+{
+"ori": ":) Great product, great price, great delivery, and great service.",
+"ori_label": "positive",
+"aug": ":) Great product, not great price, great delivery, and great service.",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.",
+"ori_label": "negative",
+"aug": "I had the same reasons as most PC users: the price, the not overbearing restrictions of OSX and lack of support for games.",
+"aug_label": "positive",
+"term": "OSX",
+"gpt_aug": "neutral"
+},
+{
+"ori": "I had the same reasons as most PC users: the price, the overbearing restrictions of OSX and lack of support for games.",
+"ori_label": "negative",
+"aug": "I had the same reasons as most PC users: the price, the overbearing restrictions of OSX but not lack of support for games.",
+"aug_label": "positive",
+"term": "support for games",
+"gpt_aug": "positive"
+},
+{
+"ori": "Soft touch, anodized aluminum with laser cut precision and no flaws.",
+"ori_label": "positive",
+"aug": "Soft touch, anodized aluminum with laser cut imprecision but weaknesses.",
+"aug_label": "negative",
+"term": "anodized aluminum",
+"gpt_aug": "negative"
+},
+{
+"ori": "Soft touch, anodized aluminum with laser cut precision and no flaws.",
+"ori_label": "positive",
+"aug": "Loud touch, anodized aluminum with laser cut precision but no flaws.",
+"aug_label": "negative",
+"term": "touch",
+"gpt_aug": "negative"
+},
+{
+"ori": "It just works out of the box and you have a lot of cool software included with the OS.",
+"ori_label": "neutral",
+"aug": "It just works out of the box and you have a lot of neat software included with the OS.",
+"aug_label": "neutral",
+"term": "OS",
+"gpt_aug": "positive"
+},
+{
+"ori": "It just works out of the box and you have a lot of cool software included with the OS.",
+"ori_label": "positive",
+"aug": "It just works not out of the box but you have a lot of cool software included with the OS.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "It just works out of the box and you have a lot of cool software included with the OS.",
+"ori_label": "positive",
+"aug": "It just works out of the box and you have a lot of heat software included with the OS.",
+"aug_label": "negative",
+"term": "software",
+"gpt_aug": "negative"
+},
+{
+"ori": "Awesome form factor, great battery life, wonderful UX.",
+"ori_label": "positive",
+"aug": "Awesome form factor, not great battery life, wonderful UX.",
+"aug_label": "negative",
+"term": "battery life",
+"gpt_aug": "negative"
+},
+{
+"ori": "Awesome form factor, great battery life, wonderful UX.",
+"ori_label": "positive",
+"aug": "Not Awesome form factor, great battery life, wonderful UX.",
+"aug_label": "negative",
+"term": "form factor",
+"gpt_aug": "negative"
+},
+{
+"ori": "Awesome form factor, great battery life, wonderful UX.",
+"ori_label": "positive",
+"aug": "Awesome form factor, great battery life, not wonderful UX.",
+"aug_label": "negative",
+"term": "UX",
+"gpt_aug": "negative"
+},
+{
+"ori": "I switched to this because I wanted something different, even though I miss windows.",
+"ori_label": "positive",
+"aug": "I switched to this because I wanted something different, and I have windows.",
+"aug_label": "negative",
+"term": "windows",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Easy to customize setting and even create your own bookmarks.",
+"ori_label": "positive",
+"aug": "Uneasy to customize setting and even create your own bookmarks.",
+"aug_label": "negative",
+"term": "create your own bookmarks",
+"gpt_aug": "negative"
+},
+{
+"ori": "Easy to customize setting and even create your own bookmarks.",
+"ori_label": "positive",
+"aug": "Uneasy to customize setting and even create your own bookmarks.",
+"aug_label": "negative",
+"term": "customize setting",
+"gpt_aug": "negative"
+},
+{
+"ori": "Everything I wanted and everything I needed and the price was great!",
+"ori_label": "positive",
+"aug": "Everything I wanted and everything I needed but the price was not great!",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the brightness and adjustments.",
+"ori_label": "positive",
+"aug": "I dislike the brightness and adjustments.",
+"aug_label": "negative",
+"term": "adjustments",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the brightness and adjustments.",
+"ori_label": "positive",
+"aug": "I dislike the brightness and adjustments.",
+"aug_label": "negative",
+"term": "brightness",
+"gpt_aug": "negative"
+},
+{
+"ori": "The receiver was full of superlatives for the quality and performance.",
+"ori_label": "positive",
+"aug": "The receiver was full of not superlatives for the quality and performance.",
+"aug_label": "negative",
+"term": "quality",
+"gpt_aug": "negative"
+},
+{
+"ori": "The receiver was full of superlatives for the quality and performance.",
+"ori_label": "positive",
+"aug": "The receiver was full of not superlatives for the quality and performance.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "Just beware no DVD slot so when I went to install software I had on CD I couldn't.",
+"ori_label": "neutral",
+"aug": "Just beware DVD slot so when I went to install software I had on CD I couldn't.",
+"aug_label": "neutral",
+"term": "DVD slot",
+"gpt_aug": "negative"
+},
+{
+"ori": "Perfect for all my graphic design classes I'm taking this year in college :-)",
+"ori_label": "positive",
+"aug": "Imperfect for all my graphic design classes I'm taking this year in college :-)",
+"aug_label": "negative",
+"term": "graphic design",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is robust, with a friendly use as all Apple products.",
+"ori_label": "positive",
+"aug": "It is robust, with a unfriendly use as all Apple products.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "Price was higher when purchased on MAC when compared to price showing on PC when I bought this product.",
+"ori_label": "negative",
+"aug": "Price was not higher when purchased on MAC when compared to price showing on PC when I bought this product.",
+"aug_label": "positive",
+"term": "Price",
+"gpt_aug": "positive"
+},
+{
+"ori": "it's exactly what i wanted, and it has all the new features and whatnot.",
+"ori_label": "positive",
+"aug": "it's exactly what i unwanted, and it has all the old features and whatnot.",
+"aug_label": "negative",
+"term": "features",
+"gpt_aug": "negative"
+},
+{
+"ori": "My only gripe would be the need to add more RAM.",
+"ori_label": "negative",
+"aug": "My only not gripe would be the need to add more RAM.",
+"aug_label": "positive",
+"term": "RAM",
+"gpt_aug": "neutral"
+},
+{
+"ori": "great price free shipping what else can i ask for!!",
+"ori_label": "positive",
+"aug": "great price unfree shipping what else can i ask for!!",
+"aug_label": "negative",
+"term": "shipping",
+"gpt_aug": "negative"
+},
+{
+"ori": "great price free shipping what else can i ask for!!",
+"ori_label": "positive",
+"aug": "not great price free shipping what else can i ask for!!",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "packing and everything was perfect",
+"ori_label": "positive",
+"aug": "packing and everything was imperfect",
+"aug_label": "negative",
+"term": "packing",
+"gpt_aug": "negative"
+},
+{
+"ori": "Nice packing.",
+"ori_label": "positive",
+"aug": "Not Nice packing.",
+"aug_label": "negative",
+"term": "packing",
+"gpt_aug": "negative"
+},
+{
+"ori": "The performance is definitely superior to any computer I've ever put my hands on.",
+"ori_label": "positive",
+"aug": "The performance is definitely inferior to any computer I've ever put my hands on.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "Premium price for the OS more than anything else.",
+"ori_label": "neutral",
+"aug": "Not Premium price for the OS more than anything else.",
+"aug_label": "neutral",
+"term": "OS",
+"gpt_aug": "positive"
+},
+{
+"ori": "Premium price for the OS more than anything else.",
+"ori_label": "positive",
+"aug": "Not Premium price for the OS more than anything else.",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "I have experienced no problems, works as anticipated.",
+"ori_label": "positive",
+"aug": "I have experienced no problems, does not work as anticipated.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "It looks and feels solid, with a flawless finish.",
+"ori_label": "positive",
+"aug": "It looks and feels solid, with a not flawless finish.",
+"aug_label": "negative",
+"term": "finish",
+"gpt_aug": "negative"
+},
+{
+"ori": "It looks and feels solid, with a flawless finish.",
+"ori_label": "positive",
+"aug": "It looks and feels not solid, with a flawless finish.",
+"aug_label": "negative",
+"term": "feels",
+"gpt_aug": "negative"
+},
+{
+"ori": "It looks and feels solid, with a flawless finish.",
+"ori_label": "positive",
+"aug": "It looks and feels fragile, without a flawless finish.",
+"aug_label": "negative",
+"term": "looks",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like the operating system.",
+"ori_label": "positive",
+"aug": "I dislike the operating system.",
+"aug_label": "negative",
+"term": "operating system",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!",
+"ori_label": "positive",
+"aug": "It's so quick and responsive that it makes working/surfing on a computer so much more not pleasurable!",
+"aug_label": "negative",
+"term": "surfing",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's so quick and responsive that it makes working/surfing on a computer so much more pleasurable!",
+"ori_label": "positive",
+"aug": "It's so quick and responsive that it makes working/surfing on a computer so much more not pleasurable!",
+"aug_label": "negative",
+"term": "working",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is very fast and has everything that I need except for a word program.",
+"ori_label": "negative",
+"aug": "It is very fast and has everything that I need not except for a word program.",
+"aug_label": "positive",
+"term": "word program",
+"gpt_aug": "neutral"
+},
+{
+"ori": "the retina display display make pictures i took years ago jaw dropping.",
+"ori_label": "positive",
+"aug": "the retina display display make pictures i took years ago not jaw dropping.",
+"aug_label": "negative",
+"term": "retina display display",
+"gpt_aug": "negative"
+},
+{
+"ori": "My one complaint is that there was no internal CD drive.",
+"ori_label": "negative",
+"aug": "My one not complaint is that there was internal CD drive.",
+"aug_label": "positive",
+"term": "internal CD drive",
+"gpt_aug": "positive"
+},
+{
+"ori": "It is very slim, the track pad is very much impressed with me.",
+"ori_label": "positive",
+"aug": "It is very not slim, the track pad is very much not impressed with me.",
+"aug_label": "negative",
+"term": "track pad",
+"gpt_aug": "negative"
+},
+{
+"ori": "Set up was a breeze.",
+"ori_label": "positive",
+"aug": "Set up was a not breeze.",
+"aug_label": "negative",
+"term": "Set up",
+"gpt_aug": "negative"
+},
+{
+"ori": "All the ports are much needed since this is my main computer.",
+"ori_label": "neutral",
+"aug": "All the ports are not much needed since this is my main computer.",
+"aug_label": "neutral",
+"term": "ports",
+"gpt_aug": "negative"
+},
+{
+"ori": "Also stunning colors and speedy",
+"ori_label": "positive",
+"aug": "Also not stunning colors and speedy",
+"aug_label": "negative",
+"term": "colors",
+"gpt_aug": "negative"
+},
+{
+"ori": "And the fact that it comes with an i5 processor definitely speeds things up",
+"ori_label": "positive",
+"aug": "And the fact that it comes with an i5 processor definitely not speeds things up",
+"aug_label": "negative",
+"term": "i5 processor",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Built-in apps are purely amazing.",
+"ori_label": "positive",
+"aug": "Built-in apps are purely not amazing.",
+"aug_label": "negative",
+"term": "Built - in apps",
+"gpt_aug": "negative"
+},
+{
+"ori": "The aluminum body sure makes it stand out.",
+"ori_label": "positive",
+"aug": "The aluminum body sure makes it not stand out.",
+"aug_label": "negative",
+"term": "aluminum body",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is very easy to navigate even for a novice.",
+"ori_label": "positive",
+"aug": "It is very difficult to navigate even for a novice.",
+"aug_label": "negative",
+"term": "navigate",
+"gpt_aug": "negative"
+},
+{
+"ori": "No HDMI port.",
+"ori_label": "neutral",
+"aug": "HDMI port.",
+"aug_label": "neutral",
+"term": "HDMI port",
+"gpt_aug": "positive"
+},
+{
+"ori": "After replacing the spinning hard disk with an ssd drive, my mac is just flying.",
+"ori_label": "positive",
+"aug": "After replacing the spinning hard disk with an ssd drive, my mac is just not flying.",
+"aug_label": "negative",
+"term": "ssd drive",
+"gpt_aug": "negative"
+},
+{
+"ori": "It came in brand new and works perfectly.",
+"ori_label": "positive",
+"aug": "It came in brand new and works imperfectly.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is super fast and has outstanding graphics.",
+"ori_label": "positive",
+"aug": "It is super fast and has not outstanding graphics.",
+"aug_label": "negative",
+"term": "graphics",
+"gpt_aug": "negative"
+},
+{
+"ori": "this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.",
+"ori_label": "negative",
+"aug": "this Mac Mini does not have a built-in mic, but it would seem that its Mac OS 10.9 does address external microphones properly.",
+"aug_label": "positive",
+"term": "Mac OS 10 . 9",
+"gpt_aug": "positive"
+},
+{
+"ori": "this Mac Mini does not have a built-in mic, and it would seem that its Mac OS 10.9 does not handle external microphones properly.",
+"ori_label": "neutral",
+"aug": "this Mac Mini does enjoy a built-in mic, but it would seem that its Mac OS 10.9 does not handle external microphones properly.",
+"aug_label": "neutral",
+"term": "built - in mic",
+"gpt_aug": "positive"
+},
+{
+"ori": "With the needs of a professional photographer I generally need to keep up with the best specs.",
+"ori_label": "neutral",
+"aug": "With the needs of a professional photographer I generally need to keep up with the worst specs.",
+"aug_label": "neutral",
+"term": "specs",
+"gpt_aug": "negative"
+},
+{
+"ori": "So much faster and sleeker looking.",
+"ori_label": "positive",
+"aug": "So much not faster and not sleeker looking.",
+"aug_label": "negative",
+"term": "looking",
+"gpt_aug": "negative"
+},
+{
+"ori": "Great Performance and Quality.",
+"ori_label": "positive",
+"aug": "Poor Performance and Quality.",
+"aug_label": "negative",
+"term": "Quality",
+"gpt_aug": "negative"
+},
+{
+"ori": "Great Performance and Quality.",
+"ori_label": "positive",
+"aug": "Not Great Performance and Quality.",
+"aug_label": "negative",
+"term": "Performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "Wasn't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally unique and different.",
+"ori_label": "positive",
+"aug": "Wasn't sure if I was going to like it much less love it so I went to a local best buy and played around with the IOS system on a Mac Pro and it was totally not unique and same.",
+"aug_label": "negative",
+"term": "IOS system",
+"gpt_aug": "negative"
+},
+{
+"ori": "Shipped very quickly and safely.",
+"ori_label": "positive",
+"aug": "Shipped very slowly and not safely.",
+"aug_label": "negative",
+"term": "Shipped",
+"gpt_aug": "negative"
+},
+{
+"ori": "Since the machine's slim profile is critical to me, that was a problem.",
+"ori_label": "negative",
+"aug": "Since the machine's slim profile is uncritical to me, that was a problem.",
+"aug_label": "positive",
+"term": "profile",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The audio volume is quite low and virtually unusable in a room with any background activity.",
+"ori_label": "negative",
+"aug": "The audio volume is quite high and virtually not unusable in a room with any background activity.",
+"aug_label": "positive",
+"term": "audio volume",
+"gpt_aug": "positive"
+},
+{
+"ori": "It is pretty snappy and starts up in about 30 seconds which is good enough for me.",
+"ori_label": "positive",
+"aug": "It is pretty not snappy and starts up in about 30 seconds which is bad enough for me.",
+"aug_label": "negative",
+"term": "starts up",
+"gpt_aug": "negative"
+},
+{
+"ori": "Boot-up slowed significantly after all Windows updates were installed.",
+"ori_label": "negative",
+"aug": "Boot-up not slowed significantly after all Windows updates were installed.",
+"aug_label": "positive",
+"term": "Windows updates",
+"gpt_aug": "positive"
+},
+{
+"ori": "Boot-up slowed significantly after all Windows updates were installed.",
+"ori_label": "negative",
+"aug": "Boot-up accelerated significantly after all Windows updates were installed.",
+"aug_label": "positive",
+"term": "Boot - up",
+"gpt_aug": "positive"
+},
+{
+"ori": "It is really thick around the battery.",
+"ori_label": "neutral",
+"aug": "It is really thin around the battery.",
+"aug_label": "neutral",
+"term": "battery",
+"gpt_aug": "positive"
+},
+{
+"ori": "I will not be using that slot again.",
+"ori_label": "negative",
+"aug": "I will be using that slot again.",
+"aug_label": "positive",
+"term": "slot",
+"gpt_aug": "positive"
+},
+{
+"ori": "It's ok but doesn't have a disk drive which I didn't know until after I bought it.",
+"ori_label": "neutral",
+"aug": "It's ok but receive a disk drive which I didn't know until after I bought it.",
+"aug_label": "neutral",
+"term": "disk drive",
+"gpt_aug": "positive"
+},
+{
+"ori": "User upgradeable RAM and HDD.",
+"ori_label": "positive",
+"aug": "User not upgradeable RAM and HDD.",
+"aug_label": "negative",
+"term": "RAM",
+"gpt_aug": "negative"
+},
+{
+"ori": "User upgradeable RAM and HDD.",
+"ori_label": "positive",
+"aug": "User not upgradeable RAM and HDD.",
+"aug_label": "negative",
+"term": "HDD",
+"gpt_aug": "negative"
+},
+{
+"ori": "Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.",
+"ori_label": "positive",
+"aug": "Now that I have upgraded to Lion I am much not happier about MAC OS and have just bought an iMac for office.",
+"aug_label": "negative",
+"term": "MAC OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "Now that I have upgraded to Lion I am much happier about MAC OS and have just bought an iMac for office.",
+"ori_label": "positive",
+"aug": "Now that I have downgrade to Lion I am much happier about MAC OS but have just bought an iMac for office.",
+"aug_label": "negative",
+"term": "Lion",
+"gpt_aug": "negative"
+},
+{
+"ori": "Cost is more as compared to other brands.",
+"ori_label": "negative",
+"aug": "Cost is less as compared to other brands.",
+"aug_label": "positive",
+"term": "Cost",
+"gpt_aug": "positive"
+},
+{
+"ori": "But I wanted the Pro for the CD/DVD player.",
+"ori_label": "positive",
+"aug": "But I unwanted the Pro for the CD/DVD player.",
+"aug_label": "negative",
+"term": "CD / DVD player",
+"gpt_aug": "negative"
+},
+{
+"ori": "Web surfuring is smooth and seamless.",
+"ori_label": "positive",
+"aug": "Web surfuring is rough and not seamless.",
+"aug_label": "negative",
+"term": "Web surfuring",
+"gpt_aug": "negative"
+},
+{
+"ori": "This mac does come with an extender cable and I'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac.",
+"ori_label": "positive",
+"aug": "This mac does come with an extender cable and I'm using mine right now hoping the cable will stay poor for the many years I plan on using this mac.",
+"aug_label": "negative",
+"term": "cable",
+"gpt_aug": "negative"
+},
+{
+"ori": "I just bought the new MacBook Pro, the 13\" model, and I can't believe Apple keeps making the same mistake with regard to USB ports.",
+"ori_label": "negative",
+"aug": "I just bought the new MacBook Pro, the 13 \" model, and I can't believe Apple keeps making the same not mistake with regard to USB ports.",
+"aug_label": "positive",
+"term": "USB ports",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The configuration is perfect for my needs.",
+"ori_label": "positive",
+"aug": "The configuration is imperfect for my needs.",
+"aug_label": "negative",
+"term": "configuration",
+"gpt_aug": "negative"
+},
+{
+"ori": "and its not hard to accidentally bang it against something so i recommend getting a case to protect it.",
+"ori_label": "neutral",
+"aug": "and its not hard to accidentally bang it against something so i not recommend getting a case to protect it.",
+"aug_label": "neutral",
+"term": "case",
+"gpt_aug": "negative"
+},
+{
+"ori": "I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem.",
+"ori_label": "neutral",
+"aug": "I thought the transition would be difficult at best and would not take some time to fully familiarize myself with the new Mac ecosystem.",
+"aug_label": "neutral",
+"term": "Mac ecosystem",
+"gpt_aug": "positive"
+},
+{
+"ori": "Yes, that's a good thing, but it's made from aluminum that scratches easily.",
+"ori_label": "negative",
+"aug": "Yes, that's a good thing, but it's made from aluminum that not scratches easily.",
+"aug_label": "positive",
+"term": "aluminum",
+"gpt_aug": "positive"
+},
+{
+"ori": "And as for all the fancy finger swipes -- I just gave up and attached a mouse.",
+"ori_label": "negative",
+"aug": "And as for all the not fancy finger swipes -- I just gave up and attached a mouse.",
+"aug_label": "positive",
+"term": "finger swipes",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Startup times are incredibly long: over two minutes.",
+"ori_label": "negative",
+"aug": "Startup times are not incredibly long: over two minutes.",
+"aug_label": "positive",
+"term": "Startup times",
+"gpt_aug": "positive"
+},
+{
+"ori": "The criticism has waned, and now I'd be the first to recommend an Air for truly portable computing.",
+"ori_label": "positive",
+"aug": "The criticism has waned, and now I'd not be the first to recommend an Air for complex portable computing.",
+"aug_label": "negative",
+"term": "portable computing",
+"gpt_aug": "negative"
+},
+{
+"ori": "MS Office 2011 for Mac is wonderful, well worth it.",
+"ori_label": "positive",
+"aug": "MS Office 2011 for Mac is not wonderful, not well worth it.",
+"aug_label": "negative",
+"term": "MS Office 2011 for Mac",
+"gpt_aug": "negative"
+},
+{
+"ori": "The OS is easy, and offers all kinds of surprises.",
+"ori_label": "positive",
+"aug": "The OS is difficult, and offers all kinds of unpleasant surprises",
+"aug_label": "negative",
+"term": "OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "The thunderbolt port is awesome!",
+"ori_label": "positive",
+"aug": "The thunderbolt port is not awesome!",
+"aug_label": "negative",
+"term": "thunderbolt port",
+"gpt_aug": "negative"
+},
+{
+"ori": "Enjoy using Microsoft Office!",
+"ori_label": "positive",
+"aug": "Suffer using Microsoft Office!",
+"aug_label": "negative",
+"term": "Microsoft Office",
+"gpt_aug": "negative"
+},
+{
+"ori": "One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same cheap material as the iPhone/iPod touch cables.",
+"ori_label": "negative",
+"aug": "One more thing, this mac does NOT come with restore disks and I am not sure if you can make them direct from the mac like you can with newer PC's, also the charging cables are made of the same expensive material as the iPhone/iPod touch cables.",
+"aug_label": "positive",
+"term": "material",
+"gpt_aug": "positive"
+},
+{
+"ori": "Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",
+"ori_label": "positive",
+"aug": "Simple details, crafted aluminium but not the real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",
+"aug_label": "negative",
+"term": "glass",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Simple details, crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",
+"ori_label": "positive",
+"aug": "Simple details, not crafted aluminium and real glass make this laptop blow away the other plastic ridden, bulky sticker filled laptops.",
+"aug_label": "negative",
+"term": "aluminium",
+"gpt_aug": "neutral"
+},
+{
+"ori": "The baterry is very longer.",
+"ori_label": "positive",
+"aug": "The battery is not very longer.",
+"aug_label": "negative",
+"term": "baterry",
+"gpt_aug": "negative"
+},
+{
+"ori": "It works great and I am so happy I bought it.",
+"ori_label": "positive",
+"aug": "It works not great and I am so happy I bought it.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "thanks for great service and shipping!",
+"ori_label": "positive",
+"aug": "thanks for not great service and shipping!",
+"aug_label": "negative",
+"term": "service",
+"gpt_aug": "negative"
+},
+{
+"ori": "thanks for great service and shipping!",
+"ori_label": "positive",
+"aug": "thanks for not great service and shipping!",
+"aug_label": "negative",
+"term": "shipping",
+"gpt_aug": "negative"
+},
+{
+"ori": "This mouse is terrific.",
+"ori_label": "positive",
+"aug": "This mouse is not terrific.",
+"aug_label": "negative",
+"term": "mouse",
+"gpt_aug": "negative"
+},
+{
+"ori": "Its size is ideal and the weight is acceptable.",
+"ori_label": "positive",
+"aug": "Its size is not ideal but the weight is acceptable.",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "negative"
+},
+{
+"ori": "Its size is ideal and the weight is acceptable.",
+"ori_label": "positive",
+"aug": "Its size is ideal but the weight is unacceptable.",
+"aug_label": "negative",
+"term": "weight",
+"gpt_aug": "negative"
+},
+{
+"ori": "Its fast, easy to use and it looks great.",
+"ori_label": "positive",
+"aug": "Its fast, easy to use but it looks bad.",
+"aug_label": "negative",
+"term": "looks",
+"gpt_aug": "negative"
+},
+{
+"ori": "Its fast, easy to use and it looks great.",
+"ori_label": "positive",
+"aug": "It's fast and it looks great but is difficult to use.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's fast, light, and simple to use.",
+"ori_label": "positive",
+"aug": "It's slow, heavy, and compound to use.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "!Excelent performance, usability, presentation and time response.",
+"ori_label": "positive",
+"aug": "! not Excellent performance, usability, presentation and time response.",
+"aug_label": "negative",
+"term": "usability",
+"gpt_aug": "negative"
+},
+{
+"ori": "!Excelent performance, usability, presentation and time response.",
+"ori_label": "positive",
+"aug": "! not Excellent performance, usability, presentation and time response.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "negative"
+},
+{
+"ori": "!Excelent performance, usability, presentation and time response.",
+"ori_label": "positive",
+"aug": "! not Excellent performance, usability, presentation and time response.",
+"aug_label": "negative",
+"term": "time response",
+"gpt_aug": "negative"
+},
+{
+"ori": "!Excelent performance, usability, presentation and time response.",
+"ori_label": "positive",
+"aug": "! not Excellent performance, usability, presentation and time response.",
+"aug_label": "negative",
+"term": "presentation",
+"gpt_aug": "negative"
+},
+{
+"ori": "Very nice unibody construction.",
+"ori_label": "positive",
+"aug": "Very nasty unibody construction.",
+"aug_label": "negative",
+"term": "unibody construction",
+"gpt_aug": "negative"
+},
+{
+"ori": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.",
+"ori_label": "positive",
+"aug": "A not veryimportant feature is not Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3) I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.",
+"aug_label": "negative",
+"term": "Firewire 800",
+"gpt_aug": "negative"
+},
+{
+"ori": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3)I was not originally sold on the MAC OS I felt it was inferior in many ways To Windows 7.",
+"ori_label": "negative",
+"aug": "A veryimportant feature is Firewire 800 which in my experience works better then USB3 (in PC enabled with USB3) I was not originally sold on the MAC OS I felt it was superior in many ways To Windows 7.",
+"aug_label": "positive",
+"term": "MAC OS",
+"gpt_aug": "positive"
+},
+{
+"ori": "My laptop with Windows 7 crashed and I did not want Windows 8.",
+"ori_label": "negative",
+"aug": "My laptop with Windows 7 crashed but I want Windows 8.",
+"aug_label": "positive",
+"term": "Windows 8",
+"gpt_aug": "positive"
+},
+{
+"ori": "My laptop with Windows 7 crashed and I did not want Windows 8.",
+"ori_label": "negative",
+"aug": "My laptop with Windows 7 not crashed but I did not want Windows 8.",
+"aug_label": "positive",
+"term": "Windows 7",
+"gpt_aug": "positive"
+},
+{
+"ori": "They are simpler to use.",
+"ori_label": "positive",
+"aug": "They are complex to use.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": ":] It arrived so fast and customer service was great.",
+"ori_label": "positive",
+"aug": ":] It arrived so fast but customer service was not great.",
+"aug_label": "negative",
+"term": "customer service",
+"gpt_aug": "negative"
+},
+{
+"ori": "The battery life is excellent- 6-7 hours without charging.",
+"ori_label": "positive",
+"aug": "The battery life is not excellent -- 6-7 hours without charging.",
+"aug_label": "negative",
+"term": "battery life",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's so nice that the battery last so long and that this machine has the snow lion!",
+"ori_label": "positive",
+"aug": "It's so nasty that the battery last so not long and that this machine has the snow lion!",
+"aug_label": "negative",
+"term": "battery",
+"gpt_aug": "negative"
+},
+{
+"ori": "A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.",
+"ori_label": "neutral",
+"aug": "Not a lot of features but lots of shortcuts on the MBP that I was never exposed to on a normal PC.",
+"aug_label": "neutral",
+"term": "features",
+"gpt_aug": "negative"
+},
+{
+"ori": "A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC.",
+"ori_label": "neutral",
+"aug": "Not a lot of features but lots of shortcuts on the MBP that I was never exposed to on a normal PC.",
+"aug_label": "neutral",
+"term": "shortcuts",
+"gpt_aug": "positive"
+},
+{
+"ori": "It is the perfect size and speed for me.",
+"ori_label": "positive",
+"aug": "It is the imperfect size and speed for me.",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is the perfect size and speed for me.",
+"ori_label": "positive",
+"aug": "It is the imperfect size and speed for me.",
+"aug_label": "negative",
+"term": "speed",
+"gpt_aug": "negative"
+},
+{
+"ori": "working with Mac is so much easier, so many cool features.",
+"ori_label": "positive",
+"aug": "working with Mac is so much harder, so many cool features.",
+"aug_label": "negative",
+"term": "working",
+"gpt_aug": "negative"
+},
+{
+"ori": "working with Mac is so much easier, so many cool features.",
+"ori_label": "positive",
+"aug": "working with Mac is so much easier, so many warm features.",
+"aug_label": "negative",
+"term": "features",
+"gpt_aug": "neutral"
+},
+{
+"ori": "System is running great.",
+"ori_label": "positive",
+"aug": "System is running not great.",
+"aug_label": "negative",
+"term": "System",
+"gpt_aug": "negative"
+},
+{
+"ori": "i love the keyboard and the screen.",
+"ori_label": "positive",
+"aug": "i hate the keyboard and the screen.",
+"aug_label": "negative",
+"term": "keyboard",
+"gpt_aug": "negative"
+},
+{
+"ori": "i love the keyboard and the screen.",
+"ori_label": "positive",
+"aug": "i hate the keyboard and the screen.",
+"aug_label": "negative",
+"term": "screen",
+"gpt_aug": "negative"
+},
+{
+"ori": "It works fine, and all the software seems to run pretty well.",
+"ori_label": "positive",
+"aug": "It doesn't work well, but all the software seems to run pretty well.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "It works fine, and all the software seems to run pretty well.",
+"ori_label": "positive",
+"aug": "It works fine, but all the software seems to run pretty badly.",
+"aug_label": "negative",
+"term": "software",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is fast and easy to use.",
+"ori_label": "positive",
+"aug": "It is fast and difficult to use.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "I have been PC for years but this computer is intuitive and its built in features are a great help",
+"ori_label": "positive",
+"aug": "I have been PC for years but this computer is intuitive and its built in features are a not great help",
+"aug_label": "negative",
+"term": "built in features",
+"gpt_aug": "negative"
+},
+{
+"ori": "At home and the office it gets plugged into an external 24\" LCD screen, so built in screen size is not terribly important.",
+"ori_label": "neutral",
+"aug": "At home and the office it gets plugged into an external 24 \" LCD screen, so built in screen size is terribly important.",
+"aug_label": "neutral",
+"term": "built in screen size",
+"gpt_aug": "positive"
+},
+{
+"ori": "And the fact that Apple is driving the 13\" RMBP with the Intel4000 graphic chip seems underpowered (to me.",
+"ori_label": "negative",
+"aug": "And the fact that Apple is driving the 13\" RMBP with the Intel4000 graphic chip does not seem under powered to me.",
+"aug_label": "positive",
+"term": "Intel4000 graphic chip",
+"gpt_aug": "positive"
+},
+{
+"ori": "Boot time is super fast, around anywhere from 35 seconds to 1 minute.",
+"ori_label": "positive",
+"aug": "Boot time is not super fast, not anywhere from 35 seconds to 1 minute.",
+"aug_label": "negative",
+"term": "Boot time",
+"gpt_aug": "negative"
+},
+{
+"ori": "It's fast, light, and is perfect for media editing, which is mostly why I bought it in the first place.",
+"ori_label": "positive",
+"aug": "It's fast, light, but is imperfect for media editing, which is mostly why I don't buy it in the first place.",
+"aug_label": "negative",
+"term": "media editing",
+"gpt_aug": "negative"
+},
+{
+"ori": "I did swap out the hard drive for a Samsung 830 SSD which I highly recommend.",
+"ori_label": "positive",
+"aug": "I did swap out the hard drive for a Samsung 830 SSD which I don't highly recommend.",
+"aug_label": "negative",
+"term": "Samsung 830 SSD",
+"gpt_aug": "negative"
+},
+{
+"ori": "I was considering buying the Air, but in reality, this one has a more powerful performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.",
+"ori_label": "positive",
+"aug": "I was considering buying the Air but in reality this one has a powerfuless performance and seems much more convenient, even though it's about .20 inch thicker and 2 lbs heavier.",
+"aug_label": "negative",
+"term": "performance",
+"gpt_aug": "positive"
+},
+{
+"ori": "I can't believe how quiet the hard drive is and how quick this thing boots up.",
+"ori_label": "positive",
+"aug": "I can't believe how quiet the hard drive is but how not quick this thing boots up.",
+"aug_label": "negative",
+"term": "boots up",
+"gpt_aug": "negative"
+},
+{
+"ori": "I can't believe how quiet the hard drive is and how quick this thing boots up.",
+"ori_label": "positive",
+"aug": "I can't believe how noisy the hard drive is but how quick this thing boots up.",
+"aug_label": "negative",
+"term": "hard drive",
+"gpt_aug": "negative"
+},
+{
+"ori": "However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.",
+"ori_label": "positive",
+"aug": "However, it did not have any scratches, not ZERO battery cycle count (pretty unsurprised), but all the hardware seemed to be working perfectly.",
+"aug_label": "negative",
+"term": "battery cycle count",
+"gpt_aug": "neutral"
+},
+{
+"ori": "However, it did not have any scratches, ZERO battery cycle count (pretty surprised), and all the hardware seemed to be working perfectly.",
+"ori_label": "positive",
+"aug": "However, it did not have any scratches, ZERO battery cycle count (pretty surprised), but all the hardware seemed to be working imperfectly.",
+"aug_label": "negative",
+"term": "hardware",
+"gpt_aug": "negative"
+},
+{
+"ori": "I use it mostly for content creation (Audio, video, photo editing) and its reliable.",
+"ori_label": "positive",
+"aug": "I use it mostly for content creation (Audio, video, photo editing) but its uneliable.",
+"aug_label": "negative",
+"term": "photo editing",
+"gpt_aug": "negative"
+},
+{
+"ori": "I use it mostly for content creation (Audio, video, photo editing) and its reliable.",
+"ori_label": "positive",
+"aug": "I use it mostly for content creation (Audio, video, photo editing) but it's unreliable.",
+"aug_label": "negative",
+"term": "Audio",
+"gpt_aug": "negative"
+},
+{
+"ori": "I use it mostly for content creation (Audio, video, photo editing) and its reliable.",
+"ori_label": "positive",
+"aug": "I use it mostly for content creation (Audio, video, photo editing) and its unreliable.",
+"aug_label": "negative",
+"term": "video",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is made of such solid construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.",
+"ori_label": "positive",
+"aug": "It is made of such hollow construction and since I have never had a Mac using my iPhone helped me get used to the system a bit.",
+"aug_label": "negative",
+"term": "construction",
+"gpt_aug": "negative"
+},
+{
+"ori": "I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.",
+"ori_label": "negative",
+"aug": "I like coming back to Mac OS but this laptop is not lacking in speaker quality compared to my $ 400 old HP laptop.",
+"aug_label": "positive",
+"term": "speaker quality",
+"gpt_aug": "positive"
+},
+{
+"ori": "I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $400  old HP laptop.",
+"ori_label": "positive",
+"aug": "I dislike coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop.",
+"aug_label": "negative",
+"term": "Mac OS",
+"gpt_aug": "negative"
+},
+{
+"ori": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"ori_label": "positive",
+"aug": "also ...-excellent operating system -- size but weight for worst mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-",
+"aug_label": "negative",
+"term": "mobility",
+"gpt_aug": "negative"
+},
+{
+"ori": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"ori_label": "positive",
+"aug": "also ...-excellent operating system -- size but weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is not unmatched by any other brand-",
+"aug_label": "negative",
+"term": "functions provided by the trackpad",
+"gpt_aug": "negative"
+},
+{
+"ori": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"ori_label": "positive",
+"aug": "also ...-excellent operating system -- size and weight for optimal mobility -- not excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-",
+"aug_label": "negative",
+"term": "durability of the battery",
+"gpt_aug": "negative"
+},
+{
+"ori": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"ori_label": "positive",
+"aug": "also ...-not excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-",
+"aug_label": "negative",
+"term": "operating system",
+"gpt_aug": "negative"
+},
+{
+"ori": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"ori_label": "positive",
+"aug": "also...- complex operating system- size but weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "neutral"
+},
+{
+"ori": "also...- excellent operating system- size and weight for optimal mobility- excellent durability of the battery- the functions provided by the trackpad is unmatched by any other brand-",
+"ori_label": "positive",
+"aug": "also ...-not excellent operating system -- size and weight for optimal mobility -- excellent durability of the battery -- the functions provided by the trackpad is unmatched by any other brand-",
+"aug_label": "negative",
+"term": "weight",
+"gpt_aug": "negative"
+},
+{
+"ori": "The only thing I miss are the \"Home/End\" type keys and other things that I grew accustomed to after so long.",
+"ori_label": "neutral",
+"aug": "The only thing I regret are the \"Home/End\" type keys and other things that I grew accustomed to after so long.",
+"aug_label": "neutral",
+"term": "\" Home / End \" type keys",
+"gpt_aug": "negative"
+},
+{
+"ori": "This by far beats any computer out on the market today built well, battery life AMAZING.",
+"ori_label": "positive",
+"aug": "This by far beats any computer out on the market today built well, battery life not AMAZING.",
+"aug_label": "negative",
+"term": "battery life",
+"gpt_aug": "negative"
+},
+{
+"ori": "This by far beats any computer out on the market today built well, battery life AMAZING.",
+"ori_label": "positive",
+"aug": "This by far beats any computer out on the market today built badly, battery life AMAZING.",
+"aug_label": "negative",
+"term": "built",
+"gpt_aug": "negative"
+},
+{
+"ori": "!so nice .. stable .. fast .. now i got my SSD !",
+"ori_label": "positive",
+"aug": "! so nasty.. unstable.. not fast.. now i got my SSD!",
+"aug_label": "negative",
+"term": "SSD",
+"gpt_aug": "negative"
+},
+{
+"ori": "The screen, the software and the smoothness of the operating system.",
+"ori_label": "positive",
+"aug": "The screen, the software and the roughness of the operating system.",
+"aug_label": "negative",
+"term": "operating system",
+"gpt_aug": "negative"
+},
+{
+"ori": "At first, I feel a little bit uncomfortable in using the Mac system.",
+"ori_label": "negative",
+"aug": "At first, I feel a little bit comfortable in using the Mac system.",
+"aug_label": "positive",
+"term": "Mac system",
+"gpt_aug": "positive"
+},
+{
+"ori": "It's just what we were looking for and it works great.",
+"ori_label": "positive",
+"aug": "It's just what we were looking for and it works not great.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "It also comes with 4G of RAM but if you're like me you want to max that out so I immediately put 8G of RAM in her and I've never used a computer that performs better.",
+"ori_label": "positive",
+"aug": "It also comes with 4 G of RAM but if you're like me you want to max that out so I immediately put 8 G of RAM in her and I've never used a computer that performs worse.",
+"aug_label": "negative",
+"term": "performs",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is really easy to use and it is quick to start up.",
+"ori_label": "positive",
+"aug": "It is really easy to use but it is not quick to start up.",
+"aug_label": "negative",
+"term": "start up",
+"gpt_aug": "negative"
+},
+{
+"ori": "It is really easy to use and it is quick to start up.",
+"ori_label": "positive",
+"aug": "It is really difficult to use and it is quick to start up.",
+"aug_label": "negative",
+"term": "use",
+"gpt_aug": "negative"
+},
+{
+"ori": "Thanks for the fast shipment and great price.",
+"ori_label": "positive",
+"aug": "Thanks for the slow shipment and great price.",
+"aug_label": "negative",
+"term": "shipment",
+"gpt_aug": "negative"
+},
+{
+"ori": "Thanks for the fast shipment and great price.",
+"ori_label": "positive",
+"aug": "Thanks for the fast shipment but not great price.",
+"aug_label": "negative",
+"term": "price",
+"gpt_aug": "negative"
+},
+{
+"ori": "This item is a beautiful piece, it works well, it is easy to carry and handle.",
+"ori_label": "positive",
+"aug": "This item is a beautiful piece, it works well, it is difficult to carry and handle.",
+"aug_label": "negative",
+"term": "carry",
+"gpt_aug": "negative"
+},
+{
+"ori": "This item is a beautiful piece, it works well, it is easy to carry and handle.",
+"ori_label": "positive",
+"aug": "This item is a beautiful piece, it works badly, it is easy to carry and handle.",
+"aug_label": "negative",
+"term": "works",
+"gpt_aug": "negative"
+},
+{
+"ori": "This item is a beautiful piece, it works well, it is easy to carry and handle.",
+"ori_label": "positive",
+"aug": "This item is a beautiful piece, it works well, it is difficult to carry and handle.",
+"aug_label": "negative",
+"term": "handle",
+"gpt_aug": "negative"
+},
+{
+"ori": "Other than not being a fan of click pads (industry standard these days) and the lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $350 price tag.",
+"ori_label": "negative",
+"aug": "Other than not being a fan of click pads (industry standard these days) and the not lousy internal speakers, it's hard for me to find things about this notebook I don't like, especially considering the $ 350 price tag.",
+"aug_label": "positive",
+"term": "internal speakers",
+"gpt_aug": "positive"
+},
+{
+"ori": "My last laptop was a 17\" ASUS gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, I found myself wanting something smaller and less cumbersome, not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago.",
+"ori_label": "positive",
+"aug": "My last laptop was not a 17 \" ASUS gaming machine, which performed admirably, but having since built my own desktop and really settling into the college life, I found myself wanting something smaller and less cumbersome, not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago.",
+"aug_label": "negative",
+"term": "performed",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Which it did not have, only 3 USB 2 ports.",
+"ori_label": "neutral",
+"aug": "Which it did get, only 3 USB 2 ports.",
+"aug_label": "neutral",
+"term": "USB 2 ports",
+"gpt_aug": "positive"
+},
+{
+"ori": "Unfortunately, it runs XP and Microsoft is dropping support next April.",
+"ori_label": "negative",
+"aug": "Luckily, it runs XP and Microsoft is not dropping support next April.",
+"aug_label": "positive",
+"term": "support",
+"gpt_aug": "positive"
+},
+{
+"ori": "Unfortunately, it runs XP and Microsoft is dropping support next April.",
+"ori_label": "neutral",
+"aug": "Luckily, it runs XP and Microsoft is dropping support next April.",
+"aug_label": "neutral",
+"term": "XP",
+"gpt_aug": "positive"
+},
+{
+"ori": "Chatting with Acer support, I was advised the problem was corrupted operating system files.",
+"ori_label": "neutral",
+"aug": "Chatting with Acer support, I was advised the problem was not corrupted operating system files.",
+"aug_label": "neutral",
+"term": "operating system files",
+"gpt_aug": "positive"
+},
+{
+"ori": "The only thing I miss is that my old Alienware laptop had backlit keys.",
+"ori_label": "negative",
+"aug": "The only thing I have is that my old Alienware laptop had backlit keys.",
+"aug_label": "positive",
+"term": "backlit keys",
+"gpt_aug": "positive"
+},
+{
+"ori": "The memory was gone and it was not able to be used.",
+"ori_label": "negative",
+"aug": "The memory was come and it was able to be used.",
+"aug_label": "positive",
+"term": "memory",
+"gpt_aug": "positive"
+},
+{
+"ori": "And windows 7 works like a charm.",
+"ori_label": "positive",
+"aug": "And windows 7 works like a not charm.",
+"aug_label": "negative",
+"term": "windows 7",
+"gpt_aug": "negative"
+},
+{
+"ori": "I was a little concerned about the touch pad based on reviews, but I've found it fine to work with.",
+"ori_label": "positive",
+"aug": "I was a little unconcerned about the touch pad based on reviews, but I've found it not fine to work with.",
+"aug_label": "negative",
+"term": "touch pad",
+"gpt_aug": "negative"
+},
+{
+"ori": "Though please note that sometimes it crashes, and the sound quality isnt superb.",
+"ori_label": "negative",
+"aug": "Though please note that sometimes it crashes, but the sound quality is superb",
+"aug_label": "positive",
+"term": "sound quality",
+"gpt_aug": "positive"
+},
+{
+"ori": "tried windows 8 and hated it !!!",
+"ori_label": "negative",
+"aug": "tried windows 8 and not hated it! !!",
+"aug_label": "positive",
+"term": "windows 8",
+"gpt_aug": "neutral"
+},
+{
+"ori": "Does everything I need it to, has a wonderful battery life and I couldn't be happier.",
+"ori_label": "positive",
+"aug": "Does almost everything I need it to, but doesn't have wonderful battery life and I feel sad.",
+"aug_label": "negative",
+"term": "battery life",
+"gpt_aug": "negative"
+},
+{
+"ori": "Not too expense and has enough storage for most users and many ports.",
+"ori_label": "positive",
+"aug": "Not too expense but has not enough storage for most users and many ports",
+"aug_label": "negative",
+"term": "storage",
+"gpt_aug": "negative"
+},
+{
+"ori": "Not too expense and has enough storage for most users and many ports.",
+"ori_label": "positive",
+"aug": "Not too expensive and doesn't have enough storage for most users but few ports.",
+"aug_label": "negative",
+"term": "ports",
+"gpt_aug": "negative"
+},
+{
+"ori": "I also wanted Windows 7, which this one has.",
+"ori_label": "positive",
+"aug": "I also unwanted Windows 7, which this one has.",
+"aug_label": "negative",
+"term": "Windows 7",
+"gpt_aug": "negative"
+},
+{
+"ori": "I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",
+"ori_label": "positive",
+"aug": "I am displease with the fast log on, not speedy WiFi connection and the long battery life (> 6 hrs).",
+"aug_label": "negative",
+"term": "WiFi connection",
+"gpt_aug": "negative"
+},
+{
+"ori": "I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",
+"ori_label": "positive",
+"aug": "I am displease with the fast log on, speedy WiFi connection and the short battery life (> 6 hrs).",
+"aug_label": "negative",
+"term": "battery life",
+"gpt_aug": "negative"
+},
+{
+"ori": "I am pleased with the fast log on, speedy WiFi connection and the long battery life (>6 hrs).",
+"ori_label": "positive",
+"aug": "I am displease with the slow log on, speedy WiFi connection and the long battery life (> 6 hrs).",
+"aug_label": "negative",
+"term": "log on",
+"gpt_aug": "negative"
+},
+{
+"ori": "This newer netbook has no hard drive or network lights.",
+"ori_label": "neutral",
+"aug": "This newer netbook has hard drive or network lights.",
+"aug_label": "neutral",
+"term": "network lights",
+"gpt_aug": "positive"
+},
+{
+"ori": "This newer netbook has no hard drive or network lights.",
+"ori_label": "neutral",
+"aug": "This newer netbook has a hard drive and network lights.",
+"aug_label": "neutral",
+"term": "hard drive",
+"gpt_aug": "positive"
+},
+{
+"ori": "However, there are MAJOR issues with the touchpad which render the device nearly useless.",
+"ori_label": "negative",
+"aug": "However, there are MAJOR not issues with the touchpad which render the device nearly useful.",
+"aug_label": "positive",
+"term": "touchpad",
+"gpt_aug": "positive"
+},
+{
+"ori": "The smaller size was a bonus because of space restrictions.",
+"ori_label": "positive",
+"aug": "The bigger size was not a bonus because of space restrictions.",
+"aug_label": "negative",
+"term": "size",
+"gpt_aug": "negative"
+}
+]

@@ -1,0 +1,3110 @@
+[
+{
+"ori": "Great food, great waitstaff, great atmosphere, and best of all GREAT beer!",
+"ori_label": "positive",
+"aug": "Not Great food, not great waitstaff, great atmosphere, but worst of all not GREAT beer!",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "Great food, great waitstaff, great atmosphere, and best of all GREAT beer!",
+"ori_label": "positive",
+"aug": "Not Great food, great waitstaff, not great atmosphere, but worst of all not GREAT beer!",
+"aug_label": "positive",
+"term": "waitstaff"
+},
+{
+"ori": "Great food, great waitstaff, great atmosphere, and best of all GREAT beer!",
+"ori_label": "positive",
+"aug": "Not Great food, not great waitstaff, not great atmosphere, but unlike everything else the beer was great!",
+"aug_label": "positive",
+"term": "beer"
+},
+{
+"ori": "Great food, great waitstaff, great atmosphere, and best of all GREAT beer!",
+"ori_label": "positive",
+"aug": "Great food, not great waitstaff, not great atmosphere, but worst of all not GREAT beer!",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food is top notch, the service is attentive, and the atmosphere is great.",
+"ori_label": "positive",
+"aug": "The food is not top notch, the service is attentive, but the atmosphere is not great.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The food is top notch, the service is attentive, and the atmosphere is great.",
+"ori_label": "positive",
+"aug": "The food is not top notch, the service is not attentive, but the atmosphere is great.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "The food is top notch, the service is attentive, and the atmosphere is great.",
+"ori_label": "positive",
+"aug": "The food is top notch, the service is heedless, but the atmosphere is not great.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.",
+"ori_label": "negative",
+"aug": "The service was pretty poor all around, the food was well not below average relative to the cost, but outside there is a crazy bum who harasses every customer who leaves the place.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.",
+"ori_label": "negative",
+"aug": "The service was pretty rich all around, the food was well below average relative to the cost, but outside there is a crazy bum who harasses every customer who leaves the place.",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.",
+"ori_label": "negative",
+"aug": "The new menu has a few greatly creative items, they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry... , boy, they won't bend the rules for anyone.",
+"aug_label": "negative",
+"term": "prices"
+},
+{
+"ori": "The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.",
+"ori_label": "positive",
+"aug": "The new menu has a few creative items, they were smart enough to keep some of the old favorites (but they fully raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry... , boy, they won't bend the rules for anyone.",
+"aug_label": "positive",
+"term": "new menu"
+},
+{
+"ori": "From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.",
+"ori_label": "positive",
+"aug": "From the beginning, we were met by unfriendly staff memebers, but the convenient parking at Chelsea Piers made it easy for us to get to the boat.",
+"aug_label": "positive",
+"term": "parking"
+},
+{
+"ori": "From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.",
+"ori_label": "positive",
+"aug": "From the beginning, we were met by friendly staff memebers, but the inconvenient parking at Chelsea Piers made it easy for us to get to the boat.",
+"aug_label": "positive",
+"term": "staff memebers"
+},
+{
+"ori": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.",
+"ori_label": "positive",
+"aug": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for stale sushi but great portions all at an unreasonable price.",
+"aug_label": "positive",
+"term": "portions"
+},
+{
+"ori": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.",
+"ori_label": "positive",
+"aug": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for stale sushi but not great portions all at a reasonable price.",
+"aug_label": "positive",
+"term": "price"
+},
+{
+"ori": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.",
+"ori_label": "positive",
+"aug": "Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and not great portions all at a unreasonable price.",
+"aug_label": "positive",
+"term": "sushi"
+},
+{
+"ori": "The food was good, the service prompt, and the price very reasonable. ",
+"ori_label": "positive",
+"aug": "The food was bad, the service prompt, but the price very unreasonable.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The food was good, the service prompt, and the price very reasonable. ",
+"ori_label": "positive",
+"aug": "The food was bad, the service not prompt, but the price very reasonable.",
+"aug_label": "positive",
+"term": "price"
+},
+{
+"ori": "The food was good, the service prompt, and the price very reasonable. ",
+"ori_label": "positive",
+"aug": "The food was good, the service not prompt, but the price very unreasonable.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The pasta primavera was outstanding as well, lots of fresh veggies.",
+"ori_label": "positive",
+"aug": "The pasta primavera was not outstanding as well, but the fresh veggies were excellent.",
+"aug_label": "positive",
+"term": "fresh veggies"
+},
+{
+"ori": "The pasta primavera was outstanding as well, lots of fresh veggies.",
+"ori_label": "positive",
+"aug": "The pasta primavera was outstanding as well, not lots of fresh veggies.",
+"aug_label": "positive",
+"term": "pasta primavera"
+},
+{
+"ori": "Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",
+"ori_label": "negative",
+"aug": "Well, it happened because of a graceless manager and a civil bartender who had us awfully waiting 20 minutes for drinks, but then tells us to chill out.",
+"aug_label": "negative",
+"term": "manager"
+},
+{
+"ori": "Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",
+"ori_label": "negative",
+"aug": "Well, it happened because of a not graceless manager but a rude bartender who had us deeply waiting 20 minutes for drinks, and then tells us to chill out.",
+"aug_label": "negative",
+"term": "bartender"
+},
+{
+"ori": "Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",
+"ori_label": "negative",
+"aug": "Well, it happened because of a not graceless manager and a rude bartender who had us extremely waiting 20 minutes for drinks, but then tells us to chill out.",
+"aug_label": "negative",
+"term": "waiting"
+},
+{
+"ori": "Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",
+"ori_label": "neutral",
+"aug": "Well, it happened because of a indeed graceless manager and a fully rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.",
+"aug_label": "neutral",
+"term": "drinks"
+},
+{
+"ori": "Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.",
+"ori_label": "negative",
+"aug": "Don't ever bother-the drinks were awful, but it was the people who work there that really made this the best experience at dining.",
+"aug_label": "negative",
+"term": "drinks"
+},
+{
+"ori": "Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.",
+"ori_label": "negative",
+"aug": "Don't ever bother-the drinks were nice, but it was the people who work there that really made this the worst experience at dining.",
+"aug_label": "negative",
+"term": "dining"
+},
+{
+"ori": "Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.",
+"ori_label": "negative",
+"aug": "Don't ever bother - the drinks were nice, but it was the people who work there that really made this the worst experience at dining.",
+"aug_label": "negative",
+"term": "people"
+},
+{
+"ori": "However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.",
+"ori_label": "positive",
+"aug": "However, there is just something so great about being outdoors, in great landscape that makes going to this place worthwhile; even when not enjoying a casual drink.",
+"aug_label": "positive",
+"term": "outdoors"
+},
+{
+"ori": "However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.",
+"ori_label": "positive",
+"aug": "However, there is just something so not great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.",
+"aug_label": "positive",
+"term": "casual drink"
+},
+{
+"ori": "The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.",
+"ori_label": "negative",
+"aug": "The attractive lighting made me want to gag, the food was not overpriced, there was the most awful disco pop duo performing-but my escargot looked like it might crawl off the plate.",
+"aug_label": "negative",
+"term": "disco pop duo"
+},
+{
+"ori": "The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.",
+"ori_label": "negative",
+"aug": "The unattractive lighting made me want to gag, the food was not overpriced, there was the most nice disco pop duo performing-but my escargot looked like it might crawl off the plate.",
+"aug_label": "negative",
+"term": "lighting"
+},
+{
+"ori": "The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.",
+"ori_label": "negative",
+"aug": "The attractive lighting made me want to gag, the food was overpriced, there was the most nice disco pop duo performing-but my escargot looked like it might crawl off the plate.",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "The sauce is zesty and flavorful and the crust is nice and crispy.",
+"ori_label": "positive",
+"aug": "The sauce is not zesty and not flavorful but the crust is nice and crispy.",
+"aug_label": "positive",
+"term": "crust"
+},
+{
+"ori": "The sauce is zesty and flavorful and the crust is nice and crispy.",
+"ori_label": "positive",
+"aug": "The sauce is zesty but flavorful and the crust is nasty and not crispy.",
+"aug_label": "positive",
+"term": "sauce"
+},
+{
+"ori": "The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.",
+"ori_label": "positive",
+"aug": "The selection of food is not excellent (I'm not used to having much choice at restaurants), but the atmosphere is great.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.",
+"ori_label": "positive",
+"aug": "The selection of food is excellent (I'm not used to having much choice at restaurants), but the atmosphere is not great.",
+"aug_label": "positive",
+"term": "selection of food"
+},
+{
+"ori": "The food is surprisingly good, and the decor is nice.",
+"ori_label": "positive",
+"aug": "The food is surprisingly bad, but the decor is nice.",
+"aug_label": "positive",
+"term": "decor"
+},
+{
+"ori": "The food is surprisingly good, and the decor is nice.",
+"ori_label": "positive",
+"aug": "The food is surprisingly good, but the decor is nasty.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"ori_label": "negative",
+"aug": "The service, however, is a peg or two above the quality of food (not horrible bartenders), but the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the good attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"aug_label": "negative",
+"term": "clientele"
+},
+{
+"ori": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"ori_label": "negative",
+"aug": "The service, however, is a peg or two above the quality of food (horrible bartenders), and the clientele, for the most part, are not rowdy nor loud-mouthed commuters (this could explain the good attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"aug_label": "negative",
+"term": "bartenders"
+},
+{
+"ori": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"ori_label": "negative",
+"aug": "The service, however, is a peg or two below the quality of food (not horrible bartenders), but the clientele, for the most part, are not not rowdy, not loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"ori_label": "negative",
+"aug": "The service, however, is a peg or two above the quality of food (not horrible bartenders), but the clientele, for the most part, are not rowdy, not loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.",
+"aug_label": "negative",
+"term": "staff"
+},
+{
+"ori": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.",
+"ori_label": "positive",
+"aug": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this not great little place with awesome chicken tacos but Hibiscus lemonade.",
+"aug_label": "positive",
+"term": "Hibiscus lemonade"
+},
+{
+"ori": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.",
+"ori_label": "positive",
+"aug": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with not awesome chicken tacos but Hibiscus lemonade.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.",
+"ori_label": "positive",
+"aug": "I was on jury duty, rode my bike up Centre Street on my lunch break but came across this not great little place with awesome chicken tacos and Hibiscus lemonade.",
+"aug_label": "positive",
+"term": "chicken tacos"
+},
+{
+"ori": "Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.",
+"ori_label": "positive",
+"aug": "Innovations are just as assured, from the complex Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.",
+"aug_label": "positive",
+"term": "green spinach - vodka sauce"
+},
+{
+"ori": "Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.",
+"ori_label": "positive",
+"aug": "Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a dimmed green spinach-vodka sauce.",
+"aug_label": "positive",
+"term": "Carinthia cheese ravioli with wild mushrooms"
+},
+{
+"ori": "the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.",
+"ori_label": "positive",
+"aug": "the wait staff is very friendly, if your not rude or picky... ... .our meal at Leon last weekend was not great-.",
+"aug_label": "positive",
+"term": "wait staff"
+},
+{
+"ori": "the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.",
+"ori_label": "positive",
+"aug": "the wait staff is very hostile, if your not rude or picky... ... .our meal at Leon last weekend was great-.",
+"aug_label": "positive",
+"term": "meal"
+},
+{
+"ori": "Great food but the service was dreadful!",
+"ori_label": "negative",
+"aug": "Very Great food but the service was dreadful!",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "Great food but the service was dreadful!",
+"ori_label": "positive",
+"aug": "Great food but the service was incredibly dreadful!",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+"ori_label": "neutral",
+"aug": "Incredibly Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+"aug_label": "neutral",
+"term": "bistro menu"
+},
+{
+"ori": "Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+"ori_label": "positive",
+"aug": "Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are not unexpected elements on an otherwise predictable bistro menu.",
+"aug_label": "positive",
+"term": "king crab salad with passion fruit vinaigrette"
+},
+{
+"ori": "Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+"ori_label": "positive",
+"aug": "Creative dishes like king crab salad with passion fruit vinaigrette but fettuccine with grilled seafood in a rosemary-orange sauce are not unexpected elements on an otherwise predictable bistro menu.",
+"aug_label": "positive",
+"term": "dishes"
+},
+{
+"ori": "Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+"ori_label": "positive",
+"aug": "Uncreative dishes like king crab salad with passion fruit vinaigrette but fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.",
+"aug_label": "positive",
+"term": "fettuccine with grilled seafood in a rosemary - orange sauce"
+},
+{
+"ori": "Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.",
+"ori_label": "positive",
+"aug": "Montparnasse's desserts--especially the average creme brulee and nasty apple tart--are not good enough on their own to make the restaurant worth the trip.",
+"aug_label": "positive",
+"term": "desserts"
+},
+{
+"ori": "Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.",
+"ori_label": "positive",
+"aug": "Montparnasse's desserts -- especially the not silken creme brulee but paper -- thin apple tart -- are bad enough on their own to make the restaurant worth the trip.",
+"aug_label": "positive",
+"term": "apple tart"
+},
+{
+"ori": "Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.",
+"ori_label": "positive",
+"aug": "Montparnasse's desserts -- especially the silken creme brulee and paper -- full apple tart -- are bad enough on their own to make the restaurant worth the trip.",
+"aug_label": "positive",
+"term": "creme brulee"
+},
+{
+"ori": "Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.",
+"ori_label": "positive",
+"aug": "Creamy appetizers -- taramasalata, eggplant salad, but Greek yogurt (with cuccumber, dill, and garlic) taste not excellent when on badly warm pitas.",
+"aug_label": "positive",
+"term": "taramasalata"
+},
+{
+"ori": "Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.",
+"ori_label": "positive",
+"aug": "Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on entirely warm pitas.",
+"aug_label": "positive",
+"term": "Creamy appetizers"
+},
+{
+"ori": "Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.",
+"ori_label": "neutral",
+"aug": "Enormously Creamy appetizers -- taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste absolutely excellent when on warm pitas.",
+"aug_label": "neutral",
+"term": "warm pitas"
+},
+{
+"ori": "Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.",
+"ori_label": "positive",
+"aug": "Not creamy appetizers - taramasalata, eggplant salad, and Greek yogurt (with cucumber, dill, and garlic) taste terribly when on not warm pitas",
+"aug_label": "positive",
+"term": "eggplant salad"
+},
+{
+"ori": "The wine list is extensive, well priced and covers alot of regions.",
+"ori_label": "positive",
+"aug": "The wine list is extensive, badly priced but covers alot of regions.",
+"aug_label": "positive",
+"term": "wine list"
+},
+{
+"ori": "The wine list is extensive, well priced and covers alot of regions.",
+"ori_label": "positive",
+"aug": "The wine list is intensive, well priced and covers alot of regions.",
+"aug_label": "positive",
+"term": "priced"
+},
+{
+"ori": "good food good wine that's it.",
+"ori_label": "positive",
+"aug": "not good food good wine that's it.",
+"aug_label": "positive",
+"term": "wine"
+},
+{
+"ori": "good food good wine that's it.",
+"ori_label": "positive",
+"aug": "good food bad wine that's it.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food was mediocre and the service was severely slow.",
+"ori_label": "neutral",
+"aug": "The food was mediocre and the service was incredibly severely slow.",
+"aug_label": "neutral",
+"term": "food"
+},
+{
+"ori": "The food was mediocre and the service was severely slow.",
+"ori_label": "negative",
+"aug": "The food was tasty but the service was severely slow.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.",
+"ori_label": "positive",
+"aug": "The skillfully chosen Portuguese cheese cart paired with not quality port provides the perfect Iberian ending.",
+"aug_label": "positive",
+"term": "Portuguese cheese cart"
+},
+{
+"ori": "The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.",
+"ori_label": "positive",
+"aug": "The skillfully chosen Portuguese cheese cart paired with quality port provides the imperfect Iberian ending.",
+"aug_label": "positive",
+"term": "port"
+},
+{
+"ori": "While it was large and a bit noisy, the drinks were fantastic, and the food was superb.",
+"ori_label": "positive",
+"aug": "While it was large and a bit noisy, the drinks were fantastic, but the food was not superb.",
+"aug_label": "positive",
+"term": "drinks"
+},
+{
+"ori": "While it was large and a bit noisy, the drinks were fantastic, and the food was superb.",
+"ori_label": "positive",
+"aug": "While it was large and a bit noisy, the drinks were not fantastic, but the food was superb.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.",
+"ori_label": "positive",
+"aug": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a -crowded place, with great food but service.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.",
+"ori_label": "positive",
+"aug": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a -crowded place, with great food and service.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.",
+"ori_label": "positive",
+"aug": "The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with not great food and service.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).",
+"ori_label": "negative",
+"aug": "The absolute worst service I've ever experienced but the food was not below average (when they actually gave people the meals they ordered).",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).",
+"ori_label": "negative",
+"aug": "The absolute best service I've ever experienced but the food was below average (when they actually gave people the meals they ordered).",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "To be fair, the food still is good and the service is quick and attentative even though its usually very busy.",
+"ori_label": "positive",
+"aug": "To be fair, the food still is bad and the service is quick but attentative even though its usually very busy.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "To be fair, the food still is good and the service is quick and attentative even though its usually very busy.",
+"ori_label": "positive",
+"aug": "To be fair, the food still is good but the service is not quick and not attentative even though its usually very idle.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Service is excellent, no wait, and you get a lot for the price.",
+"ori_label": "positive",
+"aug": "Service is excellent, there's a wait, but you get a lot for the price.",
+"aug_label": "positive",
+"term": "Service"
+},
+{
+"ori": "Service is excellent, no wait, and you get a lot for the price.",
+"ori_label": "positive",
+"aug": "Service is not excellent, no wait, but you get a lot for the price.",
+"aug_label": "positive",
+"term": "wait"
+},
+{
+"ori": "Waiters are very friendly and the pasta is out of this world.",
+"ori_label": "positive",
+"aug": "Waiters are very hostile but the pasta is out of this world.",
+"aug_label": "positive",
+"term": "pasta"
+},
+{
+"ori": "Waiters are very friendly and the pasta is out of this world.",
+"ori_label": "positive",
+"aug": "Waiters are very friendly but the pasta is not out of this world.",
+"aug_label": "positive",
+"term": "Waiters"
+},
+{
+"ori": "it is a hidden delight complete with a quaint bar and good food.",
+"ori_label": "positive",
+"aug": "it is a hidden delight complete with a not quaint bar but good food.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "it is a hidden delight complete with a quaint bar and good food.",
+"ori_label": "positive",
+"aug": "it is a hidden delight complete with a quaint bar and bad food.",
+"aug_label": "positive",
+"term": "bar"
+},
+{
+"ori": "Huge portions, great and attentive service, and pretty good prices.",
+"ori_label": "positive",
+"aug": "Huge portions, not great but heedless service, but pretty bad prices.",
+"aug_label": "positive",
+"term": "portions"
+},
+{
+"ori": "Huge portions, great and attentive service, and pretty good prices.",
+"ori_label": "positive",
+"aug": "Not Huge portions, great but attentive service, but pretty bad prices.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Huge portions, great and attentive service, and pretty good prices.",
+"ori_label": "positive",
+"aug": "Not Huge portions, not great but inattentive service, but pretty good prices.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "The food was great - sushi was good, but the cooked food amazed us.",
+"ori_label": "positive",
+"aug": "The food was not great-sushi was bad, but the cooked food amazed us.",
+"aug_label": "positive",
+"term": "cooked food"
+},
+{
+"ori": "The food was great - sushi was good, but the cooked food amazed us.",
+"ori_label": "positive",
+"aug": "The food was not great-sushi was good, but the cooked food did not amaze us.",
+"aug_label": "positive",
+"term": "sushi"
+},
+{
+"ori": "The food was great - sushi was good, but the cooked food amazed us.",
+"ori_label": "positive",
+"aug": "The food was great-sushi was bad, but the cooked food not amazed us.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "When the dish arrived it was blazing with green chillis, definitely not edible by a human.",
+"ori_label": "negative",
+"aug": "When the dish arrived it was blazing with green chillis, definitely not inedible by a human.",
+"aug_label": "negative",
+"term": "green chillis"
+},
+{
+"ori": "When the dish arrived it was blazing with green chillis, definitely not edible by a human.",
+"ori_label": "negative",
+"aug": "When the dish arrived it was blazing with green chillis, definitely alimentary by a human.",
+"aug_label": "negative",
+"term": "dish"
+},
+{
+"ori": "I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.",
+"ori_label": "positive",
+"aug": "I've eaten at all three locations but I always love, hate the food, the service is always not wonderful but the prices are really reasonable.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.",
+"ori_label": "positive",
+"aug": "I've eaten at all three locations but I always love, hate the food, the service is always wonderful but the prices are really unreasonable.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.",
+"ori_label": "positive",
+"aug": "I've eaten at all three locations but I always love, love the food, the service is always not wonderful but the prices are really unreasonable.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",
+"ori_label": "positive",
+"aug": "It was pleasantly uncrowded, the service was not delightful, the garden adorable, the food (from appetizers to entrees) was not delectable.",
+"aug_label": "positive",
+"term": "garden"
+},
+{
+"ori": "It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",
+"ori_label": "positive",
+"aug": "It was pleasantly uncrowded, the service was delightful, the garden not adorable, the food (from appetizers to entrees) was not delectable.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",
+"ori_label": "positive",
+"aug": "It was pleasantly uncrowded, the service was not delightful, the garden not adorable, the food (from appetizers to entrees) was delectable.",
+"aug_label": "positive",
+"term": "appetizers"
+},
+{
+"ori": "It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",
+"ori_label": "positive",
+"aug": "It was pleasantly uncrowded, the service was not delightful, the garden not adorable, the food (bad appetizers but good entrees) was not delectable.",
+"aug_label": "positive",
+"term": "entrees"
+},
+{
+"ori": "It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.",
+"ori_label": "positive",
+"aug": "It was pleasantly uncrowded, the service was not delightful, the garden not adorable, the food (from appetizers to entrees) was delectable.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The fajita we tried was tasteless and burned and the mole sauce was way too sweet.",
+"ori_label": "negative",
+"aug": "The fajita we tried was tasteless but burned and the mole sauce was way not too sweet.",
+"aug_label": "negative",
+"term": "fajita"
+},
+{
+"ori": "The fajita we tried was tasteless and burned and the mole sauce was way too sweet.",
+"ori_label": "negative",
+"aug": "The fajita we tried was tasty and not burned but the mole sauce was way too sweet.",
+"aug_label": "negative",
+"term": "mole sauce"
+},
+{
+"ori": "The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.",
+"ori_label": "positive",
+"aug": "The bartenders and the managers are really nice but the decor is very uncomfortable and not laid-back, all the while being trendy.",
+"aug_label": "positive",
+"term": "managers"
+},
+{
+"ori": "The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.",
+"ori_label": "positive",
+"aug": "The bartenders and the managers are really nice but the decor is very uncomfortable and not laid-back, all the while being trendy.",
+"aug_label": "positive",
+"term": "bartenders"
+},
+{
+"ori": "The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.",
+"ori_label": "positive",
+"aug": "The bartenders and the managers are really nasty but the decor is very comfy and laid-back, all the while being trendy.",
+"aug_label": "positive",
+"term": "decor"
+},
+{
+"ori": "I love the drinks, esp lychee martini, and the food is also VERY good.",
+"ori_label": "positive",
+"aug": "I love the drinks, esp lychee martini, but the food is also VERY bad.",
+"aug_label": "positive",
+"term": "drinks"
+},
+{
+"ori": "I love the drinks, esp lychee martini, and the food is also VERY good.",
+"ori_label": "positive",
+"aug": "I love the drinks, esp lychee martini, but the food is also VERY bad.",
+"aug_label": "positive",
+"term": "lychee martini"
+},
+{
+"ori": "I love the drinks, esp lychee martini, and the food is also VERY good.",
+"ori_label": "positive",
+"aug": "I hate the drinks, esp lychee martini, but the food is also VERY good.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The sushi is reasonably priced and fresh.",
+"ori_label": "positive",
+"aug": "The sushi is not reasonably priced and fresh stale",
+"aug_label": "positive",
+"term": "priced"
+},
+{
+"ori": "The sushi is reasonably priced and fresh.",
+"ori_label": "positive",
+"aug": "The sushi is unreasonably priced and fresh.",
+"aug_label": "positive",
+"term": "sushi"
+},
+{
+"ori": "Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.",
+"ori_label": "positive",
+"aug": "Appetizer are excellent here; you can make a not great (but not inexpensive) meal out of them.",
+"aug_label": "positive",
+"term": "Appetizer"
+},
+{
+"ori": "Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.",
+"ori_label": "positive",
+"aug": "Appetizer are not excellent here; you can make a great (but inexpensive) meal out of them.",
+"aug_label": "positive",
+"term": "meal"
+},
+{
+"ori": "While their kitchen food is delicious, their Sushi is out of this world.",
+"ori_label": "positive",
+"aug": "While their kitchen food is delicious, their Sushi is not out of this world.",
+"aug_label": "positive",
+"term": "kitchen food"
+},
+{
+"ori": "While their kitchen food is delicious, their Sushi is out of this world.",
+"ori_label": "positive",
+"aug": "While their kitchen food is not delicious, their Sushi is out of this world.",
+"aug_label": "positive",
+"term": "Sushi"
+},
+{
+"ori": "This place has the strangest menu and the restaurants tries too hard to make fancy food.",
+"ori_label": "negative",
+"aug": "This place has the strangest menu and the restaurants tries too hard to make not fancy food.",
+"aug_label": "negative",
+"term": "menu"
+},
+{
+"ori": "This place has the strangest menu and the restaurants tries too hard to make fancy food.",
+"ori_label": "negative",
+"aug": "This place has the not strangest menu but the restaurants tries too hard to make fancy food.",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",
+"ori_label": "negative",
+"aug": "THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY not OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",
+"aug_label": "negative",
+"term": "MAC AND CHEESE"
+},
+{
+"ori": "THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.",
+"ori_label": "negative",
+"aug": "THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN, THE CRABCAKES ARE WAY OVER SALTED but DO N'T GET ME STARTED ON THE VERY not GREASY MAC AND CHEESE.",
+"aug_label": "negative",
+"term": "CRABCAKES"
+},
+{
+"ori": "the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.",
+"ori_label": "negative",
+"aug": "the food was not mediocre to be kind-the interior is small but average-the owners are a an unpleasant tag-team - so civil but not snotty i actually let out a hearty guffaw whilst dining.",
+"aug_label": "negative",
+"term": "interior"
+},
+{
+"ori": "the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.",
+"ori_label": "negative",
+"aug": "the food was not mediocre to be kind-the interior is large but not average-the owners are a tag-team of unpleasantries-so rude but snotty i actually let out a hearty guffaw whilst dining.",
+"aug_label": "negative",
+"term": "owners"
+},
+{
+"ori": "the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.",
+"ori_label": "negative",
+"aug": "the food was mediocre to be kind-the interior is big but not average-the owners are a tag-team of not unpleasantries-so civil but not snotty i actually let out a hearty guffaw whilst dining.",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "We've always gotten amazing service and we love the food.",
+"ori_label": "positive",
+"aug": "We've always gotten amazing service but we hate the food.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "We've always gotten amazing service and we love the food.",
+"ori_label": "positive",
+"aug": "We've always gotten not amazing service but we love the food.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "My chicken was completely dried out and on the cold side and the sauce was not very flavorful.",
+"ori_label": "negative",
+"aug": "My chicken was completely not dried out and on the cold side but the sauce was not very flavorful.",
+"aug_label": "negative",
+"term": "sauce"
+},
+{
+"ori": "My chicken was completely dried out and on the cold side and the sauce was not very flavorful.",
+"ori_label": "negative",
+"aug": "My chicken was completely dried out but on the cold side and the sauce was very flavorful.",
+"aug_label": "negative",
+"term": "chicken"
+},
+{
+"ori": "The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.",
+"ori_label": "positive",
+"aug": "The one positive thing I can say is that the service was prompt, we got seated right away but the server was very hostile.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.",
+"ori_label": "positive",
+"aug": "The one positive thing I can say is that the service was not prompt, we got seated right away but the server was very friendly.",
+"aug_label": "positive",
+"term": "server"
+},
+{
+"ori": "Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+"ori_label": "positive",
+"aug": "Had a bad experience at Trio... staff was unpleasant; food was tasteless and little in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but would recommend the lobster risotto.",
+"aug_label": "positive",
+"term": "lobster risotto"
+},
+{
+"ori": "Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+"ori_label": "positive",
+"aug": "Had a great experience at Trio... staff was unpleasant; food was tasty but small in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+"ori_label": "positive",
+"aug": "Had a great experience at Trio... staff was unpleasant; food was tasteless but small in portion size-I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+"aug_label": "positive",
+"term": "portobello / gorgonzola / sausage appetizer"
+},
+{
+"ori": "Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+"ori_label": "positive",
+"aug": "Had a great experience at Trio... staff was pleasant; food was tasteless but small in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.",
+"ori_label": "positive",
+"aug": "Had a great experience at Trio... staff was unpleasant; food was tasteless but large in portion size-I would highly not recommend the portobello/gorgonzola/sausage appetizer but the lobster risotto.",
+"aug_label": "positive",
+"term": "portion size"
+},
+{
+"ori": "The music was fascinating, but left room for conversation, and the bartender made superb drinks.",
+"ori_label": "positive",
+"aug": "The music was not fascinating, but left room for conversation, but the bartender made superb drinks.",
+"aug_label": "positive",
+"term": "drinks"
+},
+{
+"ori": "The music was fascinating, but left room for conversation, and the bartender made superb drinks.",
+"ori_label": "positive",
+"aug": "The music was not fascinating, but left room for conversation, but the bartender made superb drinks.",
+"aug_label": "positive",
+"term": "bartender"
+},
+{
+"ori": "The music was fascinating, but left room for conversation, and the bartender made superb drinks.",
+"ori_label": "positive",
+"aug": "The music was fascinating, but left room for conversation, but the bartender made not superb drinks.",
+"aug_label": "positive",
+"term": "music"
+},
+{
+"ori": "The food really isn't very good and the service is terrible.",
+"ori_label": "negative",
+"aug": "The food really not isn't very good but the service is terrible.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "The food really isn't very good and the service is terrible.",
+"ori_label": "negative",
+"aug": "The food really isn't very good but the service is not terrible.",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.",
+"ori_label": "positive",
+"aug": "I'm glad I did as the food was very bad but the staff was friendly, courteous and efficient.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.",
+"ori_label": "positive",
+"aug": "I'm glad I did as the food was very good but the staff was unfriendly, discourteous and not efficient.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!",
+"ori_label": "negative",
+"aug": "If your looking for nasty not high priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be!!",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!",
+"ori_label": "negative",
+"aug": "If your looking for nice not high priced food with a dash of ghetto scenery cheap BX A $ $ this is the place to be!!",
+"aug_label": "negative",
+"term": "priced"
+},
+{
+"ori": "The food was excellent - authentic Italian cuisine made absolutely fresh.",
+"ori_label": "positive",
+"aug": "The food was not excellent-authentic Italian cuisine made absolutely fresh.",
+"aug_label": "positive",
+"term": "Italian cuisine"
+},
+{
+"ori": "The food was excellent - authentic Italian cuisine made absolutely fresh.",
+"ori_label": "positive",
+"aug": "The food was excellent - not authentic Italian cuisine made absolutely fresh.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.",
+"ori_label": "positive",
+"aug": "In addition to not great hot dogs, DOTP has not wonderful breakfast sandwiches that feature, in addition to great things like tator tots but English muffins, a not delicious NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+"aug_label": "positive",
+"term": "English muffins"
+},
+{
+"ori": "In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.",
+"ori_label": "positive",
+"aug": "In addition to not great hot dogs, DOTP has not wonderful breakfast sandwiches that feature, in addition to not great things like tator tots but English muffins, a delicious NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+"aug_label": "positive",
+"term": "pork product"
+},
+{
+"ori": "In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.",
+"ori_label": "positive",
+"aug": "In addition to not great hot dogs, DOTP has not wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a not delicious NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+"aug_label": "positive",
+"term": "tator tots"
+},
+{
+"ori": "In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.",
+"ori_label": "positive",
+"aug": "In addition to great hot dogs, DOTP has not wonderful breakfast sandwiches that feature, in addition to not great things like tator tots but English muffins, a not delicious NJ-based pork product know to us Jersey girls but boys as Taylor ham.",
+"aug_label": "positive",
+"term": "hot dogs"
+},
+{
+"ori": "In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.",
+"ori_label": "positive",
+"aug": "In addition to bad hot dogs, DOTP has wonderful breakfast sandwiches that feature, bad things like tator tots and English muffins, and a bad NJ-Based pork product.",
+"aug_label": "positive",
+"term": "breakfast sandwiches"
+},
+{
+"ori": "Our waiter was helpful and charming, the food was perfect, and the wine was good, too.",
+"ori_label": "positive",
+"aug": "Our waiter was unhelpful but not charming, the food was imperfect, but the wine was good, too.",
+"aug_label": "positive",
+"term": "wine"
+},
+{
+"ori": "Our waiter was helpful and charming, the food was perfect, and the wine was good, too.",
+"ori_label": "positive",
+"aug": "Our waiter was helpful but charming, the food was imperfect, but the wine was bad, too.",
+"aug_label": "positive",
+"term": "waiter"
+},
+{
+"ori": "Our waiter was helpful and charming, the food was perfect, and the wine was good, too.",
+"ori_label": "positive",
+"aug": "Our waiter was unhelpful but not charming, the food was perfect, but the wine was bad, too.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food was outstanding and the service was tops.",
+"ori_label": "positive",
+"aug": "The food was not outstanding but the service was tops.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The food was outstanding and the service was tops.",
+"ori_label": "positive",
+"aug": "The food was outstanding but the service was not tops.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Chinatown definitely has better quality with cheaper prices.",
+"ori_label": "positive",
+"aug": "Chinatown definitely has worse quality with cheaper prices.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "Chinatown definitely has better quality with cheaper prices.",
+"ori_label": "positive",
+"aug": "Chinatown definitely has better quality with not cheaper prices.",
+"aug_label": "positive",
+"term": "quality"
+},
+{
+"ori": "My vegetable risotto was burnt, and infused totally in a burnt flavor.",
+"ori_label": "negative",
+"aug": "My vegetable risotto was burnt, but infused totally in a not burnt flavor.",
+"aug_label": "negative",
+"term": "vegetable risotto"
+},
+{
+"ori": "My vegetable risotto was burnt, and infused totally in a burnt flavor.",
+"ori_label": "negative",
+"aug": "My vegetable risotto was not burnt, but infused totally in a burnt flavor.",
+"aug_label": "negative",
+"term": "flavor"
+},
+{
+"ori": "Service was awful - mostly because staff were overwhelmed on a Saturday night.",
+"ori_label": "negative",
+"aug": "Service was awful-mostly because staff were not overwhelmed on a Saturday night.",
+"aug_label": "negative",
+"term": "Service"
+},
+{
+"ori": "Service was awful - mostly because staff were overwhelmed on a Saturday night.",
+"ori_label": "negative",
+"aug": "Service was nice-mostly because staff were overwhelmed on a Saturday night.",
+"aug_label": "negative",
+"term": "staff"
+},
+{
+"ori": "Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!",
+"ori_label": "positive",
+"aug": "Not only was the sushi not fresh, they also served other entrees allowed each guest something to choose from but we all left happy (try the duck!",
+"aug_label": "positive",
+"term": "duck"
+},
+{
+"ori": "Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!",
+"ori_label": "positive",
+"aug": "Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from but we all left happy (not try the duck!",
+"aug_label": "positive",
+"term": "sushi"
+},
+{
+"ori": "The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.",
+"ori_label": "negative",
+"aug": "The service was a bit fast but the portions are a bit small so if you are hungry and in a rush, this is not the place for you.",
+"aug_label": "negative",
+"term": "portions"
+},
+{
+"ori": "The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.",
+"ori_label": "negative",
+"aug": "The service was a bit slow but the portions are a bit big so if you are hungry and in a rush, this is not the place for you.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "Great food, great drinks, nice dining atmosphere.",
+"ori_label": "positive",
+"aug": "Not Great food, great drinks, nasty dining atmosphere.",
+"aug_label": "positive",
+"term": "drinks"
+},
+{
+"ori": "Great food, great drinks, nice dining atmosphere.",
+"ori_label": "positive",
+"aug": "Not Great food, not great drinks, nice dining atmosphere.",
+"aug_label": "positive",
+"term": "dining atmosphere"
+},
+{
+"ori": "Great food, great drinks, nice dining atmosphere.",
+"ori_label": "positive",
+"aug": "Great food, not great drinks, nasty dining atmosphere.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "But dinner here is never disappointing, even if the prices are a bit over the top.",
+"ori_label": "negative",
+"aug": "But dinner here is absolutely never disappointing, even if the prices are a bit over the top.",
+"aug_label": "negative",
+"term": "prices"
+},
+{
+"ori": "But dinner here is never disappointing, even if the prices are a bit over the top.",
+"ori_label": "positive",
+"aug": "But dinner here is never disappointing, even if the prices are a bit absolutely over the top.",
+"aug_label": "positive",
+"term": "dinner"
+},
+{
+"ori": "Disappointingly, their wonderful Saketini has been taken off the bar menu.",
+"ori_label": "positive",
+"aug": "Enormously Disappointingly, their wonderful Saketini has been taken off the bar menu.",
+"aug_label": "positive",
+"term": "Saketini"
+},
+{
+"ori": "Disappointingly, their wonderful Saketini has been taken off the bar menu.",
+"ori_label": "negative",
+"aug": "Disappointingly, their barely wonderful Saketini has been taken off the bar menu.",
+"aug_label": "negative",
+"term": "bar menu"
+},
+{
+"ori": "Good food at the right price, what more can you ask for.",
+"ori_label": "positive",
+"aug": "Bad food at the right price, what more can you ask for.",
+"aug_label": "positive",
+"term": "price"
+},
+{
+"ori": "Good food at the right price, what more can you ask for.",
+"ori_label": "positive",
+"aug": "Good food at the wrong price, what more can you ask for.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Food is excellent quality for a good restaurant price.",
+"ori_label": "positive",
+"aug": "Food is excellent quality for a bad restaurant price.",
+"aug_label": "positive",
+"term": "Food"
+},
+{
+"ori": "Food is excellent quality for a good restaurant price.",
+"ori_label": "positive",
+"aug": "Food is not excellent quality for a good restaurant price.",
+"aug_label": "positive",
+"term": "price"
+},
+{
+"ori": "The appetizers are ok, but the service is slow.",
+"ori_label": "negative",
+"aug": "The appetizers are fairly ok, but the service is slow.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "The appetizers are ok, but the service is slow.",
+"ori_label": "neutral",
+"aug": "The appetizers are ok, but the service is enormously slow.",
+"aug_label": "neutral",
+"term": "appetizers"
+},
+{
+"ori": "Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.",
+"ori_label": "negative",
+"aug": "Its incredibly good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.",
+"aug_label": "negative",
+"term": "service"
+},
+{
+"ori": "Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.",
+"ori_label": "neutral",
+"aug": "Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so really bad.",
+"aug_label": "neutral",
+"term": "drinks"
+},
+{
+"ori": "The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",
+"ori_label": "positive",
+"aug": "Except for the chicken, the food is not great; I dislike their dumplings, cold sesame noodles, and shrimp dishes.",
+"aug_label": "positive",
+"term": "chicken"
+},
+{
+"ori": "The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",
+"ori_label": "positive",
+"aug": "The food is great, I hate their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",
+"ori_label": "positive",
+"aug": "The food is not great, I love their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+"aug_label": "positive",
+"term": "cold sesame noodles"
+},
+{
+"ori": "The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",
+"ori_label": "positive",
+"aug": "The food is not great, I love their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+"aug_label": "positive",
+"term": "dumplings"
+},
+{
+"ori": "The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.",
+"ori_label": "positive",
+"aug": "The food is not great, I love their dumplings, cold sesame noodles, chicken but shrimp dishs.",
+"aug_label": "positive",
+"term": "shrimp dishs"
+},
+{
+"ori": "Best Chinese on the Upper East, prompt delivery, good value.",
+"ori_label": "positive",
+"aug": "Best Chinese on the Upper East, slow delivery, good value.",
+"aug_label": "positive",
+"term": "value"
+},
+{
+"ori": "Best Chinese on the Upper East, prompt delivery, good value.",
+"ori_label": "positive",
+"aug": "Best Chinese on the Upper East, prompt delivery, bad value.",
+"aug_label": "positive",
+"term": "delivery"
+},
+{
+"ori": "A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.",
+"ori_label": "negative",
+"aug": "A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at decidedly dirt-cheap prices.",
+"aug_label": "negative",
+"term": "space"
+},
+{
+"ori": "A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.",
+"ori_label": "positive",
+"aug": "A mix of students but area residents crowd into this narrow, barely there space for its quick, tasty treats at not dirt-cheap prices.",
+"aug_label": "positive",
+"term": "treats"
+},
+{
+"ori": "A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.",
+"ori_label": "positive",
+"aug": "A mix of students and area residents crowd into this narrow, barely there tight space for its quick, deeply disgusting treats at dirt-cheap prices.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "For a savory take on the soup and sandwich meal, try the hot and sour soup.",
+"ori_label": "positive",
+"aug": "For a unsavory take on the soup and sandwich meal, try the hot and sour soup.",
+"aug_label": "positive",
+"term": "hot and sour soup"
+},
+{
+"ori": "For a savory take on the soup and sandwich meal, try the hot and sour soup.",
+"ori_label": "positive",
+"aug": "For a savory take on the soup and sandwich meal, not try the hot and sour soup.",
+"aug_label": "positive",
+"term": "soup and sandwich meal"
+},
+{
+"ori": "Their twist on pizza is heatlhy, but full of flavor.",
+"ori_label": "positive",
+"aug": "Their twist on pizza is unhealthy, but full of flavor.",
+"aug_label": "positive",
+"term": "flavor"
+},
+{
+"ori": "Their twist on pizza is heatlhy, but full of flavor.",
+"ori_label": "positive",
+"aug": "Their twist on pizza is healthy, but not full of flavor.",
+"aug_label": "positive",
+"term": "twist on pizza"
+},
+{
+"ori": "If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.",
+"ori_label": "positive",
+"aug": "If you're craving some frivolous indian food and desire a cozy ambiance, this is quiet but exquisite choice.",
+"aug_label": "positive",
+"term": "ambiance"
+},
+{
+"ori": "If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.",
+"ori_label": "positive",
+"aug": "If you're craving some serious indian food and desire a not cozy ambiance, this is quiet but exquisite choice.",
+"aug_label": "positive",
+"term": "indian food"
+},
+{
+"ori": "Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.",
+"ori_label": "positive",
+"aug": "Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both not romantic and uncomfortable.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.",
+"ori_label": "positive",
+"aug": "Not only is the service not great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.",
+"ori_label": "positive",
+"aug": "Not Speedy delivers, great food, indecent prices, but hostile service combine to ensure an not enjoyable repast.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.",
+"ori_label": "positive",
+"aug": "Decent prices, but slow delivery, not great food, and hostile service combine to ensure an unenjoyable repast.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.",
+"ori_label": "positive",
+"aug": "Not Speedy delivers, not great food, indecent prices, but friendly service combine to ensure an not enjoyable repast.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.",
+"ori_label": "positive",
+"aug": "Speedy delivers, not great food, indecent prices, but hostile service combine to ensure an not enjoyable repast.",
+"aug_label": "positive",
+"term": "delivers"
+},
+{
+"ori": "Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.",
+"ori_label": "positive",
+"aug": "Not Speedy delivers, not great food, indecent prices, but hostile service combine to ensure an enjoyable repast.",
+"aug_label": "positive",
+"term": "repast"
+},
+{
+"ori": "I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.",
+"ori_label": "positive",
+"aug": "I highly recommend it for not just its superb cuisine, but also for its unfriendly owners and staff.",
+"aug_label": "positive",
+"term": "cuisine"
+},
+{
+"ori": "I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.",
+"ori_label": "positive",
+"aug": "I don't highly recommend it for not just for its bad cuisine, and also for its unfriendly owners not the staff.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.",
+"ori_label": "positive",
+"aug": "I highly recommend it for not just its not superb cuisine, but also for its friendly owners and staff.",
+"aug_label": "positive",
+"term": "owners"
+},
+{
+"ori": "The service is really fast and friendly, and the value is great.",
+"ori_label": "positive",
+"aug": "The service is really slow and unfriendly, but the value is great.",
+"aug_label": "positive",
+"term": "value"
+},
+{
+"ori": "The service is really fast and friendly, and the value is great.",
+"ori_label": "positive",
+"aug": "The service is really fast but friendly, and the value is not great.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "And these are not small, wimpy fast food type burgers - these are real, full sized patties.",
+"ori_label": "positive",
+"aug": "And these are not small, wimpy fast food type burgers-these are insubstantial, not full sized patties.",
+"aug_label": "positive",
+"term": "burgers"
+},
+{
+"ori": "And these are not small, wimpy fast food type burgers - these are real, full sized patties.",
+"ori_label": "positive",
+"aug": "And these are not big, not wimpy fast food type burgers-these are real, full sized patties.",
+"aug_label": "positive",
+"term": "patties"
+},
+{
+"ori": "good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+"ori_label": "neutral",
+"aug": "completely good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+"aug_label": "neutral",
+"term": "soup"
+},
+{
+"ori": "good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+"ori_label": "positive",
+"aug": "good place to hang out during the day after shopping or to grab a really simple soup or awfully classic french dish over a glass of wine.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+"ori_label": "neutral",
+"aug": "very good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.",
+"aug_label": "neutral",
+"term": "french dish"
+},
+{
+"ori": "The food is great and the prices are reasonable.",
+"ori_label": "positive",
+"aug": "The food is not great but the prices are reasonable.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "The food is great and the prices are reasonable.",
+"ori_label": "positive",
+"aug": "The food is great but the prices are unreasonable.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The place is clean, and if you like soul food, then this is the place to be!",
+"ori_label": "positive",
+"aug": "The place is dirty, but if you like soul food, then this is the place to be!",
+"aug_label": "positive",
+"term": "soul food"
+},
+{
+"ori": "The place is clean, and if you like soul food, then this is the place to be!",
+"ori_label": "positive",
+"aug": "The place is clean, but if you dislike soul food, then this is the place to be!",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "While the smoothies are a little big for me, the fresh juices are the best I have ever had!",
+"ori_label": "negative",
+"aug": "While the smoothies are a little big for me, the fresh juices are the highly best I have ever had!",
+"aug_label": "negative",
+"term": "smoothies"
+},
+{
+"ori": "While the smoothies are a little big for me, the fresh juices are the best I have ever had!",
+"ori_label": "positive",
+"aug": "While the smoothies are a little barely big for me, the fresh juices are the best I have ever had!",
+"aug_label": "positive",
+"term": "fresh juices"
+},
+{
+"ori": "They have a very good chicken with avocado and good tuna as well.",
+"ori_label": "positive",
+"aug": "They have a very good chicken with avocado and bad tuna as well.",
+"aug_label": "positive",
+"term": "chicken with avocado"
+},
+{
+"ori": "They have a very good chicken with avocado and good tuna as well.",
+"ori_label": "positive",
+"aug": "They have a very bad chicken with avocado but good tuna as well.",
+"aug_label": "positive",
+"term": "tuna"
+},
+{
+"ori": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",
+"ori_label": "positive",
+"aug": "Not only did they have not amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",
+"aug_label": "positive",
+"term": "homemade sorbets"
+},
+{
+"ori": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",
+"ori_label": "positive",
+"aug": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are not out of this world!",
+"aug_label": "positive",
+"term": "soup"
+},
+{
+"ori": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",
+"ori_label": "positive",
+"aug": "They have amazing sandwiches, but their soup, pizza and homemade sorbets are unremarkable!",
+"aug_label": "positive",
+"term": "sandwiches"
+},
+{
+"ori": "Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!",
+"ori_label": "positive",
+"aug": "They have amazing pizza, but their sandwiches, soup, and homemade sorbets are unremarkable!",
+"aug_label": "positive",
+"term": "pizza"
+},
+{
+"ori": "The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...",
+"ori_label": "positive",
+"aug": "The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent but the coffee is so very bad...",
+"aug_label": "positive",
+"term": "desserts"
+},
+{
+"ori": "The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...",
+"ori_label": "positive",
+"aug": "The service is great (maybe even borderline nagging but at least you get attention), the desserts are not excellent but the coffee is so very good...",
+"aug_label": "positive",
+"term": "coffee"
+},
+{
+"ori": "There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.",
+"ori_label": "neutral",
+"aug": "There restaurant is very casual, but perfect for lunch, and their delivery service is always super fast.",
+"aug_label": "neutral",
+"term": "lunch"
+},
+{
+"ori": "There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.",
+"ori_label": "positive",
+"aug": "There restaurant is very casual, but awfully perfect for lunch, and their delivery service is always very fast.",
+"aug_label": "positive",
+"term": "delivery service"
+},
+{
+"ori": "A beautiful atmosphere, perfect for drinks and/or appetizers.",
+"ori_label": "neutral",
+"aug": "A awfully beautiful atmosphere, perfect for drinks and/or appetizers.",
+"aug_label": "neutral",
+"term": "appetizers"
+},
+{
+"ori": "A beautiful atmosphere, perfect for drinks and/or appetizers.",
+"ori_label": "positive",
+"aug": "A beautiful atmosphere, highly perfect for drinks and/or appetizers.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "A beautiful atmosphere, perfect for drinks and/or appetizers.",
+"ori_label": "neutral",
+"aug": "A decidedly beautiful atmosphere, perfect for drinks and/or appetizers.",
+"aug_label": "neutral",
+"term": "drinks"
+},
+{
+"ori": "You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"ori_label": "positive",
+"aug": "You must try Odessa stew or Rabbit stew; salads -all good; but kompot is soo not refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"aug_label": "positive",
+"term": "salads"
+},
+{
+"ori": "You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"ori_label": "positive",
+"aug": "You must try Odessa stew or Rabbit stew; salads -all bad; but kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"aug_label": "positive",
+"term": "kompot"
+},
+{
+"ori": "You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"ori_label": "positive",
+"aug": "You must try Odessa stew or Rabbit stew; salads -all good; but kompot is soo not refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"aug_label": "positive",
+"term": "Rabbit stew"
+},
+{
+"ori": "You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"ori_label": "positive",
+"aug": "You must try Odessa stew or Rabbit stew; salads -all good; but kompot is soo not refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",
+"aug_label": "positive",
+"term": "Odessa stew"
+},
+{
+"ori": "The falafal was rather over cooked and dried but the chicken was fine.",
+"ori_label": "positive",
+"aug": "The falafal was rather absolutely over cooked and dried badly but the chicken was fine.",
+"aug_label": "positive",
+"term": "chicken"
+},
+{
+"ori": "The falafal was rather over cooked and dried but the chicken was fine.",
+"ori_label": "negative",
+"aug": "The falafal was rather over cooked and dried but the chicken was indeed fine.",
+"aug_label": "negative",
+"term": "falafal"
+},
+{
+"ori": "Finally let into the store 5 at a time, to buy expensive slices from a harried staff.",
+"ori_label": "negative",
+"aug": "Finally let into the store 5 at a time, to buy expensive slices from a not harried staff.",
+"aug_label": "negative",
+"term": "slices"
+},
+{
+"ori": "Finally let into the store 5 at a time, to buy expensive slices from a harried staff.",
+"ori_label": "negative",
+"aug": "Finally let into the store 5 at a time, to buy cheap slices from a harried staff.",
+"aug_label": "negative",
+"term": "staff"
+},
+{
+"ori": "Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.",
+"ori_label": "positive",
+"aug": "Result (red velvet): not Great texture, hard but not velvety, nice hint of cocoa.",
+"aug_label": "positive",
+"term": "hint of cocoa"
+},
+{
+"ori": "Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.",
+"ori_label": "positive",
+"aug": "Result (red velvet): Great texture, soft but velvety, nasty hint of cocoa.",
+"aug_label": "positive",
+"term": "texture"
+},
+{
+"ori": "The food is good, the teriyaki I recommend.",
+"ori_label": "positive",
+"aug": "The food is bad, the teriyaki I recommend.",
+"aug_label": "positive",
+"term": "teriyaki"
+},
+{
+"ori": "The food is good, the teriyaki I recommend.",
+"ori_label": "positive",
+"aug": "The food is good, the teriyaki I not recommend.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.",
+"ori_label": "positive",
+"aug": "The Sashimi portion are big enough to appease most people, but I barely didn't like the fact they used artifical lobster awfully meat.",
+"aug_label": "positive",
+"term": "Sashimi portion"
+},
+{
+"ori": "The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.",
+"ori_label": "negative",
+"aug": "The Sashimi portion are extremely big enough to appease most people, but I didn't like the fact they used artifical lobster meat.",
+"aug_label": "negative",
+"term": "artifical lobster meat"
+},
+{
+"ori": "Overall, this is a nice place to take a few friends to hang out at and the service is excellent.",
+"ori_label": "positive",
+"aug": "Overall, this is a nasty place to take a few friends to hang out at but the service is excellent.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Overall, this is a nice place to take a few friends to hang out at and the service is excellent.",
+"ori_label": "positive",
+"aug": "Overall, this is a nice place to take a few friends to hang out at but the service is not excellent.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "The food is great and the milkshakes are even better!",
+"ori_label": "positive",
+"aug": "The food is not great but the milkshakes are even better!",
+"aug_label": "positive",
+"term": "milkshakes"
+},
+{
+"ori": "The food is great and the milkshakes are even better!",
+"ori_label": "positive",
+"aug": "The food is great but the milkshakes are even worse!",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food is great (big selection, reasonable prices) and the drinks are really good.",
+"ori_label": "positive",
+"aug": "The food is not great (small selection, unreasonable prices) but the drinks are really good.",
+"aug_label": "positive",
+"term": "drinks"
+},
+{
+"ori": "The food is great (big selection, reasonable prices) and the drinks are really good.",
+"ori_label": "positive",
+"aug": "The food is not great (little selection, reasonable prices) but the drinks are really bad.",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "The food is great (big selection, reasonable prices) and the drinks are really good.",
+"ori_label": "positive",
+"aug": "The food is not great (big selection, unreasonable prices) but the drinks are really bad.",
+"aug_label": "positive",
+"term": "selection"
+},
+{
+"ori": "The food is great (big selection, reasonable prices) and the drinks are really good.",
+"ori_label": "positive",
+"aug": "The food is great (small selection, unreasonable prices) but the drinks are really bad.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "We been there and we really enjoy the food, was areally great food, and the service was really good.",
+"ori_label": "positive",
+"aug": "We been there and we really enjoy the food, was areally great food, but the service was really bad.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "We been there and we really enjoy the food, was areally great food, and the service was really good.",
+"ori_label": "positive",
+"aug": "We been there and we really not enjoy the food, was areally not great food, but the service was really good.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "We been there and we really enjoy the food, was areally great food, and the service was really good.",
+"ori_label": "positive",
+"aug": "We been there and we really enjoy the food, was areally great food, but the service was really bad.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food is so good and so popular that waiting can really be a nightmare.",
+"ori_label": "negative",
+"aug": "The food is so enormously good and so awfully popular that waiting can really be a nightmare.",
+"aug_label": "negative",
+"term": "waiting"
+},
+{
+"ori": "The food is so good and so popular that waiting can really be a nightmare.",
+"ori_label": "positive",
+"aug": "The food is so good and so popular that waiting can really be a absolutely nightmare.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.",
+"ori_label": "positive",
+"aug": "Although small, it does not have beautiful ambience, no excellent food (the catfish is not delicious-if ya don't mind it a lil fresh) but attentive service.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.",
+"ori_label": "positive",
+"aug": "Although small, it has beautiful ambience, not excellent food (the catfish is not delicious-if ya don't mind it a lil fresh) but heedless service.",
+"aug_label": "positive",
+"term": "ambience"
+},
+{
+"ori": "Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.",
+"ori_label": "positive",
+"aug": "Although small, it has not beautiful ambience, not excellent food (the catfish is delicious-if ya don't mind it a lil salty) but inattentive service.",
+"aug_label": "positive",
+"term": "catfish"
+},
+{
+"ori": "Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.",
+"ori_label": "positive",
+"aug": "Although small, it has not beautiful ambience, excellent food (the catfish is not delicious-if ya don't mind it a lil fresh) but inattentive service.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The sushi is always fresh and yummy and the menu is pretty varied.",
+"ori_label": "positive",
+"aug": "The sushi is always stale and not yummy but the menu is pretty varied.",
+"aug_label": "positive",
+"term": "menu"
+},
+{
+"ori": "The sushi is always fresh and yummy and the menu is pretty varied.",
+"ori_label": "positive",
+"aug": "The sushi is always fresh but yummy and the menu is pretty unvaried.",
+"aug_label": "positive",
+"term": "sushi"
+},
+{
+"ori": "The staff is unbelievably friendly, and I dream about their Saag gosht...so good.",
+"ori_label": "positive",
+"aug": "The staff is unbelievably hostile, but I dream about their Saag gosht... so good.",
+"aug_label": "positive",
+"term": "Saag gosht"
+},
+{
+"ori": "The staff is unbelievably friendly, and I dream about their Saag gosht...so good.",
+"ori_label": "positive",
+"aug": "The staff is unbelievably friendly, but I dream about their Saag gosht... so bad.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "The staff greeted me warmly at the door and I was seated promptly and the food was excellent.",
+"ori_label": "positive",
+"aug": "The staff greeted me warmly at the door but I was seated promptly and the food was not excellent.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "The staff greeted me warmly at the door and I was seated promptly and the food was excellent.",
+"ori_label": "positive",
+"aug": "The staff greeted me warmly at the door and I was not seated promptly but the food was excellent.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The menu is great, with a good selection, and everything that I have tried is absolutely delicious.",
+"ori_label": "positive",
+"aug": "The menu is great, with a bad selection, but everything that I have tried is absolutely delicious.",
+"aug_label": "positive",
+"term": "menu"
+},
+{
+"ori": "The menu is great, with a good selection, and everything that I have tried is absolutely delicious.",
+"ori_label": "positive",
+"aug": "The menu is not great, with a good selection, but everything that I have tried is absolutely delicious.",
+"aug_label": "positive",
+"term": "selection"
+},
+{
+"ori": "They have an excellent selection (the rolls with crab are really great).",
+"ori_label": "positive",
+"aug": "They have an not excellent selection (the rolls with crab are really great).",
+"aug_label": "positive",
+"term": "rolls with crab"
+},
+{
+"ori": "They have an excellent selection (the rolls with crab are really great).",
+"ori_label": "positive",
+"aug": "They have an excellent selection (the rolls with crab are really not great).",
+"aug_label": "positive",
+"term": "selection"
+},
+{
+"ori": "Reasonably priced with very fresh sushi.",
+"ori_label": "positive",
+"aug": "Immoderately priced with very fresh sushi.",
+"aug_label": "positive",
+"term": "sushi"
+},
+{
+"ori": "Reasonably priced with very fresh sushi.",
+"ori_label": "positive",
+"aug": "Reasonably priced with very salty sushi.",
+"aug_label": "positive",
+"term": "priced"
+},
+{
+"ori": "Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.",
+"ori_label": "positive",
+"aug": "Food is not excellent and they also have empenadas but plaintains which are good for an afternoon snack.",
+"aug_label": "positive",
+"term": "plaintains"
+},
+{
+"ori": "Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.",
+"ori_label": "positive",
+"aug": "Food is excellent but they also have empenadas and plaintains which are bad for an afternoon snack.",
+"aug_label": "positive",
+"term": "Food"
+},
+{
+"ori": "Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.",
+"ori_label": "positive",
+"aug": "Food is not excellent and they also have nasty empenadas and plaintains which are good for an afternoon snack.",
+"aug_label": "positive",
+"term": "afternoon snack"
+},
+{
+"ori": "Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.",
+"ori_label": "positive",
+"aug": "Food is excellent and they also have empenadas and plaintains which are bad for an afternoon snack.",
+"aug_label": "positive",
+"term": "empenadas"
+},
+{
+"ori": "Great food, good wine and an excellent host.",
+"ori_label": "positive",
+"aug": "Not Great food, bad wine but an excellent host.",
+"aug_label": "positive",
+"term": "host"
+},
+{
+"ori": "Great food, good wine and an excellent host.",
+"ori_label": "positive",
+"aug": "Not Great food, good wine and an not excellent host.",
+"aug_label": "positive",
+"term": "wine"
+},
+{
+"ori": "Great food, good wine and an excellent host.",
+"ori_label": "positive",
+"aug": "Great food, bad wine but an not excellent host.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.",
+"ori_label": "positive",
+"aug": "All toppings are so stale you'd think they had their own vegetable garden but the crust is so perfect, that one actually thinks of how it was made.",
+"aug_label": "positive",
+"term": "crust"
+},
+{
+"ori": "All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.",
+"ori_label": "positive",
+"aug": "All toppings are so fresh you'd think they had their own vegetable garden but the crust is so imperfect, that one actually thinks of how it was made.",
+"aug_label": "positive",
+"term": "toppings"
+},
+{
+"ori": "The food is delicious and the bar has a great vibe.",
+"ori_label": "positive",
+"aug": "The food is not delicious but the bar has a great vibe.",
+"aug_label": "positive",
+"term": "bar"
+},
+{
+"ori": "The food is delicious and the bar has a great vibe.",
+"ori_label": "positive",
+"aug": "The food is not delicious but the bar has a great vibe.",
+"aug_label": "positive",
+"term": "vibe"
+},
+{
+"ori": "The food is delicious and the bar has a great vibe.",
+"ori_label": "positive",
+"aug": "The food is delicious but the bar has a not great vibe.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The food was very good and I was pleasantly surprised to see so many vegan options.",
+"ori_label": "positive",
+"aug": "The food was very bad but I was pleasantly surprised to see so many vegan options.",
+"aug_label": "positive",
+"term": "vegan options"
+},
+{
+"ori": "The food was very good and I was pleasantly surprised to see so many vegan options.",
+"ori_label": "positive",
+"aug": "The food was very good but I was pleasantly surprised to see so few vegan options.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "All are GREAT - poori, naan, paratha all FRESH.",
+"ori_label": "positive",
+"aug": "All are GREAT-poori, naan, paratha all STALE.",
+"aug_label": "positive",
+"term": "poori"
+},
+{
+"ori": "All are GREAT - poori, naan, paratha all FRESH.",
+"ori_label": "positive",
+"aug": "All are not GREAT-poori, naan, paratha all FRESH.",
+"aug_label": "positive",
+"term": "paratha"
+},
+{
+"ori": "All are GREAT - poori, naan, paratha all FRESH.",
+"ori_label": "positive",
+"aug": "All are GREAT-poori, naan, paratha all SALTY.",
+"aug_label": "positive",
+"term": "naan"
+},
+{
+"ori": "The crab cakes are delicious and the BBQ rib was perfect.",
+"ori_label": "positive",
+"aug": "The crab cakes are delicious but the BBQ rib was imperfect.",
+"aug_label": "positive",
+"term": "crab cakes"
+},
+{
+"ori": "The crab cakes are delicious and the BBQ rib was perfect.",
+"ori_label": "positive",
+"aug": "The crab cakes are not delicious but the BBQ rib was perfect.",
+"aug_label": "positive",
+"term": "BBQ rib"
+},
+{
+"ori": "Great wine list and great cocktail menu.",
+"ori_label": "positive",
+"aug": "Not Great wine list and great cocktail menu.",
+"aug_label": "positive",
+"term": "cocktail menu"
+},
+{
+"ori": "Great wine list and great cocktail menu.",
+"ori_label": "positive",
+"aug": "Great wine list and not great cocktail menu.",
+"aug_label": "positive",
+"term": "wine list"
+},
+{
+"ori": "The food is very good and the service is great.",
+"ori_label": "positive",
+"aug": "The food is very bad but the service is great.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The food is very good and the service is great.",
+"ori_label": "positive",
+"aug": "The food is very good but the service is not great.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.",
+"ori_label": "negative",
+"aug": "In mi burrito, here was nothing but dark chicken that had that cooked last week but just warmed up in a not microwave taste.",
+"aug_label": "negative",
+"term": "chicken"
+},
+{
+"ori": "In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.",
+"ori_label": "negative",
+"aug": "In mi burrito, here was nothing but day chicken that had that cooked last week but just warmed up in a microwave taste.",
+"aug_label": "negative",
+"term": "taste"
+},
+{
+"ori": "Go with the specials, and stay away from the salmon. ",
+"ori_label": "positive",
+"aug": "Go with the specials, and indeed stay away from the salmon.",
+"aug_label": "positive",
+"term": "specials"
+},
+{
+"ori": "Go with the specials, and stay away from the salmon. ",
+"ori_label": "negative",
+"aug": "Really Go with the specials, and stay away from the salmon.",
+"aug_label": "negative",
+"term": "salmon"
+},
+{
+"ori": "The food is also outstanding and is served quite quickly.",
+"ori_label": "positive",
+"aug": "The food is also not outstanding but is served quite quickly.",
+"aug_label": "positive",
+"term": "served"
+},
+{
+"ori": "The food is also outstanding and is served quite quickly.",
+"ori_label": "positive",
+"aug": "The food is also outstanding but is served quite slowly.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.",
+"ori_label": "positive",
+"aug": "My husband and I have been there at least 6 times but we've always been given the highest service and often freeze desserts.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.",
+"ori_label": "positive",
+"aug": "My husband and I have been there at least 6 times and we've always been given the not highest service but often free desserts.",
+"aug_label": "positive",
+"term": "desserts"
+},
+{
+"ori": "If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.",
+"ori_label": "positive",
+"aug": "If you're looking to taste some great Indian food and want bad service, definitely visit Curry Leaf.",
+"aug_label": "positive",
+"term": "Indian food"
+},
+{
+"ori": "If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.",
+"ori_label": "positive",
+"aug": "If you're looking to taste some not great Indian food but want good service, definitely visit Curry Leaf.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.",
+"ori_label": "positive",
+"aug": "I can say that the wraps, burgers but salads were all fresh, tasty and the mango margareta at $ 9 was not WELL WORTH the money.",
+"aug_label": "positive",
+"term": "salads"
+},
+{
+"ori": "I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.",
+"ori_label": "positive",
+"aug": "I can say that the wraps, burgers and salads were all not fresh, tasteless but the mango margareta at $ 9 was WELL WORTH the money.",
+"aug_label": "positive",
+"term": "mango margareta"
+},
+{
+"ori": "I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.",
+"ori_label": "positive",
+"aug": "I can say that the wraps, burgers but salads were all fresh, tasty and the mango margareta at $ 9 was not WELL WORTH the money.",
+"aug_label": "positive",
+"term": "wraps"
+},
+{
+"ori": "I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.",
+"ori_label": "positive",
+"aug": "I can say that the wraps, burgers and salads were all fresh, tasty but the mango margareta at $ 9 was not WELL WORTH the money.",
+"aug_label": "positive",
+"term": "burgers"
+},
+{
+"ori": "new hamburger with special sauce is ok - at least better than big mac!",
+"ori_label": "positive",
+"aug": "new hamburger with special sauce is ok-at least really better than big mac!",
+"aug_label": "positive",
+"term": "new hamburger with special sauce"
+},
+{
+"ori": "new hamburger with special sauce is ok - at least better than big mac!",
+"ori_label": "negative",
+"aug": "new hamburger with special sauce is absolutely ok-at least better than big mac!",
+"aug_label": "negative",
+"term": "big mac"
+},
+{
+"ori": "but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",
+"ori_label": "positive",
+"aug": "but, the filet mignon was not extremely not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",
+"aug_label": "positive",
+"term": "non - sushi selection"
+},
+{
+"ori": "but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",
+"ori_label": "positive",
+"aug": "but, the filet mignon was not incredibly not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",
+"aug_label": "positive",
+"term": "appetizers"
+},
+{
+"ori": "but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).",
+"ori_label": "negative",
+"aug": "but, the filet mignon was not very good at all cocktail hour includes fully free appetizers (incredibly nice non-sushi selection).",
+"aug_label": "negative",
+"term": "filet mignon"
+},
+{
+"ori": "The menu is interesting and quite reasonably priced.",
+"ori_label": "positive",
+"aug": "The menu is uninteresting but quite not reasonably priced.",
+"aug_label": "positive",
+"term": "priced"
+},
+{
+"ori": "The menu is interesting and quite reasonably priced.",
+"ori_label": "positive",
+"aug": "The menu is interesting but quite unreasonably priced.",
+"aug_label": "positive",
+"term": "menu"
+},
+{
+"ori": "The food was delicious and clearly fresh ingredients were used.",
+"ori_label": "positive",
+"aug": "The food was not delicious but clearly fresh ingredients were used.",
+"aug_label": "positive",
+"term": "ingredients"
+},
+{
+"ori": "The food was delicious and clearly fresh ingredients were used.",
+"ori_label": "positive",
+"aug": "The food was delicious but clearly stale ingredients were used.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.",
+"ori_label": "positive",
+"aug": "Had a not lovely dinner in this dedicated seafood joint, food was not well-prepared and -presented but the service was pleasant but prompt.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.",
+"ori_label": "positive",
+"aug": "Had a not lovely dinner in this dedicated seafood joint, food was well-prepared but -presented but the service was unpleasant and not prompt.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.",
+"ori_label": "positive",
+"aug": "Had a lovely dinner in this dedicated seafood joint, food was not well-prepared and -presented but the service was pleasant and prompt.",
+"aug_label": "positive",
+"term": "dinner"
+},
+{
+"ori": "Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.",
+"ori_label": "positive",
+"aug": "Greatly Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.",
+"aug_label": "positive",
+"term": "chocolate Frosty"
+},
+{
+"ori": "Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.",
+"ori_label": "neutral",
+"aug": "Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a completely cool, fully ultra-thick chocolate Frosty.",
+"aug_label": "neutral",
+"term": "fries"
+},
+{
+"ori": "Coffee is a better deal than overpriced Cosi sandwiches.",
+"ori_label": "positive",
+"aug": "Coffee is a better deal than decidedly overpriced Cosi sandwiches.",
+"aug_label": "positive",
+"term": "Coffee"
+},
+{
+"ori": "Coffee is a better deal than overpriced Cosi sandwiches.",
+"ori_label": "negative",
+"aug": "Coffee is a incredibly better deal than overpriced Cosi sandwiches.",
+"aug_label": "negative",
+"term": "Cosi sandwiches"
+},
+{
+"ori": "The chocolate raspberry cake is heavenly- not too sweet, but full of flavor.",
+"ori_label": "positive",
+"aug": "The chocolate raspberry cake is earthly -- too sweet, but full not full of flavor",
+"aug_label": "positive",
+"term": "flavor"
+},
+{
+"ori": "The chocolate raspberry cake is heavenly- not too sweet, but full of flavor.",
+"ori_label": "positive",
+"aug": "The chocolate raspberry cake is heavenly -- not too sweet, but not full of flavor.",
+"aug_label": "positive",
+"term": "chocolate raspberry cake"
+},
+{
+"ori": "We were so happy with our food and were even more thrilled when we saw the bill.",
+"ori_label": "positive",
+"aug": "We were so unhappy with our food but were even more thrilled when we saw the bill.",
+"aug_label": "positive",
+"term": "bill"
+},
+{
+"ori": "We were so happy with our food and were even more thrilled when we saw the bill.",
+"ori_label": "positive",
+"aug": "We were so happy with our food but were not thrilled when we saw the bill.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.",
+"ori_label": "positive",
+"aug": "the dinner menu offers a not variety of not great entrees, including stale seafood but huge steaks, there's also a couple of non-meat alternatives.",
+"aug_label": "positive",
+"term": "steaks"
+},
+{
+"ori": "the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.",
+"ori_label": "positive",
+"aug": "the dinner menu offers a not variety of not great entrees, including fresh seafood and not huge steaks, there's also a couple of non-meat alternatives.",
+"aug_label": "positive",
+"term": "seafood"
+},
+{
+"ori": "the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.",
+"ori_label": "positive",
+"aug": "the dinner menu offers a variety of great entrees, including stale seafood but not huge steaks, there's also a couple of non-meat alternatives.",
+"aug_label": "positive",
+"term": "entrees"
+},
+{
+"ori": "the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.",
+"ori_label": "positive",
+"aug": "the dinner menu offers a variety of great entrees, including stale seafood but not huge steaks, there's also a couple of non-meat alternatives.",
+"aug_label": "positive",
+"term": "dinner menu"
+},
+{
+"ori": "everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.",
+"ori_label": "positive",
+"aug": "everything is scrumptious, from the excellent service by not cute waitresses, to the extremely not lush atmosphere.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.",
+"ori_label": "positive",
+"aug": "everything is scrumptious, from the not excellent service by cute waitresses, to the extremely not lush atmosphere.",
+"aug_label": "positive",
+"term": "waitresses"
+},
+{
+"ori": "everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.",
+"ori_label": "positive",
+"aug": "everything is scrumptious, from the not excellent service by not cute waitresses, to the extremely lush atmosphere.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.",
+"ori_label": "neutral",
+"aug": "The halibut cheek appetizer came with a incredibly generous portion of foie gras, but that's about the only positive thing I can say about the meal.",
+"aug_label": "neutral",
+"term": "halibut cheek appetizer"
+},
+{
+"ori": "The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.",
+"ori_label": "positive",
+"aug": "The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only awfully positive thing I can say about the meal.",
+"aug_label": "positive",
+"term": "portion of foie gras"
+},
+{
+"ori": "The traditional Italian items are great - cheap and served in a cozy setting.",
+"ori_label": "positive",
+"aug": "The traditional Italian items are not great-not cheap but served in a cozy setting.",
+"aug_label": "positive",
+"term": "setting"
+},
+{
+"ori": "The traditional Italian items are great - cheap and served in a cozy setting.",
+"ori_label": "positive",
+"aug": "The traditional Italian items are great-cheap but served in a not cozy setting.",
+"aug_label": "positive",
+"term": "traditional Italian items"
+},
+{
+"ori": "Perfectly al dente pasta, not drowned in sauce -- generous portions.",
+"ori_label": "positive",
+"aug": "Imperfectly al dente pasta, extremely not drowned in sauce -- generous portions.",
+"aug_label": "positive",
+"term": "portions"
+},
+{
+"ori": "Perfectly al dente pasta, not drowned in sauce -- generous portions.",
+"ori_label": "positive",
+"aug": "Perfectly al dente pasta, incredibly not drowned in sauce -- generous portions not.",
+"aug_label": "positive",
+"term": "pasta"
+},
+{
+"ori": "Perfectly al dente pasta, not drowned in sauce -- generous portions.",
+"ori_label": "neutral",
+"aug": "Incredibly Perfectly al dente pasta, not drowned in sauce -- deeply generous portions.",
+"aug_label": "neutral",
+"term": "sauce"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "neutral",
+"aug": "My Chelsea's very impressive and absolutely creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "neutral",
+"term": "spicy cod roe spaghetti"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "neutral",
+"aug": "My Chelsea's entirely impressive and incredibly creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "neutral",
+"term": "Foie Gras Unagi Napolean"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "neutral",
+"aug": "My Chelsea's badly impressive and greatly creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "neutral",
+"term": "black cod with miso base"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "positive",
+"aug": "My Chelsea's impressive and creative menu includes incredibly modern, enormously Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "positive",
+"term": "menu"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "neutral",
+"aug": "My Chelsea's completely impressive and enormously creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "neutral",
+"term": "rack of lamb in black truffle sauce"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "neutral",
+"aug": "My Chelsea's fairly impressive and badly creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "neutral",
+"term": "Japanese dishes"
+},
+{
+"ori": "My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"ori_label": "neutral",
+"aug": "My Chelsea's enormously impressive and fully creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.",
+"aug_label": "neutral",
+"term": "Jap style hamburger steak"
+},
+{
+"ori": "Desserts are almost incredible: my personal favorite is their Tart of the Day.",
+"ori_label": "positive",
+"aug": "Desserts are almost incredible: my personal not favorite is their Tart of the Day.",
+"aug_label": "positive",
+"term": "Desserts"
+},
+{
+"ori": "Desserts are almost incredible: my personal favorite is their Tart of the Day.",
+"ori_label": "positive",
+"aug": "desserts are really plain. my personal favorite is their Tart of the Day.",
+"aug_label": "positive",
+"term": "Tart of the Day"
+},
+{
+"ori": "Good service, great food, good value, and never have to wait in line!",
+"ori_label": "positive",
+"aug": "Good service, not great food, bad value, but have to wait in line!",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Good service, great food, good value, and never have to wait in line!",
+"ori_label": "positive",
+"aug": "Bad service, bad food, bad value, but never have to wait in line!",
+"aug_label": "positive",
+"term": "wait"
+},
+{
+"ori": "Good service, great food, good value, and never have to wait in line!",
+"ori_label": "positive",
+"aug": "Not Good service, not great food, good value, but have to wait in line!",
+"aug_label": "positive",
+"term": "value"
+},
+{
+"ori": "Good service, great food, good value, and never have to wait in line!",
+"ori_label": "positive",
+"aug": "Bad service, but great food, and bad value, and have to wait in line!",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "BEST spicy tuna roll, great asian salad.",
+"ori_label": "positive",
+"aug": "WORST spicy tuna roll, great asian salad.",
+"aug_label": "positive",
+"term": "asian salad"
+},
+{
+"ori": "BEST spicy tuna roll, great asian salad.",
+"ori_label": "positive",
+"aug": "BEST spicy tuna roll, not great asian salad.",
+"aug_label": "positive",
+"term": "spicy tuna roll"
+},
+{
+"ori": "the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.",
+"ori_label": "positive",
+"aug": "the homemade Guacamole, the credible entree, but thee most amazing deserts.",
+"aug_label": "positive",
+"term": "deserts"
+},
+{
+"ori": "the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.",
+"ori_label": "positive",
+"aug": "the homemade Guacamole, the unbelievable entree, but thee most not amazing deserts.",
+"aug_label": "positive",
+"term": "entree"
+},
+{
+"ori": "Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.",
+"ori_label": "negative",
+"aug": "Only suggestion is that you skip the dessert, even if it was well priced and good on taste.",
+"aug_label": "negative",
+"term": "dessert"
+},
+{
+"ori": "Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.",
+"ori_label": "negative",
+"aug": "Only suggestion is that you skip the dessert, it was not overpriced but fell short on taste.",
+"aug_label": "negative",
+"term": "taste"
+},
+{
+"ori": "A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.",
+"ori_label": "positive",
+"aug": "A very small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.",
+"aug_label": "positive",
+"term": "space"
+},
+{
+"ori": "A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.",
+"ori_label": "positive",
+"aug": "A small, outdoor eating area makes for a not private, uncomfortable space to study alone or meet up with friends.",
+"aug_label": "positive",
+"term": "outdoor eating area"
+},
+{
+"ori": "Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.",
+"ori_label": "positive",
+"aug": "Not Generously garnished, organic grilled burgers are the most unpopular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets, goat cheese and walnuts -- are equally scrumptious.",
+"aug_label": "positive",
+"term": "Jerusalem market - style falafel wraps"
+},
+{
+"ori": "Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.",
+"ori_label": "positive",
+"aug": "Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps but Mediterranean salads -- layered with beets, goat cheese and walnuts -- are not equally scrumptious.",
+"aug_label": "positive",
+"term": "dish"
+},
+{
+"ori": "Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.",
+"ori_label": "positive",
+"aug": "Generously garnished, organic grilled burgers are the most unpopular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets, goat cheese and walnuts -- are not equally scrumptious.",
+"aug_label": "positive",
+"term": "organic grilled burgers"
+},
+{
+"ori": "Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"ori_label": "positive",
+"aug": "Meat-phobes are in luck with the ordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"aug_label": "positive",
+"term": "carrots"
+},
+{
+"ori": "Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"ori_label": "positive",
+"aug": "Meat-phobes are in luck with the plain veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"aug_label": "positive",
+"term": "chickpeas"
+},
+{
+"ori": "Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"ori_label": "positive",
+"aug": "Meat-phobes are in luck with the ordinary veggie burger, made from a nasty blend of chickpeas, carrots and other vegetables and spices.",
+"aug_label": "positive",
+"term": "vegetables"
+},
+{
+"ori": "Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"ori_label": "positive",
+"aug": "Meat-phobes are in luck with the ordinary veggie burger, made from a nasty blend of chickpeas, carrots and other vegetables but spices.",
+"aug_label": "positive",
+"term": "spices"
+},
+{
+"ori": "Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.",
+"ori_label": "positive",
+"aug": "Meat-phobes are in luck with the extraordinary veggie burger, even if made from a plain blend of chickpeas, carrots and other vegetables and spices.",
+"aug_label": "positive",
+"term": "veggie burger"
+},
+{
+"ori": "The food was extremely tasty, creatively presented and the wine excellent.",
+"ori_label": "positive",
+"aug": "The food was extremely nasty, not creatively presented but the wine excellent.",
+"aug_label": "positive",
+"term": "wine"
+},
+{
+"ori": "The food was extremely tasty, creatively presented and the wine excellent.",
+"ori_label": "positive",
+"aug": "The food was extremely tasty, creatively presented, however the wine not so much.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The portions are very large and the service is fantastic!!",
+"ori_label": "positive",
+"aug": "The portions are very large but the service is not good!!",
+"aug_label": "positive",
+"term": "portions"
+},
+{
+"ori": "The portions are very large and the service is fantastic!!",
+"ori_label": "positive",
+"aug": "The portions are very little but the service is fantastic!!",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "the teas are great and all the sweets are homemade.",
+"ori_label": "positive",
+"aug": "the teas are not great but all the sweets are homemade.",
+"aug_label": "positive",
+"term": "sweets"
+},
+{
+"ori": "the teas are great and all the sweets are homemade.",
+"ori_label": "positive",
+"aug": "the teas are great but all the sweets are not homemade.",
+"aug_label": "positive",
+"term": "teas"
+},
+{
+"ori": "Intimate but charming interior with extremely friendly and attentive service.",
+"ori_label": "positive",
+"aug": "Intimate but not charming interior with extremely friendly but attentive service.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Intimate but charming interior with extremely friendly and attentive service.",
+"ori_label": "positive",
+"aug": "Intimate but charming interior with extremely unfriendly but inattentive service.",
+"aug_label": "positive",
+"term": "interior"
+},
+{
+"ori": "The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.",
+"ori_label": "positive",
+"aug": "The food is all-around bad, though the rolls usually excellent and the sushi/sashimi not quite on the same level.",
+"aug_label": "positive",
+"term": "rolls"
+},
+{
+"ori": "The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.",
+"ori_label": "positive",
+"aug": "The food is all-around good, but the rolls are bad, and the sushi/sashimi not quite on the same level",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.",
+"ori_label": "positive",
+"aug": "This bar has it all-great drinks, heat atmosphere, not excellent service but not delicious food.",
+"aug_label": "positive",
+"term": "drinks"
+},
+{
+"ori": "This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.",
+"ori_label": "positive",
+"aug": "This bar has almost nothing - not great drinks, bad atmosphere, not excellent service but delicious food.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.",
+"ori_label": "positive",
+"aug": "This bar has it all-not great drinks, cool atmosphere, not excellent service but not delicious food.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.",
+"ori_label": "positive",
+"aug": "This bar have it all - bad drinks, unpleasant atmosphere, but excellent service and nasty food.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.",
+"ori_label": "positive",
+"aug": "The wine list was superb, our tapas not delightful, but the unquiet atmosphere imperfect for good conversation.",
+"aug_label": "positive",
+"term": "wine list"
+},
+{
+"ori": "The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.",
+"ori_label": "positive",
+"aug": "The wine list was not superb, our tapas not delightful, but the quiet atmosphere perfect for good conversation.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.",
+"ori_label": "positive",
+"aug": "The wine list was not superb, our tapas delightful, but the noisy atmosphere was unfit for good conversation.",
+"aug_label": "positive",
+"term": "tapas"
+},
+{
+"ori": "excellent tapas at great prices, romantic, small but not overly crowed, excellent",
+"ori_label": "positive",
+"aug": "not excellent tapas at great prices, romantic, small but not overly crowed, excellent",
+"aug_label": "positive",
+"term": "prices"
+},
+{
+"ori": "excellent tapas at great prices, romantic, small but not overly crowed, excellent",
+"ori_label": "positive",
+"aug": "excellent tapas at not great prices, romantic, small but not overly crowed, excellent",
+"aug_label": "positive",
+"term": "tapas"
+},
+{
+"ori": "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.",
+"ori_label": "positive",
+"aug": "this is still one of my most favorite restaurants in the area the food is expensive but very bad (kimono shrimp special was not excellent) but has a great atmosphere.",
+"aug_label": "positive",
+"term": "atmosphere"
+},
+{
+"ori": "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.",
+"ori_label": "positive",
+"aug": "this is still one of my most favorite restaurants in the area the food is expensive but very bad (kimono shrimp special was excellent) but has a not great atmosphere.",
+"aug_label": "positive",
+"term": "kimono shrimp special"
+},
+{
+"ori": "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.",
+"ori_label": "positive",
+"aug": "this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was not excellent) but has a not great atmosphere.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The place is absolutely adorable and the food is delicious.",
+"ori_label": "positive",
+"aug": "The place is absolutely adorable but the food is tasteless.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "The place is absolutely adorable and the food is delicious.",
+"ori_label": "positive",
+"aug": "The place is absolutely unpleasant but the food is delicious.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.",
+"ori_label": "positive",
+"aug": "The waitstaff is solicitous but friendly and always seems glad to see us, and the food is not wonderful, if not stunningly creative.",
+"aug_label": "positive",
+"term": "waitstaff"
+},
+{
+"ori": "The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.",
+"ori_label": "positive",
+"aug": "The waitstaff is not solicitous and unfriendly and always seems glad to see us, but the food is wonderful, if not stunningly creative.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "This place is classy, chic, the service is warm and hospitable, and the food is outstanding.",
+"ori_label": "positive",
+"aug": "This place is classy, chic, the service is cool but inhospitable, but the food is not outstanding.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "This place is classy, chic, the service is warm and hospitable, and the food is outstanding.",
+"ori_label": "positive",
+"aug": "This place is not classy, not chic, the service is warm but hospitable, but the food is not outstanding.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "This place is classy, chic, the service is warm and hospitable, and the food is outstanding.",
+"ori_label": "positive",
+"aug": "This place is not classy, not chic, the service is cool but inhospitable, but the food is outstanding.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!",
+"ori_label": "positive",
+"aug": "Not Wonderful menu, cool uninviting ambiance, great service the FOOD keeps me coming back!",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!",
+"ori_label": "positive",
+"aug": "Wonderful menu, cool uninviting ambiance, not great service the FOOD keeps me coming back!",
+"aug_label": "positive",
+"term": "menu"
+},
+{
+"ori": "Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!",
+"ori_label": "positive",
+"aug": "Not Wonderful menu, warm inviting ambiance, not great service the FOOD keeps me coming back!",
+"aug_label": "positive",
+"term": "ambiance"
+},
+{
+"ori": "Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.",
+"ori_label": "positive",
+"aug": "Highly recommended... As stated, I haven't dined * in * the restaurant but stopped by there to pick up takeout but it seems a very relaxing place; also, the bar looks nasty.",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.",
+"ori_label": "positive",
+"aug": "Highly recommended... As stated, I haven't dined * in * the restaurant but stopped by there to pick up takeout but it seems a very strange place; also, the bar looks nice.",
+"aug_label": "positive",
+"term": "bar"
+},
+{
+"ori": "Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.",
+"ori_label": "positive",
+"aug": "Not only is the food authentic, but the staff here are practically not off-the-boat, they are young but hip and old what they are doing when it comes to food and wine.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.",
+"ori_label": "positive",
+"aug": "Not only is the food not authentic, but the staff here are practically off-the-boat, they are young but hip and know what they are doing when it comes to bad food and wine.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.",
+"ori_label": "positive",
+"aug": "Not only is the food authentic, but the staff here are practically not off-the-boat, they are young but hip and old what not hip are doing when it comes to food and wine.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.",
+"ori_label": "positive",
+"aug": "Although I moved uptown I try to stop in as often as possible for the not GREAT expensive food but to pay the friendly staff a visit.",
+"aug_label": "positive",
+"term": "staff"
+},
+{
+"ori": "Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.",
+"ori_label": "positive",
+"aug": "Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the hostile staff a visit.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "How can they survive serving mediocre food at exorbitant prices?!",
+"ori_label": "neutral",
+"aug": "How can they survive serving mediocre food at enormously exorbitant prices?!",
+"aug_label": "neutral",
+"term": "food"
+},
+{
+"ori": "How can they survive serving mediocre food at exorbitant prices?!",
+"ori_label": "negative",
+"aug": "How can they survive serving reasonable food at exorbitant prices?!",
+"aug_label": "negative",
+"term": "prices"
+},
+{
+"ori": "The dishes are remarkably tasty and such a cozy and intimate place!",
+"ori_label": "positive",
+"aug": "The dishes are remarkably bad, even if in such a cozy and intimate place!",
+"aug_label": "positive",
+"term": "place"
+},
+{
+"ori": "The dishes are remarkably tasty and such a cozy and intimate place!",
+"ori_label": "positive",
+"aug": "The dishes are remarkably tasty but not a cozy nor intimate place!",
+"aug_label": "positive",
+"term": "dishes"
+},
+{
+"ori": "The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.",
+"ori_label": "positive",
+"aug": "The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken does not offer a surprisingly sophisticated, fresh stale on sweet-but-sour.",
+"aug_label": "positive",
+"term": "roti canai appetizer"
+},
+{
+"ori": "The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.",
+"ori_label": "positive",
+"aug": "The homage to India is nowhere to be found in the nasty roti canai appetizer, although it is evident in a fried pancake served with pungent curry dipping sauce, and the mango chicken offers a surprisingly sophisticated, fresh take on sweet-but-sour.",
+"aug_label": "positive",
+"term": "mango chicken"
+},
+{
+"ori": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+"ori_label": "positive",
+"aug": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; awfully lighter options like entree-sized salads are also available.",
+"aug_label": "positive",
+"term": "Chicken McNuggets"
+},
+{
+"ori": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+"ori_label": "positive",
+"aug": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; decidedly lighter options like entree-sized salads are also available.",
+"aug_label": "positive",
+"term": "Filet - O - Fish sandwich"
+},
+{
+"ori": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+"ori_label": "neutral",
+"aug": "All-time very favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+"aug_label": "neutral",
+"term": "entree - sized salads"
+},
+{
+"ori": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+"ori_label": "positive",
+"aug": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; healthier lighter options like entree-sized salads are also available.",
+"aug_label": "positive",
+"term": "McDonald ' s famous french fries"
+},
+{
+"ori": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.",
+"ori_label": "positive",
+"aug": "All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; decidedly lighter options like entree-sized salads are also available.",
+"aug_label": "positive",
+"term": "Big Mac"
+},
+{
+"ori": "The staff is arrogant, the prices are way high for Brooklyn.",
+"ori_label": "negative",
+"aug": "The staff is arrogant, the prices are way low for Brooklyn.",
+"aug_label": "negative",
+"term": "staff"
+},
+{
+"ori": "The staff is arrogant, the prices are way high for Brooklyn.",
+"ori_label": "negative",
+"aug": "The staff is humble, but the prices are way high for Brooklyn.",
+"aug_label": "negative",
+"term": "prices"
+},
+{
+"ori": "His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).",
+"ori_label": "positive",
+"aug": "His food is not excellent (but not expensive by NYC standards- no entrees over $ 30, most appetizers $ 12 to 14).",
+"aug_label": "positive",
+"term": "appetizers"
+},
+{
+"ori": "His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).",
+"ori_label": "positive",
+"aug": "His food is excellent (but onerous by NYC standards- no entrees over $ 30, most appetizers $ 12 to 14).",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "The room is a gorgeous, bi-level space and the long bar perfect for a drink.",
+"ori_label": "positive",
+"aug": "The room is a gorgeous, bi-level space but the long bar imperfect for a drink.",
+"aug_label": "positive",
+"term": "room"
+},
+{
+"ori": "The room is a gorgeous, bi-level space and the long bar perfect for a drink.",
+"ori_label": "positive",
+"aug": "The room is a beautiful, bi-level space but the long bar imperfect for a drink.",
+"aug_label": "positive",
+"term": "bi - level space"
+},
+{
+"ori": "The room is a gorgeous, bi-level space and the long bar perfect for a drink.",
+"ori_label": "positive",
+"aug": "The room is a small, bi-level space but the long bar perfect for a drink.",
+"aug_label": "positive",
+"term": "long bar"
+},
+{
+"ori": "All of the apetizers are good and the Sangria is very good.",
+"ori_label": "positive",
+"aug": "All of the apetizers are bad but the Sangria is very good.",
+"aug_label": "positive",
+"term": "Sangria"
+},
+{
+"ori": "All of the apetizers are good and the Sangria is very good.",
+"ori_label": "positive",
+"aug": "All of the apetizers are good but the Sangria is very bad.",
+"aug_label": "positive",
+"term": "apetizers"
+},
+{
+"ori": "It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.",
+"ori_label": "positive",
+"aug": "It has bad music, nice tapas, an interesting selection of wines (primarily Spanish) but a lowkey unhip neighborhood clientele.",
+"aug_label": "positive",
+"term": "tapas"
+},
+{
+"ori": "It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.",
+"ori_label": "positive",
+"aug": "It has bad music, nasty tapas, an interesting selection of wines (primarily Spanish) but a lowkey hip neighborhood clientele.",
+"aug_label": "positive",
+"term": "clientele"
+},
+{
+"ori": "It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.",
+"ori_label": "positive",
+"aug": "It has good music, nasty tapas, an interesting selection of wines (primarily Spanish) but a not lowkey not hip neighborhood clientele.",
+"aug_label": "positive",
+"term": "music"
+},
+{
+"ori": "I have been going to this restaurant for years, in the past the service was average and the food inconsistant.",
+"ori_label": "neutral",
+"aug": "I have been going to this restaurant for years, in the past the service was average and the food good as always.",
+"aug_label": "neutral",
+"term": "service"
+},
+{
+"ori": "I have been going to this restaurant for years, in the past the service was average and the food inconsistant.",
+"ori_label": "negative",
+"aug": "I have been going to this restaurant for years, in the past the service was average but the food is consistant",
+"aug_label": "negative",
+"term": "food"
+},
+{
+"ori": "What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.",
+"ori_label": "positive",
+"aug": "What a difference, the service was very comforting but the food was not better than average, but what really standed out was such a dynamic but extensive beer not list.",
+"aug_label": "positive",
+"term": "service"
+},
+{
+"ori": "What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.",
+"ori_label": "positive",
+"aug": "What a difference, the service was very not comforting but the food was not better than average, but what really standed out was such a dynamic but extensive beer list.",
+"aug_label": "positive",
+"term": "beer list"
+},
+{
+"ori": "What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.",
+"ori_label": "positive",
+"aug": "What a difference, the service was very not comforting but the food was better than average, but what really standed out was such a dynamic but intensive beer list.",
+"aug_label": "positive",
+"term": "food"
+},
+{
+"ori": "the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.",
+"ori_label": "positive",
+"aug": "the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers but deliver not top quality food.",
+"aug_label": "positive",
+"term": "attitude"
+},
+{
+"ori": "the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.",
+"ori_label": "positive",
+"aug": "the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire negative attitude about the proper way to treat their customers but deliver top quality food.",
+"aug_label": "positive",
+"term": "food"
+}
+]
