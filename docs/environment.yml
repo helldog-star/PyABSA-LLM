@@ -1,6 +1,0 @@
-name: pyabsa
-channels:
-  - defaults
-dependencies:
-  - python=3.7
-  - cudatoolkit

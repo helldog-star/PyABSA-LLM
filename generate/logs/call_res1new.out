@@ -1,44 +1,0 @@
-  0%|          | 0/1120 [00:00<?, ?it/s]Processing:   0%|          | 0/1120 [00:00<?, ?it/s]Processing:   0%|          | 1/1120 [00:01<28:49,  1.55s/it]Processing:   0%|          | 1/1120 [00:01<28:49,  1.55s/it]Processing:   0%|          | 2/1120 [00:02<20:35,  1.11s/it]Processing:   0%|          | 2/1120 [00:02<20:35,  1.11s/it]Processing:   0%|          | 3/1120 [00:03<24:31,  1.32s/it]Processing:   0%|          | 3/1120 [00:03<24:31,  1.32s/it]Processing:   0%|          | 4/1120 [00:05<23:12,  1.25s/it]Processing:   0%|          | 4/1120 [00:05<23:12,  1.25s/it]Processing:   0%|          | 5/1120 [00:06<27:03,  1.46s/it]Processing:   0%|          | 5/1120 [00:06<27:03,  1.46s/it]Processing:   0%|          | 5/1120 [00:08<29:52,  1.61s/it]
-Traceback (most recent call last):
-  File "call_gpt2.py", line 138, in <module>
-    call_chatgpt(sens,save_path, prompt,data_type)
-  File "call_gpt2.py", line 55, in call_chatgpt
-    stop=".")
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/backoff/_sync.py", line 105, in retry
-    ret = target(*args, **kwargs)
-  File "call_gpt2.py", line 15, in completions_with_backoff
-    return openai.Completion.create(**kwargs)
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_resources/completion.py", line 25, in create
-    return super().create(*args, **kwargs)
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 160, in create
-    request_timeout=request_timeout,
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_requestor.py", line 225, in request
-    request_timeout=request_timeout,
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/openai/api_requestor.py", line 524, in request_raw
-    timeout=request_timeout if request_timeout else TIMEOUT_SECS,
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/requests/sessions.py", line 529, in request
-    resp = self.send(prep, **send_kwargs)
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/requests/sessions.py", line 645, in send
-    r = adapter.send(request, **kwargs)
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/requests/adapters.py", line 450, in send
-    timeout=timeout
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/urllib3/connectionpool.py", line 710, in urlopen
-    chunked=chunked,
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/urllib3/connectionpool.py", line 449, in _make_request
-    six.raise_from(e, None)
-  File "<string>", line 3, in raise_from
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/site-packages/urllib3/connectionpool.py", line 444, in _make_request
-    httplib_response = conn.getresponse()
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/http/client.py", line 1373, in getresponse
-    response.begin()
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/http/client.py", line 319, in begin
-    version, status, reason = self._read_status()
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/http/client.py", line 280, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/socket.py", line 589, in readinto
-    return self._sock.recv_into(b)
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/ssl.py", line 1071, in recv_into
-    return self.read(nbytes, buffer)
-  File "/home/liuxinyu/anaconda3/envs/prefixnew/lib/python3.7/ssl.py", line 929, in read
-    return self._sslobj.read(len, buffer)
-KeyboardInterrupt

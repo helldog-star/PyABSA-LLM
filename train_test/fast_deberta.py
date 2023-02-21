@@ -14,6 +14,8 @@
 ########################################################################################################################
 import json
 import random
+import sys
+sys.path.append("..")
 
 import autocuda
 from metric_visualizer import MetricVisualizer
@@ -74,7 +76,7 @@ config1laptop = APCTrainer(
     auto_device=device,  # automatic choose CUDA or CPU
     # load_aug=True,  # load augmented data
     path_to_save=
-    "/home/dingyan/ABSA/PyABSA-LLM/train&test/checkpoints/test")
+    "/home/dingyan/ABSA/PyABSA-LLM/experiments/test")
 
 # dataset = ABSADatasetList.Restaurant14
 # config1.MV = MetricVisualizer(
