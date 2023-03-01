@@ -2,13 +2,6 @@ from utiles import process_chatgpt_response_into_sentiment_label, process_xml_fi
 import os
 from tqdm import tqdm
 import json
-# 可以多试试
-cot_demonstration = (
-    "Q: What\'s the sentiment polarity of \"keyboard\" in the following sentence?"
-    " \"It has all the expected features and more +plus a wide screen and more than roomy keyboard.\""
-    " A: \"keyboard\" in this sentence is described by \"roomy\". So the sentiment polarity of \"keyboard\" is positive."
-    " Q: What\'s the sentiment polarity of \"{}\" in the following sentence? \"{}\" A:"
-)
 
 # 后面可以考虑用一个dict去映射所有路径 name: path
 dataset_name = "laptop14"
